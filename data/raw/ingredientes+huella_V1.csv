@@ -1,0 +1,66 @@
+Data S2 Name;food.group;GHG Emissions (kg CO2eq, IPCC2013 incl CC feedbacks);Water Use (L)
+Wheat & Rye (Bread);Rice;1.57;647.5
+Maize (Meal);Bread;1.7;215.7
+Barley (Beer);Maize;1.18;17.1
+Oatmeal;Barley (Beer);2.48;482.4
+Rice;Oatmeal;4.45;2248.4
+Potatoes;Cassava;0.46;59.1
+Cassava;Beet Sugar;1.32;0
+Cane Sugar;Groundnuts;3.2;620.1
+Beet Sugar;Other Pulses;1.81;217.7
+Other Pulses;Cane Sugar;1.79;435.7
+Peas;Peas;0.98;396.6
+Nuts;Nuts;0.43;4133.8
+Groundnuts;Soymilk;3.23;1852.3
+Soymilk;Tofu;0.98;27.8
+Tofu;Soybean Oil;3.16;148.6
+Soybean Oil;Palm Oil;6.32;414.6
+Palm Oil;Sunflower Oil;7.32;6.4
+Sunflower Oil;Rapeseed Oil;3.6;1007.9
+Rapeseed Oil;Sunflower seeds;3.77;237.7
+Olive Oil;Olive Oil;5.42;2141.8
+Tomatoes;Tomatoes;2.09;369.8
+Onions & Leeks;Onions & Leeks;0.5;14.3
+Root Vegetables;Root Vegetables;0.43;28.4
+Brassicas;Brassicas;0.51;119.4
+Other Vegetables;Citrus Fruit;0.53;102.5
+Citrus Fruit;Bananas;0.39;82.7
+Bananas;Apples;0.86;114.5
+Apples;Berries & Grapes;0.43;180.1
+Berries & Grapes;Wine;1.53;419.6
+Wine;Coffee;1.79;78.9
+Other Fruit;Milk Chocolate;1.05;153.5
+Coffee;Dark Chocolate;28.53;25.9
+Dark Chocolate;Bovine Meat (beef herd);46.65;540.6
+Bovine Meat (beef herd);Bovine Meat (dairy herd);99.48;1451.2
+Bovine Meat (dairy herd);Lamb & Mutton;33.3;2714.3
+Lamb & Mutton;Pig Meat;39.72;1802.8
+Pig Meat;Eggs;12.31;1795.8
+Poultry Meat;Poultry Meat;9.87;660
+Milk;Milk;3.15;628.2
+Cheese;Butter;23.88;5605.2
+Eggs;Cheese;4.67;577.7
+Fish (farmed);Fish (farmed);13.63;3691.3
+Crustaceans (farmed);Crustaceans (farmed);26.87;3515.4
+Cereals & Oilcrops Misc.;Other Fruit;1.635;431.6
+Oils Misc.;Other Vegetables;4.563333333;553.4
+Sweeteners & Honey;Animal Fats;3.2;620.1
+Stimulants & Spices Misc.;Olives;25.57;328.7
+Animal Fats;Tea;11.09;1227.9
+Buffalo;Cereals & Oilcrops Misc.;99.48;1451.2
+Butter;Potatoes;55.9698651;10.65
+Fish (capture);;1.4;3.5
+Crustaceans (capture);;6.4;3.5
+Aquatic Plants;;0;0
+Almond milk;;0.7;371.4593343
+Oat milk;;0.9;48.24
+Rice milk;;1.2;269.808
+Beef (avg);;70.59361564;2002.520521
+Dark Chocolate (70% cocoa);;33.8;564.45
+Milk Chocolate;;23.4;1650.818182
+Pasta;;1.6;769.0344828
+Lentils;;2.8;1245.736381
+Avocado;;2.5;563.9223467
+Tea;;21;20
+Olives;;0.9891;304.878
+Sunflower seeds;;1.942857143;561.0857143
