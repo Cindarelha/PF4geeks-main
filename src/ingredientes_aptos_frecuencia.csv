@@ -1,0 +1,4802 @@
+Ingrediente,Frecuencia,EsFalso
+salt,36585,False
+sugar,33349,False
+water,29025,False
+nan,21779,True
+rup,14930,False
+rapeseed oil,13015,False
+advice,10314,True
+allerg,10040,False
+acidit,10034,False
+ingredients,8885,False
+emulsifier,8345,False
+flavourings,7684,False
+regulator,7308,False
+sunflower oil,6914,False
+glucose s,6912,False
+east,6871,False
+colour,6626,False
+flavouring,6282,False
+preservative,6163,False
+wheatflour,5816,False
+dextrose,5516,False
+cornflour,5410,False
+spices,5109,False
+palm oil,5103,False
+onion,4951,False
+citric acid,4930,False
+flour,4854,False
+cocoa butter,4688,False
+stabiliser,4644,False
+potato starch,4581,False
+acid,4527,False
+whe,4445,False
+east extract,4351,False
+natural flavouring,4195,False
+cocoa mass,4161,False
+antioxidant,4083,False
+sea salt,4025,False
+powder,4004,False
+garlic,3920,False
+raising agents,3762,False
+onion powder,3587,False
+black pepper,3538,False
+stabilisers,3506,False
+parsle,3449,False
+emulsifiers,3438,False
+butter,3423,False
+rice flour,3296,False
+modified maize starch,3268,False
+maltodextrin,3259,False
+so,3247,True
+partiall,2820,False
+garlic purã©e,2751,True
+spirit vinegar,2737,False
+vegetable oils,2716,False
+garlic powder,2673,False
+natural flavourings,2543,False
+cori,2542,False
+fortified wheat flour,2535,False
+mozzarella cheese,2417,False
+sweeteners,2389,False
+barle,2382,False
+er,2326,True
+maize starch,2283,False
+humectant,2184,False
+lactose,2160,False
+wheatstarch,2137,False
+skimmedmilkpowder,2134,False
+colours,2120,False
+acids,2051,False
+tomatoes,2039,False
+tomato purã©e,2037,True
+onions,2015,False
+wheat flour,1994,False
+thickener,1963,False
+sweetener,1906,False
+preservatives,1859,False
+vegetable oil,1848,False
+hone,1829,False
+gelling agent,1828,False
+reconstituted tomato paste,1805,False
+malt extract,1803,False
+glucose-fructose s,1761,True
+raising agent,1746,False
+ogurt,1744,False
+cream,1710,False
+white pepper,1674,False
+lemon juice,1647,False
+regulators,1629,False
+niacin,1618,False
+carrot,1616,False
+paprika,1614,False
+iron,1602,False
+carbonated water,1593,False
+invert sugar s,1578,False
+basil,1577,False
+palm fat,1548,False
+coconut oil,1543,False
+modified starch,1536,False
+pork,1524,False
+tomato,1521,False
+concentrated lemon juice,1494,False
+tomato paste,1478,False
+vegetable fats,1463,False
+starch,1433,False
+fat reduced cocoa powder,1432,False
+gl,1394,True
+ginger,1358,False
+extra virgin olive oil,1353,False
+vitamins,1347,False
+calcium carbonate,1335,False
+red pepper,1324,False
+cheddar cheese,1314,False
+skimmedpowder,1303,False
+herbs,1280,False
+for allergens see highlighted ingredientswater,1277,False
+tapioca starch,1260,False
+olk,1257,False
+raspberr,1228,False
+th,1221,True
+me,1215,True
+potato,1210,False
+oregano,1165,False
+ascorbic acid,1164,False
+flour treatment agent,1156,False
+strawberr,1136,False
+dried onion,1132,False
+salt),1121,True
+turmeric,1117,False
+white wine vinegar,1107,False
+dried herbs,1101,False
+double cream,1099,False
+tomato puree,1081,False
+hops,1058,False
+corn starch,1052,False
+ginger purã©e,1038,True
+xanthan gum,1014,False
+cerides of fatt,1010,False
+maize flour,983,False
+antioxidants,969,False
+dried skimmedmilk,961,False
+digl,960,False
+carrots,957,False
+wheatgluten,952,False
+h,924,True
+spinach,915,False
+olive oil,911,False
+cocoa powder,907,False
+tomato powder,901,False
+chicken,895,False
+potatoes,894,False
+rosemar,872,False
+egg,864,False
+beef,860,False
+fructose,860,False
+milkfat,841,False
+milk,831,False
+maltedbarle,822,False
+rice,821,False
+cumin,820,False
+demerara sugar,818,False
+anti-caking agent,815,True
+cinnamon,799,False
+molasses,795,False
+flavouring),791,True
+chilli powder,790,False
+sunflower seeds,774,False
+dried garlicwheatflour,769,False
+dried glucose s,769,False
+nutmeg,767,False
+vegetable fat,766,False
+raisins,764,False
+sweetcorn,763,False
+mono-,742,True
+ca,740,True
+wholemilkpowder,737,False
+milk chocolate,732,False
+paprika extract,732,False
+for allergens see highlighted ingredientssugar,725,False
+pasteurised free rangeegg,717,False
+apple,716,False
+potassium sorbate,704,False
+sodium bicarbonate,699,False
+modified cornflour,693,False
+almonds,691,False
+sultanas,691,False
+garlic puree,684,False
+vitamin d,682,False
+protein,681,False
+flavour enhancers,678,False
+chicken breast,664,False
+sauce,661,False
+reh,659,False
+malic acid,658,False
+spice extracts,657,False
+vinegar,652,False
+whipping cream,651,False
+guar gum,651,False
+peas,646,False
+potassium chloride,645,False
+lemon juice from concentrate,643,False
+brown sugar,638,False
+rice starch,636,False
+lactic acid,632,False
+pasteurisedegg,626,False
+milkproteins,623,False
+vitamin c,623,False
+skimmedmilk,622,False
+aflour,621,False
+dried whe,618,False
+smoked paprika,614,False
+thickeners,608,False
+desiccated coconut,607,False
+maize,604,False
+extract,603,False
+single cream,603,False
+dried garlic,602,False
+drogen carbonate,602,False
+beans,598,False
+lemon juice concentrate,595,False
+sage,579,False
+enne pepper,572,False
+coconut milk,571,False
+chicor,571,False
+red cheddar cheese,566,False
+ground cori,565,False
+gelatine,564,False
+*,564,True
+red peppers,563,False
+thiamin],562,True
+celer,558,False
+chilli,557,False
+mushrooms,555,False
+edam cheese,554,False
+drol,545,False
+flavour enhancer,542,False
+spice,538,False
+natural colour,534,False
+annatto),534,True
+seeds,533,False
+sodium nitrite),533,True
+pumpkin seeds,532,False
+extracts of rosemar,531,False
+white wine,527,False
+fruit,526,False
+milkprotein,523,False
+mature cheddar cheese,522,False
+fruit juices from concentrate,522,False
+red wine,521,False
+pepper,521,False
+aqua,519,False
+ingredients list,512,False
+glucose,511,False
+butter oil,509,False
+malt vinegar,508,False
+glazing agent,506,False
+cerol,502,False
+gluten,497,False
+dark chocolate,497,False
+wholepowder,497,False
+pectin,495,False
+caster sugar,493,False
+dates,491,False
+cocoa solids  minimum,489,False
+gelling agents,488,False
+sodium ascorbate,485,False
+ba,485,True
+sodium h,484,False
+pol,484,False
+vegetables,483,False
+wheat flour [wheatflour,481,True
+folic acid,477,False
+deh,473,False
+ground black pepper,472,False
+fibre,469,False
+chopped tomatoes,468,False
+hazelnuts,468,False
+alecithin,468,False
+corn flour,463,False
+dried skimmed,462,False
+vitamin b6,459,True
+proteins,455,False
+wheat,452,False
+firming agent,451,False
+smoke flavouring,447,False
+fat-reduced cocoa powder,447,True
+dried,447,False
+fat,444,False
+pork fat,444,False
+puree,443,False
+lecithin,439,False
+golden s,434,False
+pork gelatine,433,False
+dried potato,432,False
+thiamin ],432,True
+durumwheatsemolina,431,False
+juice from concentrate,431,False
+aspartame,431,False
+seasoning,430,False
+caramelised sugar s,423,False
+ards,422,False
+red wine vinegar,419,False
+red chilli,418,False
+minerals,417,False
+spice extract,413,False
+skimmed,411,False
+wholemealwheatflour,410,False
+peanuts,409,False
+lime juice,409,False
+dried wholemilk,409,False
+vitamin b12,408,True
+malt,407,False
+caffeine,406,False
+natural vanilla flavouring,405,False
+for allergens see highlighted ingredientswheatflour,404,False
+calcium,404,False
+r,402,True
+cerin,401,False
+salt],399,True
+modified tapioca starch,399,False
+modified corn starch,397,False
+butterfat,396,False
+riboflavin,395,False
+modified potato starch,392,False
+er leaf,391,False
+coconut,389,False
+breadcrumbs,389,False
+caramelised sugar,389,False
+acesulfame k,389,False
+margarine,388,False
+inulin,387,False
+unsalted butter,385,False
+durumsemolina,385,False
+cerine,385,False
+pea protein,380,False
+sodium nitrite,380,False
+carrageenan,376,False
+ground cumin,376,False
+acetic acid,374,False
+cocoa solids,373,False
+inverted sugar s,370,False
+milk solids  minimum,369,False
+thiamin,367,False
+icing sugar,365,False
+leek,364,False
+red onion,364,False
+mint,361,False
+whole,359,False
+pepperoni,356,False
+l alcohol,356,False
+traded in compliance with fairtrade st,356,False
+apple juice,355,False
+pineapple,353,False
+apple juice from concentrate,352,False
+corn,351,False
+vanilla extract,349,False
+wholemilk,349,False
+phosphoric acid,348,False
+e471,348,True
+rusk,348,False
+m,348,True
+contains vegetable fats in addition to cocoa butter,347,False
+cherr,346,False
+diphosphates,346,False
+calcium propionate,345,False
+pasteurised free range,345,False
+total,344,False
+e472e,343,True
+salted butter,340,False
+dried parsle,339,False
+herb,339,False
+cocoa,338,False
+sunflower lecithin,338,False
+sweet potato,337,False
+proteins from whe,335,False
+aprotein,333,False
+curr,331,False
+salmon,331,False
+chickpeas,330,False
+cheese,330,False
+ginger puree,329,False
+spring water,329,False
+inverted refiners s,328,False
+thiamin ),328,True
+mango,327,False
+thorbate,326,False
+strawberries,326,False
+natural flavouring],325,True
+purã©e,325,True
+ground ginger,325,False
+juice,323,False
+colour ),322,True
+fortified british wheat flour,321,False
+raspberries,321,False
+coconut cream,320,False
+meth,316,False
+cheese powder,314,False
+bab,314,False
+leaves,313,False
+min,312,False
+blueberr,311,False
+cooked chicken breast,310,False
+sodium er,310,False
+emulsifier ),309,True
+dextrin,308,False
+wholemealflour,307,False
+preservative ),306,True
+calcium chloride,306,False
+alcohol,306,False
+onion extract,304,False
+caramel,303,False
+locust bean gum,303,False
+cider vinegar,303,False
+lemon,299,False
+apples,299,False
+anh,298,False
+glazing agents,298,False
+chives,297,False
+orange juice from concentrate,296,False
+lemon peel,294,False
+spring onion,293,False
+cosides,291,False
+oats,291,False
+chicken fat,290,False
+green pepper,287,False
+palm kernel oil,286,False
+c,285,True
+carbonated spring water,285,False
+protein concentrate,285,False
+disodium diphosphate,285,False
+flakes,284,False
+mustardflour,284,False
+ma,283,True
+citrus fibre,282,False
+wheatbran,282,False
+cream powder,281,False
+orange peel,281,False
+maltedwheatflour,279,False
+chocolate,279,False
+wheat glucose s,279,False
+eggs,278,False
+east extract powder,278,False
+eflour,277,False
+fortifiedwheatflour,276,False
+sodium chloride,275,False
+oghurt,274,False
+cane sugar,273,False
+black pepper extract,273,False
+tomato juice,273,False
+sucralose,272,False
+mini pepperoni,272,False
+buttermilk,271,False
+thiamine h,270,False
+l cellulose,270,False
+pectins,269,False
+vegetable concentrates,269,False
+cardamom,269,False
+natural vanilla extract,268,False
+emulsif,268,False
+for allergens see highlighted ingredientscarbonated water,267,False
+lemon zest,266,False
+carbon dioxide,266,False
+*organic,264,True
+solids,264,False
+herb extract,263,False
+beef gelatine,263,False
+mushroom,263,False
+minimum,262,False
+for allergens,260,False
+leaf,260,False
+reformed smoke flavour ham,259,False
+ps,259,True
+cod,259,False
+mustard,256,False
+vegetable fibre,254,False
+anthoc,254,False
+lecithins,253,False
+vanilla,252,False
+turke,252,False
+popp,252,False
+skimmed milk powder,252,False
+gellan gum,251,False
+vegetable gl,251,False
+drochloride ),251,True
+elderberr,250,False
+flavouring],250,True
+calcium phosphate,249,False
+beetroot,249,False
+prop,248,False
+steviol gl,248,False
+taurine,248,False
+beef stock,247,False
+milk solids,247,False
+sodium citrate,246,False
+beef extract,246,False
+orange juice,245,False
+lemongrass,245,False
+natural flavour,245,False
+oil,245,False
+swede,245,False
+organic sugar,244,False
+sodium carbonates,243,False
+natural flavourings including caffeine,241,False
+cabbage,240,False
+cauliflower,240,False
+sunflower seed oil,239,False
+vitamins & minerals,239,True
+paste,238,False
+gram flour,238,False
+curcumin,237,False
+dried whole,237,False
+maltedflour,236,False
+vitamin b1,236,True
+cer,236,False
+broccoli,235,False
+sunflower oil*,234,True
+cranberr,234,False
+fennel,233,False
+sorbitol,233,False
+plant concentrates,233,False
+wheatprotein,233,False
+driedeggwhite,232,False
+cumin seeds,231,False
+full fat soft cheese,230,False
+chilli flakes,229,False
+a,229,True
+emulsifier ],229,True
+cetear,226,False
+ing proportions,226,False
+sodium citrates,226,False
+milk chocolate contains,225,False
+breadcrumb,224,False
+mace,224,False
+currants,224,False
+er seed,224,False
+iodised salt,223,False
+for allergens see highlighted ingredientsfortified wheat flour,223,False
+black tea,223,False
+colour ],223,True
+pea fibre,221,False
+diacet,221,False
+beef fat,220,False
+organicall,220,False
+green beans,219,False
+lemon oil,218,False
+root fibre,218,False
+ground cinnamon,218,False
+coffee,218,False
+orange,217,False
+butternut squash,217,False
+rup*,216,True
+mustardpowder,216,False
+vitamin b2,215,True
+onion purã©e,215,True
+rice vinegar,214,False
+cashew nuts,212,False
+l glucoside,212,False
+garlic salt,211,False
+apple juice concentrate,211,False
+*= certified organic ingredients,211,True
+milk chocolate contains milk solids  minimum,210,False
+chicken stock,208,False
+lamb,207,False
+natural flavours,207,False
+potassium citrate,206,False
+semolina,206,False
+e481,206,True
+east extracts,206,False
+milkchocolate  [sugar,205,True
+for allergens see highlighted ingredientspork,205,False
+muscovado sugar,204,False
+ground coffee,204,False
+hop extract,203,False
+orange oil,202,False
+bramle,202,False
+protein from whe,201,False
+british beef,201,False
+pasteurised,200,False
+green chilli,200,False
+herb extracts,199,False
+fat reduced cocoa,199,False
+red kidne,199,False
+l betaine,198,False
+balsamic vinegar,198,False
+antioxidant ),198,True
+free range pasteurised,198,False
+marjoram,197,False
+fat-reduced cocoa,197,True
+flavourings),196,True
+stabilizer,196,False
+cracked black pepper,196,False
+anins,195,False
+other stuff,195,False
+british pork,195,False
+hibiscus,194,False
+*certified organic,194,True
+medium fat hard cheese,194,False
+organic,194,False
+parfum,192,False
+see underlined ingredients in boldcontains,192,False
+ing salts,191,False
+noodles,191,False
+firming agents,190,False
+drox,190,False
+fermentedwheatflour,190,False
+bifidobacterium,190,False
+vegetable margarine,190,False
+fortifiedflour,190,False
+ellow pepper,190,False
+green peppers,189,False
+flour treatment agents,188,False
+haricot beans,187,False
+ground turmeric,187,False
+milkpowder,186,False
+blackberr,185,False
+allspice,184,False
+apricots,184,False
+leeks,184,False
+cocamidoprop,184,False
+dried red pepper,183,False
+mustardseeds,182,False
+wheatfibre,182,False
+plain caramel,181,False
+full,181,False
+vitamin a,181,False
+seed,181,False
+total milk content,180,False
+maple s,180,False
+natural vanilla flavouring],180,True
+ginger powder,180,False
+phosphates,178,False
+roasted,178,False
+milk solids 20  minimum,178,True
+extra mature cheddar cheese,177,False
+for allergens see highlighted ingredients,176,False
+sucrose,176,False
+turmeric powder,175,False
+roast,175,False
+l,175,True
+clove,175,False
+jam,175,False
+low fat,175,False
+raw cane sugar,175,False
+malted,174,False
+turmeric extract,174,False
+fenugreek,174,False
+pantothenic acid,174,False
+),174,True
+*organicall,174,True
+ellow peppers,173,False
+eggwhite,173,False
+cloves,173,False
+potato flakes,173,False
+distilled vinegar,172,False
+blackcurrant,171,False
+br,170,True
+malted barle,170,False
+dill,170,False
+vegetable stock,169,False
+natural,169,False
+],168,True
+gum base,168,False
+red chilli purã©e,167,True
+cranberries,167,False
+natural vanilla flavouring),167,True
+permeate,167,False
+skimmed cows'milkpowder,166,True
+butteroil,166,False
+flavouring with other natural flavourings,166,False
+caramel s,165,False
+arabica coffee,165,False
+drate,164,False
+lemon juice powder,164,False
+reconstituted skimmed milk,164,False
+milk solids 14  minimum,164,True
+cows'milk,164,True
+abeans,164,False
+flavour,164,False
+semi skimmed,163,False
+natural flavouring),163,True
+protein isolate,162,False
+kale,162,False
+white chocolate,162,False
+cereals,161,False
+actual 23,161,True
+sugar),161,True
+dijon mustard,161,False
+grown,160,False
+er powder,160,False
+cocoa solids 20  minimum,160,True
+oatflakes,160,False
+**the equivalent of 426 ml of fresh liquid milk in ever,159,True
+potassium nitrate,159,False
+wheatsemolina,159,False
+chive,158,False
+oligofructose,158,False
+cumin powder,158,False
+spirulina concentrate,158,False
+vanillin),158,True
+ground white pepper,157,False
+mascarpone cheese,157,False
+chestnut mushrooms,157,False
+pea starch,157,False
+pineapple juice,157,False
+benz,157,False
+calcium acetate,156,False
+cucumber,155,False
+lene gl,155,False
+high oleic sunflower oil,155,False
+bran,155,False
+concentrated apple juice,155,False
+filtered water,155,False
+227 g of milk chocolate,155,True
+ethanol,155,False
+drousmilkfat,155,False
+courgette,155,False
+pieces,154,False
+green olives,154,False
+rice bran oil,154,False
+ground spices,154,False
+malt flour,154,False
+bulking agent,154,False
+e,154,True
+late,154,False
+dextrose monoh,154,False
+wheat dextrose,154,False
+east powder,153,False
+lactobacillus acidophilus,153,False
+cherries,153,False
+galangal,153,False
+chia seeds,152,False
+parsnip,152,False
+milkwhe,152,False
+natural vanilla flavour],152,True
+tamarind,152,False
+natural colours,152,False
+pork rind,151,False
+coproteinâ„¢,151,True
+annatto,151,False
+wholegrain,151,False
+naturall,150,False
+litol,150,False
+l tartaric acid esters of mono-,150,True
+monosodium glutamate,150,False
+onion powder),150,True
+e450,149,True
+granulated sugar,149,False
+sea salt*,149,True
+garlic*,149,True
+apple purã©e,149,True
+driedegg,149,False
+wheat flour [flour,148,True
+wine vinegar,148,False
+o,148,True
+olk powder,147,False
+milk**,147,True
+black treacle,147,False
+sodium benzoate,147,False
+ethicall,147,False
+col,147,False
+concentrated orange juice,145,False
+peach,144,False
+sed vegetable protein,144,False
+sourdough,144,False
+mixed seeds,143,False
+colouring food,143,False
+garlic extract,143,False
+concentrate,143,False
+free rangeegg,143,False
+for allergens see highlighted ingredientstomatoes,143,False
+sweetened condensed skimmedmilk,143,False
+roast chicken stock,143,False
+natural strawberr,142,False
+carrot concentrate,142,False
+carotenes,142,False
+sugar s,142,False
+dried cori,142,False
+rice s,142,False
+green tea,142,False
+anchov,141,False
+pea flour,140,False
+red onions,140,False
+streptococcus thermophilus,140,False
+lentils,139,False
+free range pasteurisedwhite,139,False
+mannitol,139,False
+sherr,139,False
+vanillin,139,False
+vitamin e,138,False
+eggwhite powder,138,False
+pears,138,False
+juice concentrate,138,False
+dried tomato,138,False
+emulsifierso,138,False
+preservative ],138,True
+sodium carbonate,137,False
+concentrated grape juice,137,False
+apple puree,137,False
+fat powder,137,False
+cooked pasta,137,False
+mango puree,137,False
+roasted garlic,136,False
+fermentedflour,136,False
+malt flavouring,136,False
+blackcurrants,136,False
+trisodium citrate,135,False
+sugar*,135,True
+cooked rice,135,False
+chickpea flour,134,False
+mustardseed,134,False
+organic concentrated lemon juice,134,False
+ricotta cheese,133,False
+e282,133,True
+niacin ),133,True
+humectant gl,133,False
+dried apple,133,False
+star anise,132,False
+glazing agent carnauba wax,132,False
+parmigiano reggiano cheese,132,False
+er seeds,132,False
+sulphur dioxide,132,False
+lactobacillus casei,132,False
+milk chocolate  [sugar,132,True
+drated free rangeeggwhite,132,False
+grown ingredients,131,False
+coconut extract,131,False
+antioxidant sodium ascorbate,131,False
+sesameoil,131,False
+linseed,131,False
+abean,131,False
+regulator ),130,True
+glucose fructose s,130,False
+cumin seed,130,False
+spring onions,130,False
+steamed,130,False
+ammonium bicarbonate,130,False
+worcester sauce,130,False
+antioxidant bha,130,False
+crã¨me fraã®che,130,True
+smoked salt,129,False
+ground ba,129,False
+sparkling water,129,False
+batter,129,False
+whole milk powder,129,False
+llium husk,129,False
+topped withmilkchocolate,128,False
+regulator citric acid,128,False
+mini eclairs with vanilla cream,128,False
+basmati rice,128,False
+contains the following live cultures,128,False
+king prawns,127,False
+onnaise,127,False
+medium fat soft cheese,127,False
+blueberries,127,False
+instant coffee,126,False
+inositol,126,False
+regulator ],126,True
+carrot extract,126,False
+treacle,126,False
+shea fat,126,False
+haddock,126,False
+tamarind paste,125,False
+concentrates,125,False
+pasta,125,False
+capers,125,False
+dried apricots,125,False
+permeate powder,124,False
+chilli pepper,124,False
+pimento,124,False
+thickener gum arabic,124,False
+shallot,123,False
+filling,123,False
+but,123,False
+baking powder,123,False
+concentrated butter,123,False
+sourced,123,False
+smoked bacon,123,False
+onion puree,123,False
+for allergens see highlighted ingredientspotato,123,False
+chicken extract,122,False
+corn s,122,False
+aprotein concentrate,122,False
+mango purã©e,122,True
+emulsifier mono-,121,True
+banana,120,False
+dark brown sugar,120,False
+sweetened dried cranberries,120,False
+d,120,True
+ogurt powder,120,False
+cashews,120,False
+sodium metabisulphite,119,False
+natural orange flavouring,119,False
+garlic granules,119,False
+invert sugar,119,False
+s thermophilus,119,False
+black olives,118,False
+buttermilk powder,118,False
+cellulose,118,False
+agave s,117,False
+orange fruit from concentrate,117,False
+bean,117,False
+dr,117,True
+gum arabic,117,False
+pepper extract,117,False
+sed,117,False
+red chillies,116,False
+organic cane sugar,116,False
+banana puree,116,False
+blackcurrant juice from concentrate,116,False
+sodium stearo,116,False
+fromage frais,116,False
+capr,115,False
+pasteurised wholeegg,115,False
+stearic acid,115,False
+nuts,115,False
+total sugar content,115,False
+spirulina,115,False
+tomato concentrate,114,False
+triphosphates,114,False
+mono,114,False
+milkchocolate,114,False
+coconut milk powder,114,False
+chocolate chips,114,False
+cane sugar*,114,True
+fructose s,113,False
+drousfat,113,False
+shallots,113,False
+fruit pectin,113,False
+pork lard,113,False
+tea,112,False
+sunflower oil),112,True
+coconut water,112,False
+le,112,True
+quinoa,112,False
+dried red bell peppers,112,False
+maltedwheatflakes,112,False
+date paste,112,False
+b12,112,True
+organic maize starch,111,False
+alaska pollock,111,False
+licorice root,111,False
+coprotein,111,False
+natural orange flavouring with other natural flavourings,110,False
+ground nutmeg,110,False
+dietar,110,False
+red leicester cheese,110,False
+beetroot red,110,False
+live,109,False
+colouring,109,False
+phenox,109,False
+rolledoats,108,False
+himala,107,False
+sustainable palm fruit oil,107,False
+puff pastr,107,False
+the process is gentle to protect their delicate taste,107,False
+concentrated tomato puree,107,False
+starches,107,False
+feta cheese,106,False
+red lentils,106,False
+milkmineral concentrate,106,False
+lime juice from concentrate,106,False
+green lentils,106,False
+thaisauce,106,False
+s,105,True
+fresh,105,False
+lime,105,False
+black pepper*,105,True
+skipjack tuna,105,False
+garam masala,105,False
+organic lemon juice concentrate,105,False
+pecan nuts,105,False
+ammonium h,105,False
+aubergine,104,False
+free range egg,104,False
+semi-skimmed,104,True
+l-2-lact,104,True
+ground,104,False
+citric acid),104,True
+carawa,104,False
+bamboo fibre,103,False
+ginger root,103,False
+ogurt cultures,103,False
+lemon grass,103,False
+fats,103,False
+water),103,True
+walnuts,103,False
+natural lemon flavouring,103,False
+colour - plain caramel,103,True
+natural lemon flavouring with other natural flavourings,102,False
+e500,102,True
+black peppercorns,102,False
+potato protein,102,False
+free range pasteurised whole,102,False
+passata,102,False
+antioxidant ascorbic acid,102,False
+cultures,102,False
+rice bran,102,False
+cannellini beans,102,False
+lav,102,False
+er leaves,102,False
+vanilla flavouring,101,False
+blackberries,101,False
+meat,101,False
+organic carrots,101,False
+spices*,101,True
+edamame beans,101,False
+dair,101,False
+organic sunflower oil,101,False
+palm stearin,101,False
+natural lemon,101,False
+chocolate  [sugar,100,True
+concentrated tomato purã©e,100,True
+water],100,True
+coco-glucoside,100,True
+bacon,100,False
+eth,99,False
+steamed parboiled long grain rice,99,False
+for allergens see highlighted ingredientsglucose s,99,False
+vegetable oils in var,99,False
+creamed coconut,99,False
+chorizo,99,False
+dried sage,99,False
+vegetable,99,False
+regato cheese,98,False
+white pepper),98,True
+lcellulose,98,False
+organic onions,98,False
+dried carrot,98,False
+sauce powder,98,False
+lime leaf,98,False
+acacia gum,97,False
+carmine,97,False
+king prawn,97,False
+cocoa butterâ_,97,True
+fruit juice from concentrate,97,False
+caffeine-free,97,True
+east),97,True
+salt*,97,True
+water*,97,True
+oghurt*,96,True
+orange zest,96,False
+safflower,96,False
+apricot,96,False
+vitamin d3,96,True
+linseeds,96,False
+lemon puree,96,False
+potato flake,96,False
+sesame seeds,96,False
+l acidophilus,96,False
+cane molasses,95,False
+rosehip,95,False
+belgian milk chocolate,95,False
+calcium phosphates,95,False
+brown rice,95,False
+rolled,95,False
+cr,95,True
+carrots*,95,True
+hulledso,95,False
+concentrated lime juice,95,False
+grape,95,False
+maize dextrose,95,False
+preservatives ),95,True
+lemongrass puree,94,False
+mascarpone,94,False
+for allergens see highlighted ingredientschicken breast,94,False
+tuna,94,False
+colouring foods,94,False
+citric acid],94,True
+white onion,93,False
+white powder,93,False
+beanlecithin,93,False
+red chilli puree,93,False
+potato flour,93,False
+passion fruit,93,False
+derivatives,93,False
+chopped cori,92,False
+dried vegetables,92,False
+milk chocolate contains cocoa solids  minimum,92,False
+rennet,92,False
+green chilli purã©e,92,True
+carrot powder,92,False
+pasteurised liquid wholeegg,92,False
+apple pieces*,91,True
+buckwheat flour,91,False
+corn oil,91,False
+buckwheat,91,False
+long grain rice,91,False
+prawns,91,False
+sedso,91,False
+dried cranberries,91,False
+sweeteners x,91,False
+tapioca flour,91,False
+oatfibre,91,False
+oatmeal,90,False
+apple pulp,90,False
+beta-carotene,90,True
+*contains cultures,90,True
+soured cream,90,False
+wholeegg,90,False
+black pepper),90,True
+acid - citric acid,90,True
+for allergens see highlighted ingredientsskimmedmilk,90,False
+**,90,True
+spirulina extract,90,False
+concentrated tomato paste,90,False
+coconut sugar,90,False
+red bell pepper,89,False
+drated free rangewhite,89,False
+white,89,False
+maltodextrin),89,True
+e202,89,True
+gluten free oats,89,False
+orange peel*,89,True
+*these herbal ingredients are speciall,88,True
+wheat glucose-fructose s,88,True
+rice noodles,88,False
+wheatflour [with calcium,88,True
+driedwhite,88,False
+belgian dark chocolate,88,False
+cellulose gum,88,False
+sodium laureth sulfate,88,False
+reconstituted tomato purã©e,88,True
+sustainable palm oil,88,False
+plain chocolate  [sugar,88,True
+gherkins,87,False
+crisp,87,False
+reconstituted skimmedmilk,87,False
+tartaric acid,87,False
+pineapple juice from concentrate,87,False
+vanilla extract #,87,True
+citrus pectin,87,False
+bottle,86,False
+l-carnitine l-tartrate,86,True
+rice wine,86,False
+extra virgin olive oil*,86,True
+beef glace,86,False
+plant stanol ester,86,False
+brown rice s,86,False
+garlic oil,86,False
+limonene,86,False
+condensed skimmedmilk,86,False
+onions*,85,True
+pear,85,False
+anin,85,False
+lactase enz,85,False
+llium husk powder,85,False
+shea,85,False
+cashew,85,False
+pork leg,85,False
+drated potatoes,85,False
+dijon,85,False
+*all our herbs are gentl,85,True
+fructose-glucose s,84,True
+mixed spices,84,False
+beta carotene,84,False
+potassium h,84,False
+roastedbarle,84,False
+dried cheese,84,False
+paprika powder,84,False
+black turtle beans,84,False
+enz,83,False
+cocoa massâ_,83,True
+cet,83,False
+chocolate powder,83,False
+tomatoes*,83,True
+crisped rice,83,False
+milk proteins,82,False
+e133,82,True
+tomato passata,82,False
+full creammilkpowder,82,False
+tocopherol,82,False
+iron sulphate,82,False
+*organic produce,82,True
+seaweed,82,False
+ground fennel,82,False
+regulator sodium citrates,82,False
+red quinoa,82,False
+low sodium sea salt,82,False
+lemon concentrate,82,False
+alecithin),81,True
+mozzarella full fat soft cheese,81,False
+dried oregano,81,False
+sweetened condensedmilk,81,False
+contain egg,81,False
+laur,81,False
+os,81,True
+mixed spice,81,False
+dark chocolate chips,81,False
+pine nuts,81,False
+calcium lactate,81,False
+oranges,81,False
+volvic natural mineral water,81,False
+prawn,81,False
+kiwi,81,False
+sweetened condensed milk,80,False
+semi skimmedmilk,80,False
+sesameseeds,80,False
+millet,80,False
+wheat gluten,80,False
+canola oil,80,False
+free range wholeegg,80,False
+date s,80,False
+drogenated coconut oil,80,False
+for allergens see highlighted ingredientschicken,80,False
+l meth,80,False
+dec,79,False
+free range,79,False
+carnauba wax,79,False
+humectants,79,False
+lentil flour,79,False
+protein enriched whe,79,False
+cocoa butter #,79,True
+british & irish farmed,79,True
+drated potato,79,False
+sunflower oil],79,True
+natural mint flavouring,78,False
+cider,78,False
+root extract,78,False
+pearlbarle,78,False
+grape juice from concentrate,78,False
+pasteurisedeggwhite,78,False
+starter culture,78,False
+cup mushrooms,78,False
+rophosphate,78,False
+e621,78,True
+greek st,78,False
+red,78,False
+preservative potassium sorbate,77,False
+pork bell,77,False
+condensed skimmed,77,False
+raw cane sugar*,77,True
+roastedpeanuts,77,False
+ellow split peas,77,False
+green tea extract,77,False
+contain,77,False
+safflower concentrate,77,False
+cocoa solids 25  minimum,77,True
+pumpkin,77,False
+prunus am,77,False
+cinnamon*,77,True
+soluble coffee,77,False
+*=certified organic ingredients,77,True
+british chicken breast,76,False
+onion*,76,True
+dark chocolate contains,76,False
+acidifier,76,False
+tarragon,76,False
+vegetable juice concentrate,76,False
+emulsifierlecithin,75,False
+sodium alginate,75,False
+smoked haddock,75,False
+lactobacillus rhamnosus,75,False
+* = certified organic ingredients,75,True
+mackerel,75,False
+humectant vegetable gl,75,False
+occurring sugars,75,False
+caramelised sugar powder,75,False
+fairtrade certified,75,False
+half cream,74,False
+brown cane sugar,74,False
+lactic cultures ),74,True
+duck,74,False
+*rainforest alliance certifiedâ„¢,74,True
+fennel seeds,74,False
+d2),74,True
+capsicum extract,74,False
+organic apples,74,False
+autol,74,False
+di-gl,74,True
+radish,74,False
+crã¨me fraiche,74,True
+mineral concentrate,74,False
+full creampowder,73,False
+potato granules,73,False
+water chestnut,73,False
+fairtrade tea,73,False
+spic,73,False
+# = certified organic,73,True
+rosehips*,73,True
+reconstituted skimmed,73,False
+wholegrainoats,72,False
+asparagus,72,False
+organic garlic,72,False
+brown rice flour,72,False
+mustard flour,72,False
+basil*,72,True
+natural vanilla flavour,72,False
+reduced fat cocoa powder,72,False
+almond,72,False
+seville oranges,72,False
+milksugar,72,False
+flour treatment agent ascorbic acid,72,False
+sate,72,False
+horseradish,72,False
+sugar 7,71,True
+black carrot concentrate,71,False
+droxide,71,False
+sugar 5,71,True
+sweetened condensed skimmed,71,False
+soft brown sugar,71,False
+lactic cultures,71,False
+brown linseed,71,False
+e466,71,True
+absolutel,70,False
+grapes,70,False
+milk chocolate contains vegetable fats in addition to cocoa butter,70,False
+beetroot*,70,True
+organic vegetable stock,70,False
+shea oil,70,False
+total content of herbs,70,False
+wholemeal flour,70,False
+beetroot powder,70,False
+e451,69,True
+paprika extract),69,True
+potato fibre,69,False
+chicken thigh,69,False
+ginger*,69,True
+cooked smoked bacon,69,False
+light brown sugar,69,False
+nothing else,69,False
+5,69,True
+carrot juice,69,False
+maturation,69,False
+contains naturall,69,False
+apple pieces,69,False
+wheatgerm,69,False
+palm sugar,69,False
+mer,69,False
+sugar],69,True
+rice flour*,69,True
+natural apple flavouring with other natural flavourings,69,False
+chilli extract,68,False
+croutons,68,False
+roasted chicor,68,False
+bicarbonate of soda,68,False
+flour treatment agent ),68,True
+leek powder,68,False
+cocoa mass #,68,True
+flour*,68,True
+reconstituted skimmedmilkconcentrate,68,False
+avocado,68,False
+tahini,68,False
+pumpkin seed,68,False
+60g per 100g,68,True
+select potatoes,68,False
+*certified organic ingredients,68,True
+sage extract,68,False
+seed mix,68,False
+concentrated carrot juice,68,False
+lic/capric trigl,68,True
+milk fat,67,False
+chick peas,67,False
+banana purã©e,67,True
+coconut oil*,67,True
+shredded coconut,67,False
+buttermilkpowder,67,False
+l stearate,67,False
+palm kernel fat,67,False
+peppermint oil,67,False
+mushroom concentrate,67,False
+stabilizers,67,False
+shortcrust pastr,67,False
+tamarind concentrate,67,False
+adzuki beans,67,False
+organic tapioca starch,67,False
+an pink salt,66,False
+liquorice root,66,False
+paprika),66,True
+e160a,66,True
+antioxidant - ascorbic acid,66,True
+turmeric*,66,True
+bamboo shoots,66,False
+natural lime flavouring,66,False
+sundried tomatoes,66,False
+ham,66,False
+vegetable bouillon,66,False
+oils,66,False
+drated texturedso,66,False
+deactivated,66,False
+peppers,66,False
+titanium dioxide,66,False
+rapeseed oil),66,True
+natural basmati rice - steamed,66,True
+abase ),66,True
+pork loin,65,False
+maize glucose s,65,False
+aronia,65,False
+carob gum,65,False
+coffee  [instant coffee,65,True
+lettuce,65,False
+sweetener - steviol gl,65,True
+vegetable extracts,64,False
+**the equivalent of 426ml of fresh liquid milk in ever,64,True
+dark chocolate  ),64,True
+stock,64,False
+sourced from fairtrade producers total,64,False
+emulsifiers ),64,True
+for allergens see highlighted ingredientsmilk,64,False
+shellac,64,False
+red cabbage,64,False
+british chicken,64,False
+lemon curd,64,False
+linalool,64,False
+milkprotein),64,True
+grape juice concentrate,64,False
+cooked chickpeas,64,False
+plain chocolate,64,False
+for allergens see highlighted ingredientspotatoes,64,False
+olks,64,False
+sourced ingredients,64,False
+courgettes,64,False
+extract),64,True
+acid ],64,True
+ing proportions],63,True
+for allergens see highlighted ingredientsflour,63,False
+non-h,63,True
+maize starch*,63,True
+cocoa nibs,63,False
+white grape juice from concentrate,63,False
+port,63,False
+lutein,63,False
+magnesium carbonate,63,False
+cocoa butter*,63,True
+fennel seed,63,False
+fermented ginger root extract,63,False
+smoke),63,True
+milkminerals,63,False
+dried coconut,62,False
+for allergens see highlighted ingredientsbeef,62,False
+e171,62,True
+regulator - citric acid,62,True
+grape juice,62,False
+ground paprika,62,False
+ground cloves,62,False
+flavours,62,False
+pine kernels,62,False
+magnesium stearate,62,False
+cacao powder,62,False
+milkprotein concentrate,62,False
+colours ],62,True
+sour cream,62,False
+sodium phosphates,62,False
+cacao nibs,62,False
+carrot juice concentrate,62,False
+l casei,61,False
+lemon extract,61,False
+panax ginseng root extract,61,False
+chicken glace,61,False
+wholegrain rice,61,False
+isomalt,61,False
+white bread,61,False
+cerol pol,61,False
+mashed potato,61,False
+starter culture),61,True
+palm oil*,61,True
+rice protein,61,False
+ceride,60,False
+sorbitol s,60,False
+carob bean gum,60,False
+227g of milk chocolate,60,True
+red split lentils,60,False
+nitrogen,60,False
+stabiliser ),60,True
+pasteurised free rangeeggwhite,60,False
+onion juice concentrate,60,False
+cerol esters of fatt,60,False
+chicken powder,60,False
+dried powdered cheese,60,False
+apple extract,60,False
+organic bananas,60,False
+fat free,60,False
+sunflower seeds*,60,True
+cream cheese,60,False
+bean paste,60,False
+monocalcium phosphate,60,False
+sweet corn,59,False
+dried chilli,59,False
+butter beans,59,False
+melon,59,False
+beetroot juice concentrate,59,False
+plum,59,False
+guarana seed extract,59,False
+fried onions,59,False
+roasted red peppers,59,False
+sodium triphosphate,59,False
+fruit extract,59,False
+cassia,59,False
+organic tomatoes,59,False
+malt vinegar powder,59,False
+kidne,59,False
+rhubarb,59,False
+fermented maize starch,59,False
+vanilla extract),59,True
+chilli paste,59,False
+mushroom stock,59,False
+mushroom powder,59,False
+gluten free,59,False
+for allergens see highlighted ingredientspotato starch,59,False
+peaches,58,False
+preservative sodium nitrite,58,False
+concentrated fruit juices,58,False
+quaker wholegrain rolledoats,58,False
+contain milk,58,False
+preservatives sodium nitrite,58,False
+organic rice,58,False
+cooked chicken,58,False
+coconut fat,58,False
+low fat natural,58,False
+wholewheat,58,False
+sautã©ed onion,58,True
+hibiscus*,58,True
+safflower extract,58,False
+acidifier citric acid,58,False
+savo,58,False
+light so,58,False
+organic rice starch,58,False
+green chillies,58,False
+kalonji seeds,58,False
+blackcurrant juice,58,False
+packaged in a protective atmosphere,58,False
+lactobacillus bulgaricus,58,False
+lactic culture,58,False
+cheddar,57,False
+quinoa*,57,True
+gluten freeoats,57,False
+coconut sugar*,57,True
+or whe,57,False
+drated onion,57,False
+ammonium carbonate,57,False
+irish pork,57,False
+x,57,True
+mediterranean vegetable stock,57,False
+ammonia caramel,57,False
+natural flavouring ),57,True
+mixed fruit juices from concentrate,57,False
+elderflower extract,57,False
+red chilli powder,56,False
+smok,56,False
+vegetables in variable proportions,56,False
+dried red bell pepper,56,False
+vegetable fat in addition to cocoa butter,56,False
+onion concentrate,56,False
+redcurrant jell,56,False
+paprika extract],56,True
+red bell peppers,56,False
+wholegrainoatflakes,56,False
+grana padano cheese,56,False
+concentrated fruit juice,56,False
+b6,56,True
+black beans,55,False
+kalamata olives,55,False
+tomato sauce,55,False
+[sugar,55,True
+milk protein concentrate,55,False
+lemon juice concentrate*,55,True
+milk chocolate chunks,55,False
+for allergens see highlighted ingredientssalt,55,False
+dried wholeegg,55,False
+potato maltodextrin,55,False
+rosehips,55,False
+raising agents #,55,True
+sardines,55,False
+rice wine vinegar,55,False
+broad beans,55,False
+moisture is lost during curing,55,False
+natural raspberr,55,False
+oligofructose s,55,False
+golden linseeds,55,False
+wholegrainwheat,55,False
+mango chutne,54,False
+sun dried tomatoes,54,False
+sal,54,False
+freeze dried raspberries,54,False
+lime oil,54,False
+antioxidant ],54,True
+green peas,54,False
+lightsauce,54,False
+aloe barbadensis leaf juice,54,False
+maize maltodextrin,54,False
+water chestnuts,54,False
+liquorice extract,54,False
+aniseed,54,False
+onion oil,54,False
+spices],54,True
+toastedsesameoil,53,False
+for allergens see highlighted ingredientswheat flour,53,False
+natural colouring,53,False
+smoked salmon,53,False
+for allergens see highlighted ingredientsfortifiedwheatflour,53,False
+dried onions,53,False
+products,53,False
+flaxseed,53,False
+rocket,53,False
+chicken liver,53,False
+rapeseed oil],53,True
+bell pepper,53,False
+glacã© cherries,53,True
+olives,53,False
+anti-caking agent ],52,True
+dried chives,52,False
+cooked grape must,52,False
+apple cider vinegar,52,False
+colour paprika extract,52,False
+produced,52,False
+dried red chilli,52,False
+rum,52,False
+sugar solution,52,False
+sodium coco-sulfate,52,True
+e250,52,True
+total sugar content 67g per 100g,52,True
+tricalcium phosphate,52,False
+golden raisins,51,False
+spearmint,51,False
+biscuit crumb,51,False
+wholegrain corn,51,False
+italian maize,51,False
+stem ginger,51,False
+organic cream,51,False
+smoke flavourings,51,False
+antioxidants ),51,True
+hulledbeans,51,False
+organic wholemilk,51,False
+wholegrainoatflour,51,False
+fillets,51,False
+white cabbage,51,False
+a hint of natural flavouring,51,False
+*breadcrumb coating,51,True
+actual,51,False
+mixed herbs,51,False
+leaves*,51,True
+heat treated to make them our first ever infuser safe to drop into cold water,50,False
+dried spring onion,50,False
+madras powder,50,False
+total milk constituents,50,False
+spinach powder,50,False
+fumaric acid,50,False
+sea salt),50,True
+butter fat,50,False
+concentrated pineapple juice,50,False
+palm,50,False
+dried th,50,False
+condensed skimmed milk,50,False
+vegetarian rennet,50,False
+smoke,50,False
+maltitol s,50,False
+dark so,50,False
+acr,50,False
+colour - paprika extract,50,True
+gelling agent pectin,50,False
+vimto flavouring,50,False
+chicken breast fillet,50,False
+red pepper flakes,50,False
+emulsifiers mono-,50,True
+breast,50,False
+colour - beta-carotene,50,True
+natural vanilla extract),50,True
+levulinic acid,49,False
+freshl,49,False
+italian basil,49,False
+dextrose),49,True
+ken,49,False
+live active,49,False
+vegetable shortening,49,False
+dried basil,49,False
+spring greens,49,False
+east*,49,True
+dried apricot,49,False
+cereal flours,49,False
+black e,49,False
+drogenated vegetable oil,49,False
+cerin*,49,True
+e100,49,True
+corn dextrose,49,False
+wholegrainflour,49,False
+lime juice concentrate,49,False
+chillies,49,False
+ale,49,False
+glaze,49,False
+vanilla extract*,49,True
+wholewheatflour,49,False
+cane sugar #,49,True
+for allergens see highlighted ingredientstomato,49,False
+sundried tomato paste,49,False
+vegetable suet,49,False
+maltitol,49,False
+grape must,49,False
+botanical extracts,49,False
+geraniol,49,False
+dark chocolate contains cocoa solids  minimum,49,False
+peanut butter,48,False
+purã©e from concentrate,48,True
+*from organic agriculture,48,True
+guar gum*,48,True
+bean oil,48,False
+semi skimmed cows'milk,48,True
+balsamic vinegar of modena,48,False
+aloe barbadensis  leaf juice powder*,48,True
+tamarind extract,48,False
+sorbic acid,48,False
+pistachios,48,False
+beef collagen casing,48,False
+breadcrumb coating*,48,True
+quinoa flour,48,False
+anticaking agent,48,False
+pork shoulder,48,False
+cacao,48,False
+wholegrainflakes,48,False
+potassium bicarbonate,48,False
+*= organicall,48,True
+animal derivatives,48,False
+lalanine,48,False
+fried onion,48,False
+drated garlic,48,False
+mixed vine fruits,48,False
+organic potatoes,47,False
+brown linseeds,47,False
+cinnamon powder,47,False
+protein),47,True
+peach juice from concentrate,47,False
+clotted cream,47,False
+freshcream,47,False
+regulator lactic acid,47,False
+sun-dried tomatoes,47,True
+grapefruit,47,False
+thickening agent,47,False
+white vinegar,47,False
+pumpkin seeds*,47,True
+stabiliser - pol,47,True
+firming agent calcium chloride,47,False
+bifidobacterium lactis,47,False
+drochloride,47,False
+dried chillies,47,False
+acids),47,True
+bã©chamel sauce,47,True
+tapioca,47,False
+golden linseed,47,False
+0,47,True
+brazil nuts,47,False
+flavour enhancer e621,47,True
+sweetened condensed,47,False
+dried mint,47,False
+flaked almonds,47,False
+red pepper powder,47,False
+protein crispies,47,False
+vegetable stock powder,47,False
+papa,46,False
+blackcurrant puree,46,False
+2-diol esters of fatt,46,True
+concentratedbutter,46,False
+sweetened condensed skimmed milk,46,False
+liquorice root*,46,True
+d-glucronolactone,46,True
+smoke flavour,46,False
+flavourings with other natural flavourings,46,False
+dark muscovado sugar,46,False
+flavourings],46,True
+pressed apple juice,46,False
+emmental cheese,46,False
+mineral sea salt,46,False
+me extract,46,False
+*organic ingredients,46,True
+pasta shapes,46,False
+tomato paste*,46,True
+lhex,46,False
+flavouring vanillin,46,False
+lactobacillus plantarum,46,False
+dried fruit,46,False
+stick,46,False
+fish sauce,46,False
+a flour,46,False
+concentrated apple puree,46,False
+onion powder*,46,True
+guarana extract,46,False
+montere,46,False
+thritol,46,False
+dessicated coconut,46,False
+ing salt,45,False
+couscous,45,False
+coconut flakes,45,False
+dried fenugreek leaf,45,False
+unsweetened fruit juice concentrates,45,False
+sodiummetabisulphite,45,False
+which is used to make the batter light,45,False
+ammonium carbonates,45,False
+oregano*,45,True
+silicon dioxide,45,False
+oatflour,45,False
+organic coconut milk,45,False
+root*,45,True
+mixed peppers,45,False
+mango in var,45,False
+jack cheese,45,False
+salt [sodium chloride,45,True
+e330,45,True
+rapeseed oil*,45,True
+goji berries,45,False
+natural rosemar,45,False
+chopped parsle,45,False
+less than,45,False
+red ca,45,False
+milkpowders,45,False
+ground cardamom,45,False
+sodium nitrate,45,False
+wax,45,False
+coconut chips,45,False
+garlic paste,45,False
+apple concentrate,45,False
+apple fibre,45,False
+peppermint*,45,True
+a sauce,45,False
+some vitamins,45,False
+dried free rangeegg,45,False
+jalapeã±o chilli,45,True
+ground fenugreek,44,False
+alcohol denat,44,False
+vanilla seeds,44,False
+pork sausages,44,False
+chickpeas],44,True
+lemon juice),44,True
+milk's naturall,44,True
+marzipan,44,False
+base ),44,True
+occurring sugar,44,False
+e500 are the basic ingredients of baking powder,44,True
+spaghetti hoops,44,False
+full creammilk,44,False
+concentrated skimmedmilk,44,False
+ascorbic acid),44,True
+puffed rice,44,False
+gelling agent fruit pectin,44,False
+e102,44,True
+diced chicken breast,44,False
+wholegrainr,44,False
+dried apple pieces,44,False
+ginger extract,44,False
+turmeric),44,True
+sweetener ),44,True
+flakedalmonds,44,False
+fresh cream,44,False
+belgian chocolate,44,False
+black carrot juice concentrate,43,False
+hazelnutpaste,43,False
+dried potatoes,43,False
+grown ingredient,43,False
+nicotinamide,43,False
+sedprotein,43,False
+silverskin onions,43,False
+ricinoleate,43,False
+wheat protein,43,False
+pollock,43,False
+iodized salt,43,False
+zinc sulphate,43,False
+chopped dates,43,False
+fruit concentrate,43,False
+whole grainwheat,43,False
+ginger root*,43,True
+for allergens see highlighted ingredientscarbonated spring water,43,False
+salsa for topping,43,False
+chia seeds*,43,True
+cereal grains,43,False
+l-c,43,True
+passion fruit juice from concentrate,43,False
+concentrated elderberr,43,False
+cooked basmati rice,43,False
+acesulfame-k,43,True
+bifidobacterium infantis,42,False
+diced onion,42,False
+nigella seeds,42,False
+citric acid*,42,True
+turmeric root,42,False
+portobello mushrooms,42,False
+carrotsâ€,42,True
+coffee extract,42,False
+sauce  [water,42,True
+dried leek,42,False
+fresh cori,42,False
+mango powder,42,False
+whole cows'milkpowder,42,True
+wheatflakes,42,False
+tofu,42,False
+preservatives potassium nitrate,42,False
+prunes,42,False
+fishgelatine,42,False
+british wholegrain cereals,42,False
+coconut nectar,42,False
+free range whole,42,False
+root,42,False
+white grape juice,42,False
+st,42,True
+fortified wheat flour [flour,42,True
+for allergens see highlighted ingredientspeanuts,42,False
+black,42,False
+enne,42,False
+white rice,42,False
+lime zest,42,False
+phosphate,42,False
+sodium acid p,42,False
+cerides,41,False
+chestnuts,41,False
+e464,41,True
+black onion seeds,41,False
+anti-caking agents,41,True
+zinc,41,False
+pork protein,41,False
+for allergens see highlighted ingredientsrice,41,False
+oghurt powder,41,False
+fruits,41,False
+e300,41,True
+# e450,41,True
+texturedwheatprotein,41,False
+skimpowder,41,False
+citral,41,False
+casing,41,False
+dried blueberries,41,False
+blackcurrant concentrate,41,False
+calcium sulphate,41,False
+gluten freeoatflour,41,False
+lamb glace,41,False
+carbox,41,False
+lemons,41,False
+our ingredients,41,False
+gluten free rusk,41,False
+tomato pulp,41,False
+e627,41,True
+cooked beef,41,False
+peppermint,41,False
+elderflowers,41,False
+acid citric acid,41,False
+organic chocolate,41,False
+anglese,41,False
+mes,41,False
+spices ),41,True
+petits pois,41,False
+total sugar content 65g per 100g,41,True
+natural flavourings including quinine,41,False
+pasteurisedã‚,40,True
+mechanicall,40,False
+sour cream powder,40,False
+tamari ),40,True
+sweet blackberr,40,False
+light vegetable stock,40,False
+prepared with 40g of fruit per 100g,40,True
+maltedextract,40,False
+pear juice concentrate,40,False
+ce,40,True
+wholegrain mustard,40,False
+gin,40,False
+groundalmonds,40,False
+manuka hone,40,False
+citronellol,40,False
+garlic puree),40,True
+firming agents ],40,True
+cardamom pod,40,False
+helianthus annuus  seed oil*,40,True
+sesame,40,False
+tofu*,40,True
+me*,40,True
+sugar/liquid sugar,40,True
+vanilla bean powder,40,False
+apple powder,40,False
+aubergines,40,False
+half fat cream,40,False
+â€,40,True
+vegetables*,40,True
+le natural,40,False
+gouda cheese,40,False
+fruit juice concentrate,40,False
+salmon oil,40,False
+ltartaric acid esters of mono-,40,True
+no added ingredients,40,False
+contains,40,False
+dried autol,40,False
+white chocolate chunks,40,False
+â€ rainforest alliance certifiedâ„¢,40,True
+1 pressed apple,40,True
+wensle,40,False
+e435,40,True
+cacao butter,40,False
+dale cheese,40,False
+extracts of,40,False
+pork liver,40,False
+reconstituted dried skimmedmilk,39,False
+sk,39,True
+raising agents disodium diphosphate,39,False
+cornflour),39,True
+colour - riboflavin,39,True
+tocopherol-rich extract,39,True
+aberdeen angus beef,39,False
+raising agent ),39,True
+organic broccoli,39,False
+redcurrants,39,False
+orange extract,39,False
+protein crunchies,39,False
+calcium citrate,39,False
+fresh parsle,39,False
+*approved non-organic ingredient,39,True
+mutton,39,False
+dried cream,39,False
+milksolids,39,False
+drogenated palm oil,39,False
+non-dair,39,True
+rice starch*,39,True
+some milled flax seeds,39,False
+sweetened with an extract from stevia leaf,39,False
+cornstarch,39,False
+for allergens see highlighted ingredientsm,39,False
+skimmed cows'milk,39,True
+figs,39,False
+pasteurised whole,39,False
+e301,39,True
+wheat starch,38,False
+l oleate,38,False
+pasteurised free range egg & egg,38,True
+parboiled long grain rice,38,False
+harissa paste,38,False
+l olivate,38,False
+l acetate,38,False
+les golden s,38,False
+red chilli pepper,38,False
+* all our herbs are gentl,38,True
+pecorino cheese,38,False
+dried crushed chillies,38,False
+gherkin,38,False
+raising agents ),38,True
+butter powder,38,False
+organic strawberries,38,False
+droacetic acid,38,False
+for allergens see highlighted ingredientsrapeseed oil,38,False
+flame raisins,38,False
+concentrated skimmed,38,False
+organic whole,38,False
+malted bread,38,False
+lemon slices,38,False
+semi-skimmedmilk,38,True
+natural ginger flavouring with other natural flavourings,38,False
+spices & herbs,38,True
+marsala wine,38,False
+milk protein,38,False
+onion granules,38,False
+organic tiger prawns,38,False
+rub,38,False
+maltedflakes,38,False
+chocolate chunks,38,False
+sweet fennel seed,38,False
+organic olive oil,38,False
+organic raspberries,38,False
+total sugar content 61g per 100g,38,True
+thickening agents,38,False
+low fat soft cheese,37,False
+milk chocolate contains - cocoa solids,37,True
+rooibos,37,False
+peanutbutter,37,False
+toasted,37,False
+ed beans,37,False
+chard,37,False
+flour [flour,37,True
+natural flavourings),37,True
+whippingcream,37,False
+chipotle chilli,37,False
+natural flavourings including natural quinine,37,False
+smoked water,37,False
+sodium phosphate,37,False
+modified wax,37,False
+lime flavouring,37,False
+dried weight,37,False
+green bean,37,False
+roasted onions,37,False
+basil extract,37,False
+cocoa powder*,37,True
+ground spices  [cori,37,True
+diphosphate,37,False
+celeriac,37,False
+mangoes,37,False
+aroma,37,False
+chopped,37,False
+eflour per 100g of product,37,True
+topping,37,False
+calcium citrates,37,False
+cocoa mass*,37,True
+vitamins c & e,37,True
+dried rosemar,37,False
+stuffing,37,False
+natural colourings,37,False
+plant based emulsifier,37,False
+*includes bifidobacterium,37,True
+spaghetti,37,False
+ammonium bicarbonate),37,True
+cooked wholegrain rice,37,False
+mirin,37,False
+passion fruit juice,37,False
+fruit pectins,36,False
+pure fructose,36,False
+lime flavourings,36,False
+for allergens see highlighted ingredientsglucose-fructose s,36,True
+tocopherols,36,False
+processing aid,36,False
+sugar beet fibre,36,False
+roasted garlic purã©e,36,True
+bulking agent calcium phosphates,36,False
+organic sweetener ),36,True
+bean sprouts,36,False
+pinto beans,36,False
+derivatives of vegetable origin,36,False
+vinegar powder,36,False
+potassium phosphate,36,False
+organic milk chocolate,36,False
+arins,36,False
+helianthus annuus  seed oil,36,False
+vegetable fats [palm,36,True
+all from organic agriculture,36,False
+popped corn,36,False
+mild cheddar cheese,36,False
+herbs*,36,True
+free range driedeggwhite,36,False
+lemon powder,36,False
+l bulgaricus,36,False
+ogurt contains onl,36,False
+cinnamon),36,True
+e163,36,True
+thai green curr,36,False
+cottonseed oil,36,False
+pomegranate juice from concentrate,36,False
+beechwood smoke,36,False
+7,36,True
+thiamin * <,36,True
+smoked back bacon,36,False
+dark chocolate flavoured coating,36,False
+oghurt cultures,36,False
+disodium edta,36,False
+vegetables ),36,True
+pistachio nuts,36,False
+spice extract),36,True
+l palmitate,36,False
+beansprouts,36,False
+jalapeã±o peppers,36,True
+white hibiscus,36,False
+caramel sugar s,36,False
+an salt,36,False
+organic black pepper,36,False
+flour [with calcium,36,True
+chilli peppers,36,False
+sodium diacetate,36,False
+organic stabiliser,36,False
+mixed beans,36,False
+olive extract,36,False
+flavourings including caffeine,36,False
+cotswold spring water,36,False
+mustard seeds,36,False
+flaked,36,False
+e472b,35,True
+cardamom powder,35,False
+mussels,35,False
+malt extract),35,True
+sodium lauro,35,False
+reconstituted skimmedmilkpowder,35,False
+sodium lactate,35,False
+fruit juice concentrates,35,False
+exhausted vanilla bean pieces,35,False
+pasteurised free rangewhite,35,False
+citrus fibre),35,True
+green peppercorns,35,False
+porcini mushroom powder,35,False
+coffee powder,35,False
+for allergens see highlighted ingredientsdurumwheatsemolina,35,False
+natural mint flavouring with other natural flavourings,35,False
+wholegrain rolledoats,35,False
+white balsamic vinegar,35,False
+pastr,35,False
+pearl,35,False
+peppermint leaves,35,False
+roastedhazelnuts,35,False
+east african,35,False
+texturedprotein,35,False
+bergamot flavouring,35,False
+skimmilkpowder,35,False
+lambs lettuce,35,False
+worcestershire sauce,35,False
+cows'milkproteins,35,True
+puree from concentrate,35,False
+vitamins c,35,False
+toffee sauce,35,False
+natural onion flavouring,35,False
+camomile,35,False
+dextrose],35,True
+for allergens see highlighted ingredientscream,35,False
+soz,35,False
+scampi,35,False
+sea salt is a permitted ingredient in organic foods,35,False
+for allergens see highlighted ingredientspartiall,35,False
+duck fat,35,False
+white chocolate contains vegetable fat in addition to cocoa butter,35,False
+acidulant,35,False
+vegetable protein,35,False
+leekâ€,35,True
+contains cocoa solids  minimum,35,False
+reconstituted whe,35,False
+fat-free,35,True
+free range pasteurisedegg,35,False
+self raising flour,35,False
+tetrasodium glutamate diacetate,34,False
+bouillon,34,False
+jalapeno chilli,34,False
+organic rice flour,34,False
+savor,34,False
+*sustainabl,34,True
+fresh egg pasta,34,False
+other natural flavourings,34,False
+apricot purã©e,34,True
+dark chocolate chunks,34,False
+savour,34,False
+cooked chickpeas  [water,34,True
+beans*,34,True
+whole milk,34,False
+reduced fat cheese,34,False
+thiamin * <0,34,True
+black cherries,34,False
+kibbled,34,False
+grana padano pdo cheese,34,False
+steamed parboiled wholegrain rice,34,False
+eflakes,34,False
+vitamin d2,34,True
+glace cherries,34,False
+abean oil,34,False
+onion powderâ€,34,True
+sodium pol,34,False
+eggalbumen,34,False
+wholeeggpowder,34,False
+starbucksâ® arabica coffee,34,True
+white sugar,34,False
+gelling agent ),34,True
+for allergens see highlighted ingredientsoatflakes,34,False
+fresh lemongrass,34,False
+fruit juices from concentrates,34,False
+carotene,34,False
+llin,34,False
+pasteurised free range egg,34,False
+lemon oil),34,True
+freeze dried strawberr,34,False
+p,34,True
+flour blend,34,False
+natural flavours including natural quinine,34,False
+full fat soft cheese  ),34,True
+speltflour,34,False
+dextrose*,34,True
+noodle mix,34,False
+dried chicken,34,False
+aloe barbadensis leaf juice powder*,34,True
+whole grain rolledoats,34,False
+raising agents diphosphates,34,False
+nutmeg extract,33,False
+asafoetida,33,False
+roasted red pepper,33,False
+saccharin,33,False
+dried red chillies,33,False
+gluten free flour blend,33,False
+ricotta full fat whe,33,False
+stabiliser xanthan gum,33,False
+ground rice,33,False
+tes,33,False
+isoprop,33,False
+bread,33,False
+refined so,33,False
+dried lemon peel,33,False
+e920,33,True
+blossom hone,33,False
+natural orange flavourings with other natural flavourings,33,False
+madagascan vanilla extract,33,False
+e chilli,33,False
+wholegrain rolled,33,False
+full cream,33,False
+organic hone,33,False
+coconut water from concentrate,33,False
+milkcream,33,False
+wholegrains,33,False
+jalapeno pepper,33,False
+whole spices,33,False
+tri-,33,True
+sun-dried tomato paste,33,True
+cardamom pods,33,False
+electrol,33,False
+drated vegetables,33,False
+fruit & vegetable concentrates,33,True
+brown rice flour*,33,True
+fish,33,False
+biotin,33,False
+maltedwheat,33,False
+mushroom extract,33,False
+black pepper],33,True
+sauce [water,33,True
+roast garlic purã©e,33,True
+e122,33,True
+natural vanilla flavourings,33,False
+rup powder,32,False
+magnesium oxide,32,False
+for allergens see highlighted ingredientsnoodles,32,False
+seasoning mix,32,False
+blackseeds,32,False
+* = organic,32,True
+tocopher,32,False
+milk chocolate chips,32,False
+sencha green tea,32,False
+buckwheat flour*,32,True
+molasses powder,32,False
+sustainabl,32,False
+tomato juice from concentrate,32,False
+cardamom*,32,True
+sweetener sucralose,32,False
+cellulose fibre,32,False
+flat leaf parsle,32,False
+chocolate flavour coating,32,False
+mustardpowder),32,True
+kaffir lime peel,32,False
+added ingredients,32,False
+beef dripping,32,False
+sweeteners from natural origin,32,False
+hickor,32,False
+lemon fruit from concentrate,32,False
+e129,32,True
+grape extract,32,False
+vanilla extract],32,True
+coconut flour,32,False
+oat base,32,False
+cooking sauce,32,False
+durumwheatsemolina],32,True
+stabilisers di-,32,True
+this,32,False
+plums,32,False
+quark,32,False
+vanilla bean pieces,32,False
+reconstituted skimmedconcentrate,32,False
+wholegrainbarle,32,False
+goats cheese,32,False
+onion powder],32,True
+fat-reduced cocoa powder 4,32,True
+minced beef,32,False
+potassiummetabisulphite,32,False
+cooked spaghetti,32,False
+toastedoil,32,False
+vegetable concentrates [apple,32,True
+t,32,True
+chia  seeds,32,False
+dried peas,31,False
+dried red onion,31,False
+a hint of natural flavourings,31,False
+pecorino romano cheese,31,False
+wine,31,False
+drogenated vegetable fat,31,False
+wild rice,31,False
+dried lemon juice,31,False
+nothing less,31,False
+concentrated tomato juice,31,False
+hop,31,False
+raisins*,31,True
+tapioca dextrin,31,False
+soluble gluco fibre,31,False
+porcini mushroom stock,31,False
+clarifiedbutter,31,False
+for allergens see highlighted ingredientswholemealwheatflour,31,False
+quaker wholegrain rolled,31,False
+grown/produced,31,True
+gluten free wholegrain oats,31,False
+potassium chloride],31,True
+watercress,31,False
+tomato flakes,31,False
+anti caking agent,31,False
+caramel sauce,31,False
+dark speckled lentils,31,False
+fructose 1,31,True
+millet seeds,31,False
+semi-dried cherr,31,True
+natural mineral water,31,False
+sodiummetabisulphite**,31,True
+peanutoil,31,False
+natural coconut flavour,31,False
+herbal infusions,31,False
+natural garlic flavouring,31,False
+a little black carrot extract,31,False
+roasting,31,False
+sea bass,31,False
+bulgurwheat,31,False
+organic vegetables,31,False
+hazelnut,31,False
+cheese & onion seasoning,31,True
+compote,31,False
+for allergens see highlighted ingredientscarrot,31,False
+l rhamnosus,31,False
+roasted onion,31,False
+for allergens see highlighted ingredientswheatflour [with calcium,31,True
+*flora uses certified,31,True
+plant oils,31,False
+vodka,31,False
+contains  of organic ingredients,31,False
+concentrated whe,31,False
+fresh garlic,31,False
+toastedwheatflakes,31,False
+east extract*,31,True
+west countr,31,False
+sunflower lecithin),31,True
+wholemilkpowder #,31,True
+carbonated cotswold spring water,31,False
+stabilised cream,30,False
+organic unsalted butter,30,False
+bilberr,30,False
+l paracasei,30,False
+concentrated raspberr,30,False
+colours ),30,True
+roasted onion paste,30,False
+moisture is lost during cooking,30,False
+medium mature cheddar cheese,30,False
+wheat flour fortified,30,False
+english mustard,30,False
+chickpeas*,30,True
+freeze dried raspberr,30,False
+lecithin),30,True
+*non organic,30,True
+still water,30,False
+roastedalmonds,30,False
+margarine ),30,True
+black tea extract,30,False
+ied mixed peel,30,False
+peanut,30,False
+raw cane sugar #,30,True
+lecithin*,30,True
+beer,30,False
+for allergens see highlighted ingredientsso,30,False
+mozzarella medium fat soft cheese,30,False
+for allergens see highlighted ingredientstuna,30,False
+prepared with 35g of fruit per 100g,30,True
+tamari so,30,False
+lobster,30,False
+smoke flavouring),30,True
+calcium phosphates),30,True
+cornflour],30,True
+olk*,30,True
+white onions,30,False
+shiitake mushroom,30,False
+black carrot extract,30,False
+salt*),30,True
+cocoa solids 70  minimum,30,True
+fennel*,30,True
+dried rose petals,30,False
+wholegrain brown rice,30,False
+baker's,30,True
+binding agent,30,False
+quinine,30,False
+gru,30,False
+cereal crisps,30,False
+teff flour,30,False
+sugars,30,False
+driedbuttermilk,30,False
+dried noodles  [wheat flour,30,True
+lime juice powder,30,False
+vegetarian whe,30,False
+pear juice from concentrate,30,False
+minimum  milk fat,30,False
+british wholegrainoatflakes,30,False
+tri-calcium phosphate,30,True
+mixed vegetables,30,False
+natural cranberr,30,False
+potato starch),30,True
+concentrated black carrot juice,30,False
+coconut blossom nectar,30,False
+mineral,30,False
+caramelised sugar*,30,True
+peppermint leaf,30,False
+english),30,True
+l gl,30,False
+refined olive oil,30,False
+plant extracts,30,False
+for allergens see highlighted ingredientscheese,30,False
+lemon juice*,30,True
+ogurt flavoured coating,30,False
+vitamins a,29,False
+for allergens see highlighted ingredientscod,29,False
+wheatsourdough,29,False
+natural blueberr,29,False
+chopped garlic,29,False
+ground clove,29,False
+acid ),29,True
+preservative sodium,29,False
+polenta,29,False
+pak choi,29,False
+lime leaves,29,False
+gluten free wholegrainoats,29,False
+fairwildâ„¢ certified ingredients  b,29,True
+minimum fat content,29,False
+aprotein crunchies,29,False
+peg-40 h,29,True
+ã¨re cheese,29,True
+skimmed milk powder or concentrate,29,False
+er*,29,True
+roast beef stock,29,False
+unrefined raw cane sugar,29,False
+brine,29,False
+dimeth,29,False
+alecithins,29,False
+malt s,29,False
+morello cherr,29,False
+ground ca,29,False
+dark brown soft sugar,29,False
+porcini mushrooms,29,False
+green bell peppers,29,False
+rump beef,29,False
+noodles  [wheat flour,29,True
+basil pesto,29,False
+apollo lettuce,29,False
+simmondsia chinensis  seed oil,29,False
+*thiamin  has no organic certification,29,True
+inverted brown sugar s,29,False
+organic blueberries,29,False
+e132,29,True
+pure basmati rice,29,False
+thickener xanthan gum,29,False
+brown basmati rice,29,False
+watermelon,29,False
+drogenated castor oil,29,False
+a squeeze of lime,29,False
+sodium cocoamphoacetate,29,False
+arabica,29,False
+potato starch*,29,True
+mozzarella,29,False
+rose petals,29,False
+ground allspice,29,False
+kiwi puree,29,False
+alcohol],29,True
+arin,29,False
+e501,29,True
+pink salmon,29,False
+pasteurised liquid whole free rangeegg,29,False
+gluten free flour,28,False
+cross-linked sodium carbox,28,True
+chicken skin,28,False
+for allergens see highlighted ingredientsmilk**,28,True
+regulator sodium h,28,False
+total sugar content 63g per 100g,28,True
+ground garlic,28,False
+pepper*,28,True
+corn starch*,28,True
+carrot puree,28,False
+organic beef,28,False
+lamb stock,28,False
+crushed chilli flakes,28,False
+for allergens see highlighted ingredientscheddar cheese,28,False
+gelatine h,28,False
+pecorino romano pdo cheese,28,False
+sesame seed,28,False
+sodium acetate,28,False
+caramel pieces,28,False
+venison,28,False
+vintage cheddar cheese,28,False
+sodium,28,False
+coffeepackaged in a protective atmosphere,28,False
+whole grain rolled,28,False
+emulsifiers ],28,True
+sourced sweetener,28,False
+spirit vinegar powder,28,False
+condensed whe,28,False
+liquorice*,28,True
+enne pepper),28,True
+menthol,28,False
+organic chicken,28,False
+colour e150c,28,True
+wheatflour*,28,True
+l fermentum,28,False
+organic lemon juice,28,False
+stear,28,False
+driedso,28,False
+corn flour*,28,True
+cooked marinated chicken,28,False
+mascarpone full fat soft cheese,28,False
+tomatoesâ€,28,True
+broccoli florets,28,False
+vanilla pods,28,False
+for allergens see highlighted ingredientsbeans,28,False
+copper chloroph,28,False
+flax seeds,28,False
+diced mango,28,False
+blackmustardseed,28,False
+kiwi fruit,28,False
+driedmilkwhe,28,False
+carrot fibre,28,False
+enne extract,28,False
+anise,28,False
+milk solids not fat,28,False
+mixed carotenes,28,False
+potato dextrin,28,False
+chocolate*,28,True
+skimmedmilkconcentrate,28,False
+e flour,28,False
+pasta tubes,28,False
+broth powder,28,False
+rapeseed,28,False
+garden peas,28,False
+whole grain,28,False
+magnesium chloride,28,False
+date,28,False
+lates copol,28,False
+super soft flour tortillas,28,False
+toastedsesame seedoil,28,False
+durum wheat semolina,28,False
+cereals containing gluten,27,False
+food acid,27,False
+sweet potatoes,27,False
+borlotti beans,27,False
+for allergens see highlighted ingredientsturke,27,False
+white quinoa,27,False
+wholegrainwheatflakes,27,False
+orange pulp,27,False
+goji berr,27,False
+goat's cheese,27,True
+organic concentrated elderberr,27,False
+dried crushed red chilli,27,False
+sorbitan olivate,27,False
+concentrated beetroot juice,27,False
+concentrated strawberr,27,False
+vegetable concentrate,27,False
+der vinegar,27,False
+comminuted orange from concentrate,27,False
+organic strawberr,27,False
+mango juice from concentrate,27,False
+aspartame*,27,True
+ing,27,False
+quaker rolledoats,27,False
+garlic powder*,27,True
+cereal crispies,27,False
+lemon peel powder,27,False
+orange juice concentrate,27,False
+skimmedmilkfrom concentrate,27,False
+capsicum,27,False
+cerin**,27,True
+chopped tomato,27,False
+powders,27,False
+germ,27,False
+skipjacktuna,27,False
+potassium iodide,27,False
+chamomilla recutita  flower extract,27,False
+lemon pulp,27,False
+free rangelasagne sheets,27,False
+for allergens see highlighted ingredientsmaize,27,False
+glucose - fructose s,27,True
+dried spirit vinegar,27,False
+gdalus dulcis  oil,27,False
+sour dough,27,False
+we bake 380g of apples,27,True
+colour e133,27,True
+british chicken breast fillet,27,False
+sugar cane,27,False
+pork meat,27,False
+margarine [palm oil,27,True
+pasteurisedmilk,27,False
+flavouring ),27,True
+nettle,27,False
+cognac,27,False
+sweet whe,27,False
+natural brown basmati rice - steamed,27,True
+dried free rangeeggwhite,27,False
+tamarind juice,27,False
+bamboo shoot,27,False
+[wheatflour,27,True
+fruit juices,27,False
+fishextract,27,False
+chamomile flower,27,False
+for allergens see highlighted ingredientsvegetables,27,False
+ground almond,27,False
+oatbran,27,False
+romaine lettuce,27,False
+dimethicone,27,False
+sultana,26,False
+panthenol,26,False
+fruit ),26,True
+salted caramel sauce,26,False
+chicken meat,26,False
+animal rennet,26,False
+origin,26,False
+rice protein*,26,True
+preservative - potassium sorbate,26,True
+dried pasta,26,False
+ula angustifolia  oil*,26,True
+sed pea protein,26,False
+linseeds*,26,True
+british cream,26,False
+ground chilli,26,False
+fromage frais ),26,True
+natural emulsifier #,26,True
+milklactose,26,False
+tapioca*,26,True
+plum tomatoes,26,False
+1,26,True
+fair trade ingredients certified according to the fair for life st,26,False
+organic fromage frais,26,False
+cooked ham,26,False
+sundried tomato,26,False
+ascorbic acid],26,True
+agar,26,False
+grapefruit juice from concentrate,26,False
+apricot kernels,26,False
+dried skimmed cows'milkpowder,26,True
+green cardamom,26,False
+ground coffee],26,True
+dried grapes,26,False
+made with all natural ingredients nothing more,26,False
+parsnips,26,False
+wholeflour,26,False
+dried lemon juice concentrate,26,False
+sun dried tomato,26,False
+refinedbarle,26,False
+peach puree,26,False
+propane-1,26,True
+sweeteners sorbitol,26,False
+allergens,26,False
+preservativesulphur dioxide,26,False
+preservative sodiummetabisulphite,26,False
+vanilla),26,True
+organic tomato puree,26,False
+wheatma,26,False
+natural caramelised sugar,26,False
+skipjack,26,False
+colour plain caramel,26,False
+cloves*,26,True
+free rangeeggwhite,26,False
+batter  rice,26,False
+broad bean),26,True
+smoke flavouring],26,True
+natural mango flavouring with other natural flavourings,26,False
+for allergens see highlighted ingredientswholemilk,26,False
+3,26,True
+modified corn flour,26,False
+natural vanilla flavour),26,True
+skimmed milk,26,False
+white chocolate curls,26,False
+tuna [fish],26,True
+partl,26,False
+crustaceans,26,False
+ellow thai curr,26,False
+fresheggs,25,False
+segregated sustainable palm oil,25,False
+aqua/water/eau,25,True
+black onion seed,25,False
+peasâ€,25,True
+g,25,True
+natural mustard flavouring,25,False
+beeswax,25,False
+pomegranate,25,False
+wild rocket,25,False
+/or maize glucose s,25,True
+streak,25,False
+firming agents ] sauce,25,True
+plain flour,25,False
+organic mangoes,25,False
+crushed chillies,25,False
+organic agave nectar,25,False
+liquorice,25,False
+comminuted lemon from concentrate,25,False
+beetroot juice,25,False
+cinnamon bark,25,False
+fermentedso,25,False
+pineapple juice concentrate,25,False
+cheese & onion seasoning [dried onion,25,True
+*contains a source of phen,25,True
+chilli purã©e,25,True
+disodium phosphate,25,False
+vitamin b12],25,True
+antioxidant e306,25,True
+almondbutter,25,False
+brilliant blue,25,False
+soluble corn fibre,25,False
+vanilla powder,25,False
+squid,25,False
+barbecue seasoning,25,False
+cooked brown rice,25,False
+paraffinum liquidum,25,False
+sea salt 0,25,True
+robusta coffee,25,False
+colours e162,25,True
+creamed coconut squares,25,False
+vegetable extract,25,False
+finemilkchocolate,25,False
+biscuit,25,False
+broth paste,25,False
+green cabbage,25,False
+hungarian paprika,25,False
+unsaltedbutter,25,False
+cucumbers,25,False
+saltingredients,25,False
+gluten free breadcrumbs,25,False
+preservatives potassium sorbate,25,False
+ground almonds,25,False
+l benzoate,25,False
+fresh whole,25,False
+red pesto,25,False
+pineapple concentrate,25,False
+gluten free flour ),25,True
+edamame bean,25,False
+a squeeze of lemon,25,False
+milk chocolate [sugar,25,True
+clove powder,25,False
+microcr,25,False
+rup #,25,True
+iceberg lettuce,25,False
+chocolate pieces,25,False
+organic garlic <,25,True
+1rainforest alliance certifiedâ„¢,25,True
+* = permitted non-organic ingredient,25,True
+sauce ),25,True
+soft cheese,25,False
+ogurt ),25,True
+clove extract,25,False
+dates*,25,True
+cocoa solids 40  minimum,25,True
+cocos nucifera  oil,25,False
+l stearate se,25,False
+jalapeã±o pepper,25,True
+a bean oil,25,False
+garlicâ€,25,True
+blend,25,False
+acids citric acid,25,False
+er),25,True
+organic peas,24,False
+freeze dried blueberries,24,False
+pasteurised british free rangeegg,24,False
+pink peppercorns,24,False
+goats' cheese,24,True
+organic sweet potatoes,24,False
+a dash of safflower extract,24,False
+popped maize,24,False
+citrus fruit from concentrate,24,False
+marc de champagne,24,False
+anchovies,24,False
+choppedalmonds,24,False
+e475,24,True
+salami,24,False
+sourced palm oil,24,False
+rectified concentrated grape must,24,False
+freeze dried strawberries,24,False
+quinoa flakes,24,False
+kaffir lime leaf,24,False
+for allergens see highlighted ingredientssemi skimmedmilk,24,False
+demerara sugar),24,True
+ula angustifolia  oil,24,False
+organic concentrated grape juice,24,False
+uzu juice,24,False
+pork ribs,24,False
+natural vanilla flavouring with other natural flavourings,24,False
+prepared with 45g of fruit per 100g,24,True
+acids],24,True
+giant couscous,24,False
+of the agricultural ingredients are produced in accordance with the rules of organic production under organic certification us-org-050,24,True
+green tea*,24,True
+concentrated,24,False
+blackcurrant purã©e,24,True
+low fat cocoa powder,24,False
+puffed quinoa,24,False
+ashwag,24,False
+*denotes organic ingredients,24,True
+mushroom juice concentrate,24,False
+brie cheese,24,False
+sucrose laurate,24,False
+olive oil*,24,True
+glazing agent ],24,True
+green split peas,24,False
+tenderstemâ® broccoli,24,True
+total cocoa constituents,24,False
+grav,24,False
+natural cucumber flavouring,24,False
+fruit pieces,24,False
+sourced from fairtrade producers,24,False
+l dicarbonate,24,False
+various sugars,24,False
+8,24,True
+ginger paste,24,False
+roasted vegetables,24,False
+condensedmilk,24,False
+are organic,24,False
+mixed nuts,24,False
+dried skimmed milk,24,False
+organic sunflower seeds,24,False
+maltodextrins,24,False
+distilledbarle,24,False
+red pepper*,24,True
+beetroot extract,24,False
+natural blackcurrant flavouring with other natural flavourings,24,False
+beanoil,24,False
+konjac flour,24,False
+for allergens see highlighted ingredientsmaltodextrin,24,False
+ellowmustardseeds,24,False
+dried sweetcorn,24,False
+palm oil ),24,True
+cold pressed rapeseed oil,24,False
+gluten free breadcrumb,24,False
+atlantic cod,24,False
+carrier,24,False
+simmondsia chinensis  seed oil*,24,True
+vegetarian medium fat hard cheese,24,False
+lemongrass*,24,True
+cooked macaroni,24,False
+fresh onion,24,False
+wasabi powder,24,False
+stabiliser #,24,True
+demineralised whe,24,False
+a protein,24,False
+ground fennel seed,24,False
+bread flour,24,False
+fat-reduced cocoa powder #,24,True
+natural coffee flavouring,24,False
+oranges  squeezed into ever,24,False
+wheat malt,24,False
+sugar #,24,True
+stalline cellulose,24,False
+seasoning [salt,24,True
+lasagne sheets,24,False
+reconstituted buttermilk,24,False
+coarse black pepper,24,False
+alcohol denat*,24,True
+vegetable proteins,24,False
+tahinisesame seedpaste,24,False
+marrowfat peas,24,False
+fortified wheatflour [wheatflour,23,True
+traditional food ingredients,23,False
+2,23,True
+coconut*,23,True
+tomato ketchup,23,False
+high fructose corn s,23,False
+driedbarle,23,False
+1/3 of a mashed bananaâ€,23,True
+dried buttermilk,23,False
+elion root,23,False
+whole cows'milk,23,True
+risotto rice,23,False
+drated,23,False
+for allergens see highlighted ingredientsbutter,23,False
+pear puree,23,False
+*sea salt,23,True
+capsanthin,23,False
+organic pork,23,False
+chestnut mushroom,23,False
+organic durumsemolina,23,False
+digestive biscuit crumb,23,False
+regulator trisodium citrate,23,False
+antioxidant e306],23,True
+dark chocolate  [cocoa mass,23,True
+mallow,23,False
+dark belgian chocolate,23,False
+potassium chloride),23,True
+apricot puree,23,False
+chocolate sauce,23,False
+e150a,23,True
+filo pastr,23,False
+vegetable protein extracts,23,False
+organic cornflour,23,False
+groundmustardseeds,23,False
+cerol mono stearate,23,False
+cooked free range egg pasta,23,False
+stallised stem ginger,23,False
+aprotein isolate,23,False
+calendula officinalis flower extract,23,False
+minimum cocoa solids,23,False
+for allergens see highlighted ingredientsmilk chocolate,23,False
+medium fat softcheese,23,False
+see ingredients,23,False
+shiitake mushrooms,23,False
+white grape vinegar,23,False
+null,23,False
+natural chilli flavouring,23,False
+l m,23,False
+made from pasteurised cows',23,True
+modified manioc,23,False
+thickener e412,23,True
+raising agent ammonium h,23,False
+concentrated grape must,23,False
+chilli blend,23,False
+smoked ham,23,False
+cooked egg pasta,23,False
+organic cheddar cheese,23,False
+tricalcium citrate,23,False
+rspo-sustainable palm oil,23,True
+as some moisture is lost during curing,23,False
+culture,23,False
+e452,23,True
+sodium carbox,23,False
+minimum milk solids 24,23,True
+minimum cocoa solids 37,23,True
+dried red peppers,23,False
+a dash of antioxidant,23,False
+drogenated sunflower oil,23,False
+lavender,23,False
+cottage cheese,23,False
+roastedmalt extract,23,False
+propanediol,23,False
+vinegar*,22,True
+organic hemp oil,22,False
+organic jojoba oil,22,False
+cooked penne pasta,22,False
+caramelised onion,22,False
+vegetable stock*,22,True
+extracts,22,False
+demerera sugar,22,False
+potato snack,22,False
+brown crab meat,22,False
+black cardamom,22,False
+for allergens see highlighted ingredientsapple,22,False
+invertase,22,False
+dried sweetened cranberries,22,False
+vitamin,22,False
+emulsifier - triphosphates),22,True
+organic coconut oil*,22,True
+golden flaxseed,22,False
+for allergens see highlighted ingredientsonion,22,False
+e635,22,True
+pasteurised free range wholeegg,22,False
+garlic),22,True
+organic olive oil*,22,True
+carrot*,22,True
+rock salt,22,False
+l/capr,22,True
+vegetable stock [salt,22,True
+grated vegetarian hard cheese,22,False
+smoked dextrose,22,False
+wheatstarch),22,True
+ground star anise,22,False
+pear juice,22,False
+mangetout,22,False
+fine beans,22,False
+sunblushâ® tomatade,22,True
+curl,22,False
+llium fibre,22,False
+real pressed lemon juice,22,False
+marmiteâ®,22,True
+pork extract,22,False
+sweetheart cabbage,22,False
+this product contains  wholegrains from wholemeal flour,22,False
+pasteurizedegg,22,False
+e160e,22,True
+organic courgettes,22,False
+to maintain their shape & texture,22,True
+rosehip*,22,True
+spelt,22,False
+hoisin sauce,22,False
+rice flour),22,True
+palm fat*,22,True
+excluding water,22,False
+cashew nut,22,False
+palm kernel,22,False
+grape must concentrate,22,False
+white rice flour,22,False
+organic spinach,22,False
+paprika oil,22,False
+sunset,22,False
+long grain rice],22,True
+maltodextrin],22,True
+potassium lactate,22,False
+flaxseeds,22,False
+tamari,22,False
+matcha powder,22,False
+cheeses,22,False
+olea europaea  fruit oil*,22,True
+elderflower,22,False
+limonene*,22,True
+lmeth,22,False
+for allergens see highlighted ingredientssunflower oil,22,False
+stevia,22,False
+cracked cori,22,False
+pickled garlic  [garlic,22,True
+molasses],22,True
+ristate,22,False
+from olives,22,False
+rhubarb juice from concentrate,22,False
+cooked pasta [water,22,True
+fermented botanical extracts,22,False
+vegetable ghee,22,False
+fresh elderflower extract,22,False
+jalapeno peppers,22,False
+semi dried tomatoes,22,False
+chicken bouillon,22,False
+self-raising flour,22,True
+ukpackaged in a protective atmosphere,22,False
+a dash of guarana infusion,22,False
+dried orange peel,22,False
+l salic,22,False
+vegetable mix,22,False
+evaporatedmilk,22,False
+protein blend,22,False
+carnaubawax,22,False
+for allergens see highlighted ingredientstomato purã©e,22,True
+whole grain corn flour,22,False
+radish concentrate,22,False
+eggpowder,22,False
+amaranth flour,22,False
+turnip,22,False
+l isethionate,22,False
+mint oils,21,False
+roast & ground coffee,21,True
+gluten free white bread,21,False
+stabiliser ],21,True
+pitted prunes,21,False
+british whipping cream,21,False
+citrus aurantium dulcis  peel oil,21,False
+organic pears,21,False
+jackfruit,21,False
+reduced sodium sea salt,21,False
+droxide**,21,True
+thickener ),21,True
+natural watermelon flavouring with other natural flavourings,21,False
+fermented so,21,False
+halloumi cheese,21,False
+steine,21,False
+rup solids*,21,True
+4,21,True
+chocolate flavoured coating,21,False
+bulgur,21,False
+red rice,21,False
+colours anthoc,21,False
+edamameso,21,False
+ground cassia,21,False
+a dash of spirulina extract,21,False
+for allergens see highlighted ingredientsspring water,21,False
+teri,21,False
+**contains 13 live 'n' active cultures including,21,True
+for allergens see highlighted ingredientsrolledoats,21,False
+for allergens see highlighted ingredientscereals,21,False
+diced garlic,21,False
+plant sterol esters,21,False
+dijonmustard,21,False
+toasted onion,21,False
+concentrated chicken stock,21,False
+processed peas,21,False
+oza filling,21,False
+tenderstem broccoli,21,False
+concentrated fruit juices**,21,True
+acet,21,False
+stabiliser e501,21,True
+double cream #,21,True
+split peas,21,False
+dried noodles,21,False
+protein h,21,False
+camomile*,21,True
+regulator - lactic acid,21,True
+vegetable gum,21,False
+modified rice starch,21,False
+organic mixed herbs <,21,True
+vanilla beans,21,False
+b-carotene,21,True
+seasonings,21,False
+acetic acid),21,True
+dark chocolate  [sugar,21,True
+organic dark chocolate,21,False
+preservatives sodium nitrate,21,False
+red chilli flakes,21,False
+for allergens see highlighted ingredientsrice flour,21,False
+olk**,21,True
+popped butterfl,21,False
+for allergens see highlighted ingredientssweeteners,21,False
+driedeggalbumen,21,False
+crisps,21,False
+ellowmustardseed,21,False
+cooked potato,21,False
+lemon verbena,21,False
+**from free range eggs,21,True
+dratedso,21,False
+dough,21,False
+dried mango,21,False
+arabica coffee*,21,True
+for allergens see highlighted ingredientsdates,21,False
+sugar traded in compliance with fairtrade st,21,False
+british chicken thigh,21,False
+sauce extract,21,False
+gammon,21,False
+bread crumbs,21,False
+*organic origin,21,True
+#lecithin is used to help the sauce blend with the fish juices on cooking,21,True
+concentrated beef stock,21,False
+whole grain rice flour ),21,True
+breadcrumb coating,21,False
+glazing agent calcium carbonate,21,False
+for allergens see highlighted ingredientssultanas,21,False
+natural colour ),21,True
+herbs de provence,21,False
+lactic acid esters of mono-,21,True
+e415,21,True
+squeezed lemon juice,21,False
+*from free range eggs,21,True
+freeze-dried arabica coffee,21,True
+kaffir lime leaves,21,False
+zinc oxide,21,False
+sweet-cure bacon,21,True
+powder),21,True
+free range driedwhite,21,False
+seeds*,21,True
+dried glucose,21,False
+ginger juice,21,False
+dried bell pepper,21,False
+nutritional,21,False
+green pesto,21,False
+starter cultures,21,False
+for allergens see highlighted ingredientsreh,21,False
+sodium coco,21,False
+safflower oil,21,False
+for allergens see highlighted ingredientsgreen tea,21,False
+apples*,21,True
+organic peppercorns <0,21,True
+rose extract,21,False
+bifidobacterium species,20,False
+produced ingredient,20,False
+organic vanilla extract,20,False
+refined palm oil,20,False
+spaghetti ),20,True
+dried beef bonestock,20,False
+kibbled onion,20,False
+organic green tea,20,False
+chicken wings,20,False
+alecithin*,20,True
+milkchocolate  ^sugar,20,True
+chilli puree,20,False
+broad bean flour,20,False
+new zeal,20,False
+oghurt  fermented with kefir cultures**,20,True
+mincemeat,20,False
+colour e101,20,True
+natural colours ),20,True
+new potatoes,20,False
+e150d,20,True
+for allergens see highlighted ingredientscocoa mass,20,False
+colour carotenes,20,False
+dried green pepper,20,False
+mallow  [glucose s,20,True
+ula h,20,False
+east],20,True
+a oil,20,False
+palm oil),20,True
+emulsifier lecithin,20,False
+corn fibre,20,False
+sorbate 60,20,True
+chloroph,20,False
+pea shoots,20,False
+black tea*,20,True
+a lecithin,20,False
+rice flakes,20,False
+sesame seedoil,20,False
+fresh galangal,20,False
+colour  ma,20,False
+jasmine rice,20,False
+kibbledr,20,False
+e beans,20,False
+dried vinegar,20,False
+habanero chilli,20,False
+crushed pine kernels,20,False
+rainbow trout,20,False
+cooked long grain rice,20,False
+dried ginger,20,False
+jalapeã±o,20,True
+* i have no organic certification,20,True
+soluble maize fibre,20,False
+sauce powder [so,20,True
+artichokes,20,False
+double gloucester cheese,20,False
+apricot filling,20,False
+natural botanical distillates,20,False
+kellogg's toasted rice cereal,20,True
+dark chocolate shavings,20,False
+potato powder,20,False
+rospermum parkii  butter,20,False
+organic cocoa powder,20,False
+e339,20,True
+marmite,20,False
+dried malt vinegar,20,False
+groundalmond,20,False
+mixed peel,20,False
+comminuted lemon,20,False
+adipic acid,20,False
+organic cold-pressed sunflower oil,20,True
+fresh kaffir lime peel,20,False
+cold brew coffee,20,False
+trisodium phosphate,20,False
+vegetable bouillon*,20,True
+pasteurised milk,20,False
+lactic ferments,20,False
+dried mushrooms,20,False
+potassium carbonate,20,False
+anti-foaming agent,20,True
+allura red **,20,True
+pepper sauce,20,False
+for allergens see highlighted ingredientsapple juice,20,False
+microbial rennet,20,False
+gluten freeflour,20,False
+ginger extracts,20,False
+beef gelatin,20,False
+organic cacao powder,20,False
+horseradish sauce,20,False
+**rainforest alliance certifiedâ„¢,20,True
+*organic ingredient,20,True
+fat reduced cocoa powderâ_,20,True
+e300],20,True
+echinacea root,20,False
+coumarin,20,False
+sourdough culture,20,False
+juniper berries,20,False
+chipotle paste,20,False
+malt extract],20,True
+for allergens see highlighted ingredientsreconstituted skimmed milk,20,False
+filled into beef collagen casings,20,False
+english,20,False
+maize semolina,20,False
+brown bread,20,False
+saffron,20,False
+rice crisps,19,False
+free range driedegg,19,False
+lard,19,False
+a dash of beetroot juice,19,False
+watermelon juice from concentrate,19,False
+for allergens see highlighted ingredientsmackerel,19,False
+gdalus dulcis oil,19,False
+ferric p,19,False
+collagen h,19,False
+texturedso,19,False
+tarragon extract,19,False
+fishpowder,19,False
+thiamin*],19,True
+organic skimmedpowder,19,False
+smoked streak,19,False
+[flour,19,True
+fish stock,19,False
+reconstituted dried potato,19,False
+crushed chilli,19,False
+l-2 lact,19,True
+whipping,19,False
+fondant,19,False
+sodium laur,19,False
+milk powder,19,False
+color,19,False
+flavour),19,True
+stabiliser pentasodium triphosphate,19,False
+mint extract,19,False
+cream of tartar,19,False
+asauce,19,False
+organic turmeric,19,False
+pure nitrogen,19,False
+original granar,19,False
+lcellulose],19,True
+the waffles,19,False
+smoke flavoured pork pepperoni,19,False
+macaroni pasta,19,False
+thickener [meth,19,True
+chinese leaf,19,False
+angostura bark extract,19,False
+bourbon vanilla extract,19,False
+120g of lemons,19,True
+drated onions,19,False
+decaffeinated roast,19,False
+lase,19,False
+button mushrooms,19,False
+cooked rice noodles,19,False
+niacinamide,19,False
+fruit juices from concentrate 4,19,True
+evian natural mineral water,19,False
+1 squeezed orange,19,True
+white grape,19,False
+organic double cream,19,False
+gluten free crumb,19,False
+apple cider vinegar*,19,True
+light soft brown sugar,19,False
+*water,19,True
+wholemeal britishwheatflour,19,False
+vine fruits,19,False
+molluscs,19,False
+potato solids,19,False
+raising agents sodium h,19,False
+inulin*,19,True
+natural vanilla flavouringâ_,19,True
+e316,19,True
+white hibiscus*,19,True
+natural blood orange flavouring with other natural flavourings,19,False
+organic mushrooms,19,False
+belgian dark chocolate chunks,19,False
+saltallerg,19,False
+aronia juice from concentrate,19,False
+oregano),19,True
+tetrasodium edta,19,False
+rice*,19,True
+ground spices  [spices,19,True
+rup**,19,True
+for allergens see highlighted ingredientscabbage,19,False
+white rice vinegar,19,False
+l cocoate,19,False
+natural fruit extracts,19,False
+for allergens see highlighted ingredientsmaize starch,19,False
+for allergens see highlighted ingredientsicing sugar,19,False
+certified b,19,False
+lemon balm,19,False
+â—_ = contains non organic anti-caking agent - silicon dioxide,19,True
+linalool*,19,True
+sour cherries,19,False
+*contains 13 live 'n' active cultures including,19,True
+blanched,19,False
+co2,19,True
+tomatoes in oil,19,False
+nettle leaf,19,False
+rene/acr,19,True
+theobroma cacao  seed butter,19,False
+pulp,19,False
+olea europaea  fruit oil,19,False
+vitamin mix,19,False
+tang,19,False
+*from organic farming,19,True
+tomato powderâ€,19,True
+full fat hard cheese,19,False
+carob fruit s,19,False
+have an adverse effect on activit,19,False
+organic ginger,19,False
+organic green beans,19,False
+herbs & spices,19,True
+cornish sea salt,19,False
+rice flour 2,19,True
+leavening agents,19,False
+pepper),19,True
+potassium carbonates,19,False
+lupin,19,False
+vegetable fats  in var,19,False
+butternut,19,False
+soft light brown sugar,19,False
+*permitted non-organic ingredients,19,True
+drated sun-dried tomatoes,18,True
+total 99,18,True
+minimum cocoa solids 60,18,True
+stallised ginger #,18,True
+traded,18,False
+acid malic acid,18,False
+wholegrainwheatflour,18,False
+late crosspol,18,False
+l acr,18,False
+onion seeds,18,False
+lemon conc,18,False
+natural stabiliser,18,False
+piquillo peppers,18,False
+hemp seeds,18,False
+sodium caseinate,18,False
+attention in children,18,False
+raising agent sodium h,18,False
+modified hop extract,18,False
+e252,18,True
+beef powder,18,False
+oghurt ),18,True
+macadamia nuts,18,False
+grass,18,False
+sed maize protein,18,False
+semidried tomatoes in oil,18,False
+tamarind powder,18,False
+vegetable oils  in var,18,False
+malt extract*,18,True
+morello cherries,18,False
+hazelnut paste,18,False
+spirit vinegar*,18,True
+brown rice malts s,18,False
+leacheesedip,18,False
+er extract,18,False
+sorbitan monostearate,18,False
+duck liver,18,False
+black peppercooked pasta contains,18,False
+sweet paprika,18,False
+a dash of ginger infusion,18,False
+lgl,18,False
+peg-7 gl,18,True
+for allergens see highlighted ingredientsalmonds,18,False
+custard,18,False
+organic sweet rice flour,18,False
+cooked marinated chicken breast,18,False
+pasteurized,18,False
+noodle,18,False
+ellowseeds,18,False
+er chutne,18,False
+hol,18,False
+salt & vinegar flavour [natural flavourings,18,True
+quaternium-7,18,True
+lemon juice powder ma,18,False
+dried lime juice,18,False
+shelled*,18,True
+low fat cocoa,18,False
+calcium h,18,False
+minced garlic,18,False
+vegetables oils,18,False
+am,18,True
+e524,18,True
+toasted garlic,18,False
+lamb extract,18,False
+colour e141,18,True
+langoustine,18,False
+milkpermeate powder,18,False
+creampowder,18,False
+peanutflour,18,False
+emulsifier {so,18,True
+sodium levulinate,18,False
+glucono delta lactone,18,False
+lovage,18,False
+for allergens see highlighted ingredientsbeetroot,18,False
+filled into natural pork casings,18,False
+ard,18,False
+italian st,18,False
+e160c,18,True
+stabilisers guar gum,18,False
+passionfruit juice,18,False
+**equivalent to 55  fruit juice,18,True
+sorbate 80,18,True
+clarified,18,False
+organic raisins,18,False
+blue weber agave inulin*,18,True
+liquorice powder,18,False
+e331,18,True
+sweet chilli seasoning,18,False
+pink himala,18,False
+ied citrus peel,18,False
+virgin coconut oil,18,False
+pork sausage,18,False
+sesame seedpaste,18,False
+heat treated to make them safe to drop into cold water,18,False
+for allergens see highlighted ingredientssteamed parboiled long grain rice,18,False
+crackers,18,False
+l glutamate,18,False
+potato flakes*,18,True
+creamed coconut*,18,True
+orange peels,18,False
+dark chocolate pieces,18,False
+aoil,18,False
+groundcashew nuts,18,False
+modified starch*,18,True
+leaf*,18,True
+lon black tea,18,False
+coffee essence,18,False
+prepared with 55g of fruit per 100g,18,True
+maris sal,18,False
+hex,18,False
+prepared with 20g of fruit per 100g,18,True
+molasses*,18,True
+tomato 99,18,True
+diced tomato,18,False
+organic parsnips,18,False
+orange essential oil flavour*,18,True
+greens,18,False
+*naturall,18,True
+cacao butter*,18,True
+milk chocolate  minimum,18,False
+rup),18,True
+natural beechwood smoke,18,False
+chia seed,18,False
+cetrimonium chloride,18,False
+medium fat soft,18,False
+organic flaxseed,18,False
+sal fat,18,False
+red grape juice,18,False
+trisodium citrates,18,False
+potassium metabisulphite,18,False
+carrot purã©e,18,True
+toastedflakes,18,False
+produced ingredients,18,False
+spice mix,18,False
+aprotein crispies,18,False
+organic lemon oil,18,False
+stabilisers - guar gum,18,True
+cheese flavour [whe,18,True
+pink grapefruit juice from concentrate,18,False
+processed cheese,18,False
+cornmeal*,18,True
+baking powder ),18,True
+british double cream,18,False
+separated chicken,18,False
+agave nectar,18,False
+fennel seed*,18,True
+condensed wholemilk,18,False
+roasted cumin,18,False
+sweeteners acesulfame k,18,False
+toasted onion powder,18,False
+rolled oats,17,False
+grilled red peppers,17,False
+coproteinâ„¢*,17,True
+sunflower),17,True
+seasoning with sea salt,17,False
+halloumi,17,False
+total sugar content 60g per 100g,17,True
+vegetable juice concentrates,17,False
+cooked rice [water,17,True
+carob flour,17,False
+glucono-delta-lactone,17,True
+spirit vinegar),17,True
+cassava,17,False
+it is a natural material found in man,17,False
+lemon whole,17,False
+juniper,17,False
+63g per 100g,17,True
+black cherr,17,False
+blue stiltonâ® cheese,17,True
+serrano ham,17,False
+roast chicken bouillon,17,False
+using ingredients of varied origin,17,False
+jasmine rice],17,True
+dried mature cheddar cheese,17,False
+british full fat soft cheese,17,False
+petrolatum,17,False
+natural lemongrass flavouring,17,False
+dark chocolate [cocoa mass,17,True
+lactic acid culture,17,False
+trigl,17,False
+*from concentrate,17,True
+freeze dried fruits,17,False
+pu,17,True
+vanilla flavour,17,False
+chilli heatwave flavour [sugar,17,True
+organic diced tomatoes,17,False
+buckwheat flakes,17,False
+isolatedprotein,17,False
+dark chocolate contains cocoa solids,17,False
+almondpieces,17,False
+pistachio,17,False
+including cereals containing gluten,17,False
+gluten free flours,17,False
+white chocolate [sugar,17,True
+natural citrus flavouring,17,False
+our tea bags contain  black tea,17,False
+reconstituted skimmedpowder,17,False
+lacticferments,17,False
+organic quinoa,17,False
+palm oil #,17,True
+molasses #,17,True
+seasoning powder,17,False
+modified starches,17,False
+dried banana,17,False
+barbecue sauce,17,False
+radicchio,17,False
+regulators ),17,True
+comb,17,False
+rice powder* [],17,True
+black gram flour,17,False
+*not to be confused with gmo  ingredients,17,True
+fennel powder,17,False
+preservatives ],17,True
+onions*],17,True
+chili powder,17,False
+sweet basil,17,False
+pasteurisedwhite,17,False
+organic fruit juices from concentrate,17,False
+for allergens see highlighted ingredientsstrawberr,17,False
+late copol,17,False
+fruit puree,17,False
+for allergens see highlighted ingredientsblack tea,17,False
+condensed whole,17,False
+chilli seasoning,17,False
+chopped tomatoes in tomato juice,17,False
+powder*,17,True
+spice blend,17,False
+organic chickpea flour,17,False
+- total cocoa constituents,17,True
+coconut milk powder*,17,True
+organic agave s,17,False
+oghurt cultures ],17,True
+red pepper purã©e,17,True
+isolatedso,17,False
+*produced from geneticall,17,True
+shea butter,17,False
+decaffeinated black tea,17,False
+[salt,17,True
+stallised ginger,17,False
+milk chocolate curls,17,False
+organicflour,17,False
+seasoning sauce 21,17,True
+extra-virgin olive oil,17,True
+for allergens see highlighted ingredientsskipjack tuna,17,False
+e162,17,True
+flavouringmilk chocolate contains,17,False
+low sodium salt,17,False
+colour annatto,17,False
+popping c,17,False
+galangal root,17,False
+milkminerals concentrate,17,False
+beef fillet,17,False
+toasted pine nuts,17,False
+sugar snap peas,17,False
+palm stearine,17,False
+organic tofu,17,False
+sugar cane s,17,False
+some ma,17,False
+l sarcosinate,17,False
+plaice,17,False
+natural flavour),17,True
+cod fillet,17,False
+benzoic acid,17,False
+stabiliser guar gum,17,False
+drous,17,False
+gluten free barle,17,False
+organic red peppers,17,False
+paprika],17,True
+szechuan pepper,17,False
+wheat maltodextrin,17,False
+semi-dried tomatoes,17,True
+e476,17,True
+poultr,17,False
+sorbitan tristearate,17,False
+or,17,True
+aloe barbadensis **,17,True
+*from fruit,17,True
+white grapes,17,False
+hake,17,False
+for allergen,17,False
+regato medium fat hard cheese,17,False
+whole bean coffee,17,False
+grilled red pepper,17,False
+balsamic vinegar powder,16,False
+blackmustardseeds,16,False
+diced bramle,16,False
+ster extract,16,False
+organic raspberr,16,False
+dark chocolate flavour coating,16,False
+goose fat,16,False
+wheat flour ^wheatflour,16,True
+herb ),16,True
+brown rice malt,16,False
+minced british beef,16,False
+dried rice,16,False
+contains lactobacillus casei shirota,16,False
+for allergens see highlighted ingredientsoats,16,False
+smoked maltodextrin,16,False
+gluten freewheatfibre,16,False
+unrefined cane sugar,16,False
+pasteurised cow's,16,True
+driedalbumen,16,False
+xanthan gum],16,True
+organic butternut squash,16,False
+rice semolina,16,False
+sugar* [],16,True
+orange peel extract,16,False
+herbs),16,True
+pasteurised liquidegg,16,False
+drated dried apricots,16,False
+garlic],16,True
+pork collagen,16,False
+cooked pinto beans,16,False
+groundceler,16,False
+silverskin onion,16,False
+stabilisers locust bean gum,16,False
+ginger],16,True
+colourings,16,False
+ascorbic acid ** squashed into ever,16,True
+carmines,16,False
+milk chocolate crumb,16,False
+palm fat),16,True
+statutor,16,False
+pasteurised free range whole,16,False
+skimmedfrom concentrate,16,False
+skimmedpowder or concentrate,16,False
+rspca assured pork,16,False
+british outdoor bred,16,False
+ground fennel seeds,16,False
+white wine extract,16,False
+redcurrant,16,False
+red thai curr,16,False
+milk chocolate pieces,16,False
+limes,16,False
+cauliflower florets,16,False
+organic pumpkin seeds,16,False
+british beef fat,16,False
+egg pasta,16,False
+cracked,16,False
+oatmeal bread,16,False
+l esters,16,False
+coconut nectar*,16,True
+llium,16,False
+courgettes*,16,True
+choi sum,16,False
+herring,16,False
+chocolate contains cocoa solids,16,False
+fat  min,16,False
+aged ca,16,False
+millet flour,16,False
+for allergens see highlighted ingredientslive,16,False
+regulators - citric acid,16,True
+sweetening blend,16,False
+selenium,16,False
+blend of palm oil,16,False
+concentrated lemon juice),16,True
+ham hock,16,False
+cheese flavour [dried cheese,16,True
+ster mushrooms,16,False
+isobutane,16,False
+flour [wheatflour,16,True
+chocolate flavoured sauce,16,False
+condensed,16,False
+horseradish powder,16,False
+for allergens see highlighted ingredientswholegrainwheat,16,False
+antioxidant rosemar,16,False
+malted wheat flour),16,True
+strained,16,False
+amaranth,16,False
+sunflower seed,16,False
+crispies,16,False
+guava puree,16,False
+grains,16,False
+defattedso,16,False
+cerol esters of wood rosins,16,False
+beetroot juice from concentrate,16,False
+â€ from sustainable agriculture,16,True
+wheatdextrin,16,False
+lemon peel*,16,True
+d-glucuronolactone,16,True
+irish beef,16,False
+sed vegetable proteins,16,False
+glucose* s,16,True
+licorice root*,16,True
+nutmeg),16,True
+fortified wheat flour [,16,True
+parmigiano reggiano medium fat hard cheese,16,False
+fenugreek],16,True
+british single cream,16,False
+dried carrot pieces,16,False
+gelatin,16,False
+lls,16,False
+natural flavours including quinine,16,False
+tomato puree*,16,True
+organic cotton,16,False
+raising agent ],16,True
+lemon sole,16,False
+minerals1,16,True
+avocado oil,16,False
+spearmint leaf,16,False
+sucralosewith sweetener,16,False
+ellow pea,16,False
+min milk solids,16,False
+1 1/2 pressed apples,16,True
+chicken fat*,16,True
+cooked ribe rice,16,False
+er ],16,True
+product,16,False
+shallot powder,16,False
+paprika oleoresin,16,False
+lemon cells,16,False
+white pepper*,16,True
+whole corn kernels,16,False
+east extract ],16,True
+sunflower oil**,16,True
+205g of pears & 65g of strawberries per 100g of,16,True
+groundseed,16,False
+eggnoodle,16,False
+sugar beet s,16,False
+pelargonium graveolens flower oil*,16,True
+gdalus dulcis  oil*,16,True
+miso,16,False
+contains vegetable fat in addition to cocoa butter,16,False
+chilli pepper powder,16,False
+milkcalcium complex,16,False
+mascarpone cheese  ),16,True
+cheddar cheese packaged in a protective atmosphere,16,False
+crushed tomatoes,16,False
+lemon flavouring,16,False
+persea gratissima  oil,16,False
+herb extract),16,True
+thai red curr,16,False
+fortified wheatflour [,16,True
+ing salts ),16,True
+citrus gr,16,False
+white crab meat,16,False
+spice),16,True
+herbes de provence,16,False
+organic greek st,16,False
+flavourings ma,16,False
+me),16,True
+whole egg,16,False
+that's it,16,True
+wheatflour ^with calcium,16,True
+iron p,16,False
+a beans,16,False
+birds e,16,False
+vegetable fibres,16,False
+organic brown rice,16,False
+mango pulp,16,False
+salted caramel pieces,16,False
+amaranth*,15,True
+lemon comminute from concentrate,15,False
+kibbledwheat,15,False
+prebiotic,15,False
+lightl,15,False
+caramel powder,15,False
+d),15,True
+coprotein*,15,True
+concentrated blackcurrant juice,15,False
+dried mushroom,15,False
+red & green peppers,15,True
+flavouring ma,15,False
+dried egg white,15,False
+beef burger  [beef,15,True
+beef extract powder,15,False
+roasted garlic powder,15,False
+marshmallow,15,False
+skimmed milk chocolate,15,False
+prawn cocktail seasoning [flavouring,15,True
+salt & vinegar seasoning [flavouring,15,True
+dried apples,15,False
+wafer ),15,True
+fatmilk,15,False
+concentrated onion juice,15,False
+turmeric extract ),15,True
+natural sweetener,15,False
+citrus sinensis peel oil expressed*,15,True
+pasteurised free-rangeegg,15,True
+ground mixed spice,15,False
+coconut blossom sugar,15,False
+organic blackcurrants,15,False
+organic extra virgin olive oil,15,False
+dried noodles [durumwheatsemolina,15,True
+calcium pantothenate,15,False
+corn glucose s,15,False
+pasteurised skimmedmilk,15,False
+roasted pumpkin seeds,15,False
+artificial colours,15,False
+watermelon juice,15,False
+agar agar,15,False
+b,15,True
+n,15,True
+sweetener - sucralose,15,True
+min cocoa solids,15,False
+whole white corn flour,15,False
+paste  [coconut cream,15,True
+vanilla flavour creme  [vegetable oils,15,True
+helianthus annuus seed oil*,15,True
+lollo rosso,15,False
+theobroma cacao  seed butter*,15,True
+greek-st,15,True
+roasted nibbed hazelnuts,15,False
+british,15,False
+drated prunes,15,False
+toffee pieces,15,False
+organic spices,15,False
+green jalapeã±o chilli,15,True
+lemon gin,15,False
+indian tonic water ),15,True
+for british,15,False
+* = organicall,15,True
+coconut milk*,15,True
+sugar 9,15,True
+dried cider vinegar,15,False
+vegetable carbon,15,False
+cavolo nero,15,False
+disodium diphosphates,15,False
+lates/c10-30 alk,15,True
+organic apricots,15,False
+advice for allergens,15,False
+lamb shoulder,15,False
+groundalmondflour,15,False
+cooked jasmine rice [water,15,True
+rice protein concentrate,15,False
+chickpea,15,False
+british bramle,15,False
+raising agent sodium bicarbonate,15,False
+salt & natural flavourings,15,True
+cooked pilau rice [water,15,True
+cumin*,15,True
+sodium palm kernelate,15,False
+decaffeinated instant coffee,15,False
+dark chocolate powder,15,False
+for allergens see highlighted ingredientstomato puree,15,False
+le hard cheese,15,False
+organic c,15,False
+contains vegetable fats in addition to cocoa butterallerg,15,False
+belgian white chocolate,15,False
+peppermint oil with other natural flavourings,15,False
+lamb fat,15,False
+*non-organic,15,True
+l delbrueckii subsp lactis,15,False
+chia  seed,15,False
+wine vinegar*,15,True
+chlorella,15,False
+*certified organic ingredient,15,True
+champagne,15,False
+drated peppers,15,False
+mexican st,15,False
+lovage*,15,True
+cheese & onion flavour [lactose,15,True
+cheese flavour [flavourings,15,True
+butterscotch chips,15,False
+drated sundried tomatoes,15,False
+for allergens see highlighted ingredientssardines,15,False
+red lettuce,15,False
+lucuma powder,15,False
+cracked fenugreek seed,15,False
+milled flax seeds,15,False
+wheat glucose,15,False
+lisothiazolinone,15,False
+dill seed,15,False
+clarified pineapple juice from concentrate,15,False
+nutmeg*,15,True
+mango puree from concentrate,15,False
+aloe barbadensis leaf juice*,15,True
+betaine,15,False
+l methox,15,False
+hops &,15,True
+beef powder*,15,True
+mushrooms*,15,True
+milkma,15,False
+green s,15,False
+vegetable powders,15,False
+fish paste,15,False
+no added nonsense,15,False
+popcorn,15,False
+for allergens see highlighted ingredientsvegetables in variable proportions,15,False
+*organic farming,15,True
+extract of black carrot,15,False
+courvoisierâ® vs cognac,15,True
+9,15,True
+natural spring water,15,False
+e445,15,True
+wholegrain rice flour,15,False
+maize glucose,15,False
+*ma,15,True
+cinnamon sticks,15,False
+aniseed oil,15,False
+herb & spice oils,15,True
+emulsifier - mono-,15,True
+for allergens see highlighted ingredientscereal grains,15,False
+concentrated redcurrant juice,15,False
+basa,15,False
+drogenated palm fat,15,False
+magnesium citrate,15,False
+sweetener - acesulfame potassium,15,True
+malt extract powder,15,False
+turmeric extract),15,True
+cereal crisp,15,False
+ground roasted cori,15,False
+wasabi,15,False
+aluronate,15,False
+packaged in a protective atmosphereproduced from british chicken,15,False
+potassium sorbate),15,True
+elderflower infusion,15,False
+glucose- fructose s,15,True
+maize glucose-fructose s,15,True
+emulsifierlecithins,15,False
+lemon balm*,15,True
+ellowfin tuna,15,False
+kaffir lime,15,False
+the process in gentle to protect their delicate taste,15,False
+idahoâ® potatoes,15,True
+milk chocolate powder,15,False
+tomato juice*,15,True
+contains a source of phen,15,False
+burnt sugar,15,False
+bourbon vanilla pods,15,False
+fenugreek seeds,15,False
+madeira wine,15,False
+seasoning sachet,15,False
+fruit juice,15,False
+for allergens see highlighted ingredientscooked rice,15,False
+for allergens see highlighted ingredientsma,15,False
+orange comminute from concentrate,15,False
+wheat tortillas,15,False
+dried broccoli,15,False
+red quinoa seeds,15,False
+for allergens see highlighted ingredientsmilk chocolate  [sugar,15,True
+light vegetable bouillon,15,False
+glazing agent sunflower oil,15,False
+ellow peas,15,False
+fat-reduced cocoa powderâ_,15,True
+roasted ground cori,15,False
+fruit flakesâ®,15,True
+[concentrated apple puree,15,True
+ginseng extract,15,False
+caramelised red onion,15,False
+sorbate 20,15,True
+caramel  ),15,True
+fruit puree concentrates,15,False
+leaf powder,15,False
+agar-agar,15,True
+roasted slicednuts,15,False
+sunblushâ® tomatoes,15,True
+cucumber juice,15,False
+thai sweet chilli seasoning,15,False
+eucal,15,False
+chargrilled artichokes,14,False
+preservative sodiumsulphite,14,False
+red scotch bonnet chilli purã©e  [scotch bonnet chilli peppers,14,True
+sunflower lecithins,14,False
+drous milk fat,14,False
+vanilla flavour filling,14,False
+calendula officinalis flower extract*,14,True
+cacao powder*,14,True
+dried rice s,14,False
+dried spinach,14,False
+grape must concentrate],14,True
+cheddar cheese powder,14,False
+merlot,14,False
+fermented apples,14,False
+basil paste,14,False
+tapioca starch],14,True
+fresh double,14,False
+organicmilk,14,False
+a chunk of crushed mango,14,False
+blood orange juice,14,False
+rubbed parsle,14,False
+for allergens see highlighted ingredientscooked chickpeas,14,False
+fresh elderflowers,14,False
+sliced chicken breast,14,False
+jagger,14,False
+dried chilli flakes,14,False
+smoked pancetta lardons,14,False
+6 pressed apples,14,True
+bacon lardons,14,False
+natural orange,14,False
+sorbitols,14,False
+beef protein,14,False
+for allergens see highlighted ingredientscooked pasta,14,False
+cocoa solids  min,14,False
+hibiscus concentrate,14,False
+natural caramel flavouring,14,False
+fresh basil,14,False
+nori seaweed,14,False
+for allergens see highlighted ingredientsmilkchocolate  [sugar,14,True
+concentrated fruit juices 1*,14,True
+e salmon,14,False
+high fat cocoa,14,False
+ground th,14,False
+seasoning contains,14,False
+thiamine,14,False
+wholepowder #,14,True
+wheatcrackers,14,False
+cane molasses),14,True
+rocks spring water*,14,True
+pressed ginger juice,14,False
+refined sunflower oil,14,False
+black rice,14,False
+gluten free so,14,False
+organic cori,14,False
+fresh root ginger infusion,14,False
+passion fruit purã©e,14,True
+*trehalose is a source of glucose,14,True
+e120,14,True
+for allergens see highlighted ingredientswholewheat,14,False
+jam  ),14,True
+for allergens see highlighted ingredientsquaker wholegrain rolledoats,14,False
+white chocolate  minimum,14,False
+magnesium sulphate,14,False
+peppermint leaf*,14,True
+pressed raspberr,14,False
+mint essential oil,14,False
+vegetable extract ],14,True
+for allergens see highlighted ingredientsorange juice,14,False
+parboiled wholegrain rice,14,False
+bulgarian rose oil,14,False
+clarified lemon juice from concentrate,14,False
+pressed rhubarb juice,14,False
+stals,14,False
+sorghum flour,14,False
+1/3 of a squeezed orange,14,True
+lactic starter culture,14,False
+paprika flavouring,14,False
+l-ascorbic acid,14,True
+salted caramel,14,False
+pecans,14,False
+sodium bicarbonate],14,True
+ginger root powder,14,False
+total 100,14,True
+dark chocolate ),14,True
+breadsticks,14,False
+linseed oil,14,False
+cardamon,14,False
+natural orange flavourings,14,False
+ground spices [spices,14,True
+flavouringallerg,14,False
+raising agents ammonium h,14,False
+natural live,14,False
+curcumin),14,True
+red lentil flour,14,False
+fortifiedflour [flour,14,True
+smoked sea salt,14,False
+decaffeinated soluble coffee,14,False
+lecithin},14,True
+triticum vulgare  germ oil,14,False
+dieth,14,False
+lchloroisothiazolinone,14,False
+white maize flour,14,False
+natural vanilla,14,False
+salted chilli peppers,14,False
+onionsâ€,14,True
+natural tomato flavouring,14,False
+black pepper powder,14,False
+dried egg noodles  [soft,14,True
+gluten free grain dextrins,14,False
+stabiliser pectin,14,False
+for allergens see highlighted ingredientsfull fat soft cheese,14,False
+aqua / water,14,True
+wash,14,False
+sumac,14,False
+leek extract,14,False
+tomato*,14,True
+sea bream,14,False
+elderberries,14,False
+propellant gas,14,False
+roots,14,False
+lemon essential oil flavour,14,False
+pasteurised skimmed,14,False
+chilli*,14,True
+gooseberries,14,False
+onion ),14,True
+for allergens see highlighted ingredientssalmon,14,False
+sweet chilli sauce,14,False
+lactobacillus paracasei,14,False
+corn grits,14,False
+pitted black olives,14,False
+tangerine,14,False
+rosmarinus officinalis  oil*,14,True
+wheatflour),14,True
+# e464 is derived from a natural plant material we use it to control the level of fat absorbed b,14,True
+onion flakes,14,False
+choppedhazelnuts,14,False
+spinach leaf,14,False
+pumpkin concentrate,14,False
+chicken*,14,True
+wheat flour*,14,True
+e414,14,True
+llins,14,False
+solel,14,False
+a slice of crushed peach,14,False
+british wholegrainflakes,14,False
+ground mace,14,False
+wheatrusk,14,False
+gluten free plain flour,14,False
+fig,14,False
+doublecream,14,False
+potato starchpackaged in a protective atmosphere,14,False
+structure,14,False
+jumbo raisins,14,False
+*approved non-organic ingredients,14,True
+artificial flavouring,14,False
+chocolate chips*,14,True
+ster mushroom,14,False
+dried so,14,False
+full fat softcheese,14,False
+gluten-free oats,14,True
+manchego cheese,14,False
+saltpackaged in a protective atmosphere gas mix,14,False
+e101,14,True
+surimi,14,False
+pork kidne,14,False
+seed powder,14,False
+arin juice from concentrate,14,False
+apple vinegar,14,False
+scotch bonnet pepper,14,False
+prepared with 50g of fruit per 100g,14,True
+d & e,14,True
+pasteurised cow'smilkfermented with live kefir cultures*,14,True
+sweetened dried blueberries,14,False
+organic maize flour,14,False
+chilli powder),14,True
+lemon m,14,False
+turmericâ€,14,True
+onion],14,True
+carbomer,14,False
+vegetable margarine [palm oil,14,True
+leaven,14,False
+made with 100g of pork per 100g of finished product,14,True
+thai basil,14,False
+ferrous gluconate,14,False
+266g of pears & 118g of mangos per 100g of,14,True
+we bake 266g of apples,14,True
+biscuit cone,14,False
+our chocolate is made with  cocoa butter,14,False
+mango juice,14,False
+organic butter,14,False
+icing,14,False
+organic coconuts,14,False
+banana flakes,14,False
+dried raspberries,14,False
+dried figs,14,False
+arginine,14,False
+skimmed*,14,True
+roasted chicken & th,14,True
+clear hone,14,False
+organic liquorice root,14,False
+wholegrain cereals,14,False
+british skimmed cows'milk,14,True
+live vegan cultures,14,False
+propellent gas,14,False
+cornish wholemilk,14,False
+pimento powder,14,False
+lovage rootâ€,14,True
+* a vegetable based ingredient that helps keep our sausages succulent,14,True
+molasses sugar,14,False
+apricot jam,14,False
+aloe vera,14,False
+*raising agent,14,True
+smoked cheddar cheese,14,False
+mixed grains,14,False
+basil 0,14,True
+acacia,14,False
+drogen carbonate*,14,True
+organic peppercorns <,14,True
+mustard seed,13,False
+tamarisauce ),13,True
+smoked pancetta,13,False
+tetrasodium diphosphate,13,False
+ltrimonium chloride,13,False
+enne pepper*,13,True
+raw cacao powder*,13,True
+carthamus extract,13,False
+dicalcium phosphate,13,False
+fenugreek seed,13,False
+lima beans,13,False
+strongflour,13,False
+sulphites,13,False
+milk chocolate  ^sugar,13,True
+e211,13,True
+bell peppers,13,False
+l-leucine,13,True
+smoking,13,False
+lavender flower,13,False
+dried cheese ),13,True
+wholeã‚,13,True
+drogenated rapeseed oil,13,False
+self raising flour  raising agents ),13,True
+propane,13,False
+butane,13,False
+organic lime juice,13,False
+acacia hone,13,False
+alaska pollock fillet,13,False
+carob,13,False
+d2)),13,True
+roasted chickpeas,13,False
+rice powder,13,False
+gluten free oat flour,13,False
+blackseed,13,False
+ground spices  [paprika,13,True
+white mushrooms,13,False
+cereal pieces,13,False
+colour  gluten free â_rainforest alliance certifiedâ„¢,13,True
+poached salmon,13,False
+freeze dried fruit,13,False
+leavening,13,False
+fresh egg pasta contains,13,False
+for allergens see highlighted ingredientsfull creammilk,13,False
+dried noodles  [durumsemolina,13,True
+plainflour,13,False
+pork sausage meat,13,False
+chinese five spice,13,False
+whitesesame seeds,13,False
+regulator acetic acid,13,False
+red salmon,13,False
+sorghum,13,False
+blend of palm,13,False
+cocamide mea,13,False
+perfume,13,False
+helianthus annuus seed oil,13,False
+kaolin,13,False
+concentrated chicken extract,13,False
+chilli corn,13,False
+halkidiki olives,13,False
+basil infused sunflower oil,13,False
+pepperoni-salami,13,True
+brussels sprouts,13,False
+rice cake,13,False
+concentrated vegetable extract,13,False
+sour cream & chive seasoning,13,True
+frisã©e,13,True
+mixed salad leaves in variable proportions,13,False
+bacon with added water,13,False
+organic coconut,13,False
+1stork is committed to sustainable palm oil,13,True
+porcini mushroom,13,False
+quaker rolled,13,False
+for allergens see highlighted ingredientscorn,13,False
+tragacanth,13,False
+red grape juice from concentrate,13,False
+e322,13,True
+prosecco,13,False
+vegetable powder,13,False
+concentrated vegetable juices,13,False
+pectin*,13,True
+white cabbage*,13,True
+fruit purã©e,13,True
+apple fruit extract,13,False
+prepared,13,False
+4 pressed apples,13,True
+tapioca],13,True
+cornflakes,13,False
+zinc gluconate,13,False
+wholegrain flours,13,False
+durum wholesemolina,13,False
+for allergens see highlighted ingredientsnatural basmati rice - steamed,13,True
+ground oregano,13,False
+ham stock,13,False
+albacore tuna,13,False
+kentish cider,13,False
+jam  [glucose-fructose s,13,True
+beetroot juice powder,13,False
+colour anthoc,13,False
+pumpkin juice,13,False
+citrus limon  peel oil,13,False
+barbecue beef flavour [salt,13,True
+dried cheese   [dried powdered cheese,13,True
+jumbo,13,False
+whole grainflour,13,False
+ricinoleate ],13,True
+vanilla pod,13,False
+natural passionfruit flavouring with other natural flavourings,13,False
+lemon peels,13,False
+organic potato starch,13,False
+belgian milk chocolate  [sugar,13,True
+e631,13,True
+esourdough,13,False
+acesulfame potassium,13,False
+also contain nuts,13,False
+miso paste,13,False
+for allergens see highlighted ingredientspasta,13,False
+artificial flavour,13,False
+organic chia seeds,13,False
+grated coconut,13,False
+organic chickpeas,13,False
+mechanical means,13,False
+olive oil obtained directl,13,False
+merlot red wine,13,False
+organic breadcrumbs,13,False
+2 pressed apples,13,True
+orange oils,13,False
+separated chicken meat,13,False
+white wine vinegar),13,True
+tripotassium citrate,13,False
+belgian milk chocolate chunks,13,False
+for allergens see highlighted ingredientswholegrainoats,13,False
+reconstituted dried egg,13,False
+white pepper],13,True
+paprika powder*,13,True
+sulphur dioxide),13,True
+cerine***,13,True
+fruit purees,13,False
+grown black tea,13,False
+disodium laur,13,False
+buttercream,13,False
+mineral water,13,False
+gluten freefibre,13,False
+craega es-eco-022-ga,13,True
+cloves),13,True
+natural blackcurrant flavouring,13,False
+ground vanilla,13,False
+potato fibres,13,False
+[sugar*,13,True
+sweetener - acesulfame k,13,True
+189g of pears & 93g of blackcurrants per 100g of,13,True
+colour e150a,13,True
+guajillo pepper,13,False
+coating,13,False
+that h,13,False
+cooked pasta  [water,13,True
+e150c,13,True
+pea powder,13,False
+reconstituted dried skimmed,13,False
+caramel filling,13,False
+we bake 368g of apples,13,True
+preparation,13,False
+sour cherr,13,False
+prepared with 30g of fruit per 100g,13,True
+super soft corn,13,False
+cocoa extract,13,False
+8 pressed apples,13,True
+lucuma,13,False
+sodium palmate,13,False
+chili pepper,13,False
+l sulfosuccinate,13,False
+medium cheddar cheese,13,False
+pectin),13,True
+maltedwheatflour 0,13,True
+oatflakes 1,13,True
+organic carrot,13,False
+refinedflour,13,False
+fruit juices from concentrate  [cranberr,13,True
+for allergens see highlighted ingredientschickpeas,13,False
+coconut powder,13,False
+cucumber extract,13,False
+e503,13,True
+e509,13,True
+oregano extract,13,False
+goose,13,False
+turmeric],13,True
+per 100g of finished product,13,True
+for allergens see highlighted ingredientsfresh egg pasta,13,False
+elderflower*,13,True
+aniseed*,13,True
+licorice,13,False
+chipotle,13,False
+natural caramel colour,13,False
+garlic pureã©,13,True
+lemon grass*,13,True
+sage*,13,True
+25  minimum,13,True
+roasted onion*,13,True
+ellow maize flour,13,False
+pecorino romano cheese pdo,13,False
+cream*,13,True
+fibres,13,False
+for allergens see highlighted ingredientsreconstituted skimmedmilk,13,False
+carob powder,13,False
+natural lemon flavour,13,False
+sparkling spring water,13,False
+pasta spirals,13,False
+paprika seasoning,13,False
+roasted fava beans,13,False
+crumb,13,False
+whole grainbarle,13,False
+blanchedalmonds,13,False
+steamed red quinoa,13,False
+for allergens see highlighted ingredientsraisins,13,False
+for allergens see highlighted ingredientspineapple,13,False
+caramel  [glucose s,13,True
+rape seed oil,13,False
+for allergens see highlighted ingredientsvegetable oils,13,False
+tabascoâ® br,13,True
+mellow,13,False
+modified corn starch**,13,True
+natural orange & lemon flavouring],13,True
+blanchedpeanuts,13,False
+extra dark chocolate contains - cocoa solids,13,True
+pink grapefruit juice,13,False
+disodium 5'-ribonucleotides,13,True
+from the netherl,13,False
+powder  [cori,13,True
+thai sweet chilli seasoning contains,13,False
+steamed basmati rice,13,False
+e476],13,True
+gluten free wholegrain,13,False
+beetroot concentrate,13,False
+vegetables  [carrots,13,True
+blue stilton cheese,12,False
+apricot puree from concentrate,12,False
+oxtail,12,False
+ellow,12,False
+chocolate   natural vanilla flavouring),12,True
+farnesol,12,False
+dark chocolate curls,12,False
+sunflower,12,False
+stabilisers - pol,12,True
+emulsifier milk chocolate contains,12,False
+bht,12,False
+coconut milk  [coconut extract,12,True
+apple vinegar*,12,True
+*this ingredient is not onl,12,True
+regulators citric acid,12,False
+sea salt pdo,12,False
+chelated minerals,12,False
+vegetable fats ^palm,12,True
+ellow corn flour,12,False
+for allergens see highlighted ingredientsvolvic natural mineral water,12,False
+plain chocolate  ^sugar,12,True
+marrowfat processed peas,12,False
+natural blackberr,12,False
+cream  14,12,True
+natural flavors,12,False
+marinated chicken breast,12,False
+anti-oxidant,12,True
+wild mushroom powder,12,False
+spelt flour,12,False
+natural orange flavour,12,False
+k,12,True
+spices),12,True
+organic passion fruit juice,12,False
+orange liqueur,12,False
+stabilisers tetrasodium diphosphate,12,False
+antioxidants sodium ascorbate,12,False
+orange slices,12,False
+concentrated vegetable stock,12,False
+golden caster sugar,12,False
+pecorino romano medium fat hard cheese,12,False
+peg-100 stearate,12,True
+greenall's gin,12,True
+for allergens see highlighted ingredientsmozzarella cheese,12,False
+preservative agent,12,False
+juices from concentrates from,12,False
+allura red*,12,True
+arrowroot,12,False
+cinnamon extract,12,False
+vegetable cellulose capsule,12,False
+organic orange peel,12,False
+acai powder,12,False
+natural cane sugar,12,False
+cera alba,12,False
+deionised pear juice from concentrate,12,False
+nutmeg extract),12,True
+walnut,12,False
+whole dried egg,12,False
+green,12,False
+roast chicken,12,False
+l cinnamal,12,False
+enne red peppers,12,False
+coating agent,12,False
+driedwhe,12,False
+pepper mash,12,False
+*batter coating,12,True
+batter coating*,12,True
+for allergens see highlighted ingredientsalaska pollock,12,False
+ground african bird's e,12,True
+italian sun ripened tomatoes,12,False
+1 1/2 mashed bananas*,12,True
+maltodextrine,12,False
+alpha-am,12,True
+natural raisin flavouring,12,False
+contain sesame,12,False
+enriching substances,12,False
+dijon mustard  [water,12,True
+basmati rice],12,True
+ricotta,12,False
+roasted flavour [salt,12,True
+high oleic sunflower oil*,12,True
+milkchocolate chunks,12,False
+sweetened dried pineapple,12,False
+chocolate flavoured buttercream,12,False
+organic mango purã©e,12,True
+prepared with 50g of strawberries per 100g,12,True
+red pepper concentrate,12,False
+composition,12,False
+full fat soft cheese   ),12,True
+black salt,12,False
+for allergens see highlighted ingredientsinstant coffee,12,False
+carrot puree concentrate,12,False
+for allergens see highlighted ingredientsraspberr,12,False
+dried dates,12,False
+vanilla pods*,12,True
+steine h,12,False
+feta full fat soft cheese,12,False
+minced haddock,12,False
+b vitamins,12,False
+caramel pieces ),12,True
+diced ginger,12,False
+pasta noodles,12,False
+e575,12,True
+chili,12,False
+sweet chilli,12,False
+ellowseed,12,False
+agave nectar*,12,True
+chipotle chilli powder,12,False
+vitamin b6),12,True
+mineral salt,12,False
+organic orange oil,12,False
+pressed lemon juice,12,False
+concentrated skimmed milk,12,False
+*i have no organic certification,12,True
+grana padano cheese pdo,12,False
+drated texturedprotein,12,False
+palm),12,True
+pepper powder,12,False
+tartrazine **,12,True
+toasted coconut,12,False
+low-fat,12,True
+red beetroot juice concentrate,12,False
+natural vinegar flavouring,12,False
+spirulina*,12,True
+calendula officinalis  flower extract*,12,True
+plain chocolate contain vegetable fat in addition to cocoa butter,12,False
+for allergens see highlighted ingredientscashew nuts,12,False
+pecorino medium fat hard cheese,12,False
+maltose,12,False
+organic peaches,12,False
+bananas,12,False
+salt & malt vinegar seasoning,12,True
+carrot juice concentrateâ€,12,True
+arrow squid,12,False
+sauce bottle,12,False
+ellow pea flour,12,False
+salted free range egg,12,False
+fermentedr,12,False
+natural mint flavourings,12,False
+opportunities for producers in developing countries to invest in their businesses,12,False
+tetrasodium etidronate,12,False
+crushed tomato,12,False
+natural butter flavouring,12,False
+19,12,True
+hotdogs,12,False
+wholegrainmustard,12,False
+slicedalmonds,12,False
+flour ),12,True
+chilli & lime seasoning,12,True
+citral*,12,True
+organic basil,12,False
+star anise oil,12,False
+beet sugar,12,False
+colours annatto,12,False
+a],12,True
+milkchocolate [sugar,12,True
+natam,12,False
+fennel oil,12,False
+sunflower oil 12,12,True
+peg-150 distearate,12,True
+vanilla pod #,12,True
+for allergens see highlighted ingredientssea salt,12,False
+dried free rangewhite,12,False
+green lettuce,12,False
+fresh red chilli,12,False
+caramel swirl,12,False
+for allergens see highlighted ingredientsground cori,12,False
+thiamin),12,True
+natural ginger flavouring,12,False
+dried egg noodles  [softwheat,12,True
+tomato salsa,12,False
+red chard,12,False
+a squeeze of beetroot,12,False
+branched-chain amino acids bcaa,12,True
+organic lemon juice from concentrate,12,False
+white cheddar cheese,12,False
+orange leaves*,12,True
+quinine h,12,False
+cereal clusters,12,False
+sicilian lemon oil,12,False
+dried green bell pepper,12,False
+ellow carrots,12,False
+tenderstemmed broccoli,12,False
+have been speciall,12,False
+dark chocolate*,12,True
+dark,12,False
+ellowmustardflour,12,False
+guava,12,False
+organic pasteurised free rangeegg,12,False
+pasteurised cream,12,False
+wheatberries,12,False
+whole grain rice,12,False
+almond paste,12,False
+l glucose carbox,12,False
+green curr,12,False
+spice],12,True
+durumsemolina*,12,True
+rooibos tea,12,False
+live vegan cultures*,12,True
+emulsifiers sodium stearo,12,False
+fruit extracts,12,False
+plant fibre from citrus,12,False
+powdered spices,12,False
+organic sweetcorn,12,False
+suoi gang green tea,12,False
+panax ginseng extract,12,False
+natural lemon lime flavouring with other natural flavourings,12,False
+vegetable bouillon [salt,12,True
+leaf),12,True
+milled lemongrass,12,False
+pea protein*,12,True
+apple juice concentrate*,12,True
+pea protein isolate,12,False
+natural flavouring [contains potassium chloride,12,True
+brown basmati rice - steamed,12,True
+chicken drumsticks,12,False
+desiccated coconut 25,12,True
+e chillies,12,False
+fruit in variable proportions   juice,12,False
+ground vanilla pods,12,False
+pecan,12,False
+red bell pepper powder,12,False
+drated textured so,12,False
+dried texturedso,12,False
+durumsemolina pasta,12,False
+provolone cheese,12,False
+[water,12,True
+pine kernels*,12,True
+orange essential oil,12,False
+lemon zest alcohol content is equivalent to  abv,12,False
+thickener ],12,True
+pure hone,12,False
+smoked,12,False
+socke,12,False
+ground rosemar,12,False
+for allergens see highlighted ingredientsselect potatoes,12,False
+canadian maple s,12,False
+leadip,12,False
+ferments,12,False
+flavoring,12,False
+red chilli chutne,12,False
+hard-boiledegg,12,True
+ground carawa,12,False
+natural flavor,12,False
+salted,12,False
+colours curcumin,12,False
+rice oil,12,False
+tapioca s,12,False
+aromas,12,False
+citric acid e330,12,True
+apple pomace,12,False
+orange flavouring,12,False
+total  visit wwwinfofairtradenet,12,False
+pasteurised egg,12,False
+blended spread,12,False
+anchor butter,12,False
+lime flavouring with other natural flavourings,12,False
+flavourings including quinine,12,False
+gluten free flour [rice,12,True
+tortilla chips,12,False
+sloe gin,12,False
+ing proportions),12,True
+flavour enhancers - e631,12,True
+cole,12,False
+red peppers*,12,True
+fat free greek st,12,False
+**organic juice from concentrate,12,True
+organic palm kernel oil*,12,True
+ing oils into soap & gl,12,True
+sweet potato powder,12,False
+edible acid,12,False
+concentrated passion fruit juice,12,False
+diced tomatoes,12,False
+fajita mix,12,False
+contain nuts,12,False
+turmeric root*,12,True
+hi-oleic,12,True
+beef juices,12,False
+panko breadcrumbs,12,False
+cane sugar s,12,False
+icing sugar #,12,True
+tartrazine*,12,True
+wafer,12,False
+herbs extracts,12,False
