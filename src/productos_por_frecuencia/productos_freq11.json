@@ -1,0 +1,444 @@
+[
+  {
+    "ingredients_text": "INGREDIENTS:Honey Roasted Ham and Egg:Hard-BoiledEgg, Wheat Flour [WheatFlour, Calcium Carbonate, Iron, Niacin, Thiamin], Honey Roast Cooked Cured Ham (15%) [Pork Leg, Honey, Salt, Brown Sugar, Caramelised Sugar Syrup, Cornflour, Preservatives (Sodium Nitrite, Potassium Nitrate), Clove Powder], Water, Rapeseed Oil, Spinach, MaltedWheatFlakes,WheatBran, PasteurisedEggYolk, Salt,WheatGluten, Yeast, Emulsifiers (Mono- and Di-Glycerides of Fatty Acids, Mono- and Di-Acetyl Tartaric Acid Esters of Mono- and Di-Glycerides of Fatty Acids), MaltedBarleyFlour, Cornflour, Spirit Vinegar, White Wine Vinegar, MaltedWheatFlour,MustardFlour, White Pepper, Sugar, Flour Treatment Agent (Ascorbic Acid), Palm Oil.Roast Beef and Horseradish:Wheat Flour [WheatFlour, Calcium Carbonate, Iron, Niacin, Thiamin], British Roast Beef (26%), Water, Rocket, Rapeseed Oil, Onion, Palm Oil, Salt, Sugar, Cornflour, Spirit Vinegar, Yeast, Horseradish,WheatGluten, Spirit Vinegar, White Wine Vinegar, PasteurisedEggYolk, Single Cream (Milk), Emulsifiers (Mono- and Di-Glycerides of Fatty Acids, Mono- and Di-Acetyl Tartaric Acid Esters of Mono- and Di-Glycerides of Fatty Acids),MustardFlour, Dried SkimmedMilk, DriedEgg, Flour Treatment Agent (Ascorbic Acid).Smoked Salmon and Cream Cheese:Smoked Salmon (29%) [Salmon (Fish), Sea Salt, Demerara Sugar], Wheat Flour [WheatFlour, Calcium Carbonate, Iron, Niacin, Thiamin], Water, Full Fat Soft Cheese [Cheese (Milk), Cornflour],Oatmeal,Oats, Rapeseed Oil,WheatBran, Cornflour, Yeast, Salt, White Wine Vinegar,WheatGluten, PasteurisedEggYolk, Spirit Vinegar, Emulsifiers (Mono- and Di-Glycerides of Fatty Acids, Mono- and Di-Acetyl Tartaric Acid Esters of Mono- and Di-Glycerides of Fatty Acids), Lemon Zest, Concentrated Lemon Juice, Muscovado Sugar, Dill, MaltedBarleyFlour,MustardFlour, Palm Oil, Flour Treatment Agent (Ascorbic Acid).Lemon and Rosemary Chicken and Chorizo:Wheat Flour [WheatFlour, Calcium Carbonate, Iron, Niacin, Thiamin], British Chicken Breast (22%), Water, Chorizo Pork Sausage (10%) [Pork, Flavouring, Salt, Smoked Paprika, Dextrose, Garlic Paste, Antioxidant (Sodium Ascorbate), Preservatives (Sodium Nitrite, Potassium Nitrate), Ground Nutmeg, Ground Oregano], Rocket, Rapeseed Oil, Roasted Red Pepper, Sundried Tomatoes, Sugar, Tomato, Sherry Vinegar, Cornflour, Onion, Salt, Garlic PurÃ©e, Yeast, Lemon Zest,WheatGluten, Spirit Vinegar, PasteurisedEggYolk, Emulsifiers (Mono- and Di-Glycerides of Fatty Acids, Mono- and Di-Acetyl Tartaric Acid Esters of Mono- and Di-Glycerides of Fatty Acids), White Wine Vinegar, Concentrated Lemon Juice, Ground Rosemary, Olive Oil, Paprika,MustardFlour, Palm Oil, Flour Treatment Agent (Ascorbic Acid).",
+    "ingredientes_identificados": [
+      "cheese",
+      "egg",
+      "tomato",
+      "pork",
+      "oatmeal",
+      "milk",
+      "fish",
+      "onion",
+      "wine",
+      "chicken",
+      "beef"
+    ],
+    "num_ingredientes": 11
+  },
+  {
+    "ingredients_text": "Pork (16%), Beef (16%), Onions, Water, Chopped Tomatoes (8%) (contains: Tomatoes, Tomato Juice, Acidity Regulator: Citric Acid), Semi-Dried Cherry Tomatoes in Oil (5%) (contains: Semi- Dried Cherry Tomatoes, Sunflower Oil, Salt, Garlic, Oregano, Acidity Regulator: Lactic Acid), Tomato Juice (5%) (contains: Tomato Juice, Salt, Acidity Regulator: Citric Acid), Red Wine, Carrots,, Tomato Puree (3%), Red Pesto (2%) (contains: Soaked Sundried Tomatoes (Sundried Tomatoes, Water, Salt, Grape Vinegar), Sunflower Oil, Extra Virgin Olive Oil, Vegetarian Medium Fat Hard Cheese (Cow's, Salt, Microbial Rennet), Sun Dried Tomatoes (Sun Dried Tomatoes, Extra Virgin Olive Oil, Salt, Grape Vinegar), Semidried Tomatoes in Oil (Semidried Tomatoes, Sunflower Oil, Sugar, Salt, Garlic, Oregano), Herbs de Provence (Rosemary, Marjoram, Parsley, Basil, Kibbled Bay Leaves, Thyme, Oregano, Sage), Garlic Puree), Garlic, Butter,Flour (contains:Flour, Calcium Carbonate, Iron, Nicotinamide, Thiamine Hydrochloride), White Bread (contains:Flour (contains Calcium, Iron, Niacin, Thiamin), Water, Yeast,Flour, Salt,Protein, Vegetable Fat (Palm, Rapeseed), Preservative: Calcium Propionate, Emulsifiers: Mono- and Diglycerides of Fatty Acids, Mono- and Diacetyltartaric Acid Esters of Mono- and Diglycerides of Fatty Acids, Sodium Stearoyl-2-lactylate, Flour Treatment Agent: Ascorbic Acid), Basil, Chicken Stock (contains: Roast Chicken, Maltodextrin, Salt, Natural Flavouring, Chicken Fat, Sugar, Lemon Juice (from concentrate), Onion Powder), Mediterranean Vegetable Stock (contains: Partially Reconstituted Vegetables (Onion, Red Bell Pepper, Artichoke,, Potato), Tomato Puree, Salt, Sugar, Maltodextrin, Sun-Dried Tomato Paste (Sun-Dried Tomato, Sunflower Oil, Salt, Natural Flavouring, White Wine Vinegar, Black Pepper), Olive Oil, Natural Flavouring), Semi Skimmed, Malt Vinegar, Sugar, Free Range PasteurisedYolk, Balsamic Vinegar (contains: Wine Vinegar, Concentrated Grape Must, Colour: Caramel, Antioxidant: Potassium), Salt, Chilli Flakes, White Pepper.",
+    "ingredientes_identificados": [
+      "cheese",
+      "potato",
+      "pork",
+      "bread",
+      "beef",
+      "butter",
+      "onion",
+      "grape",
+      "wine",
+      "chicken",
+      "tomato"
+    ],
+    "num_ingredientes": 11
+  },
+  {
+    "ingredients_text": "Potatoes (33%), Beef (24%), Water, Red Wine (6%) (contains: Preservative: Potassium), Onions,(3%), Gluten Free White Bread (contains: Water, Potato Flour, Corn Starch, Tapioca Starch, White Rice Flour, Buckwheat Flour, Thickening Agent (Xanthan Gum, Cellulose, Agar Agar), Binding Agent (Glycerol), Yeast, Rice Bran, Apple Juice Concentrate, Pea Protein, Sourdough (Fermented Quinoa, Rice and Maize Flour), Salt, Psyllium Husk, Rapeseed Oil, Acids (Citric Acid, Malic Acid, Tartaric Acid), Flour Treatment Agent (Ascorbic Acid)), Carrots (2%), Cornflour, Beef Glace (contains: Beef Stock (Water, Beef Stock), Flavourings, Yeast Extracts, Glucose Syrup, Salt, Sugar, Maltodextrin)), Flavourings, Yeast Extracts, Glucose Syrup, Salt, Sugar, Maltodextrin), Butter, Rapeseed Oil, Free Range PasteurisedYolk, Garlic, Tomato Puree, Mascarpone Cheese (contains:Cream, Pasteurised Cow's, Acidity Regulator: Citric Acid), Worcester Sauce (contains: Water, Sugar, Spirit Vinegar, Molasses, Onion Puree, Salt, Tamarind Paste, Cloves, Ginger Puree, Garlic Puree), Salt, Thyme,Seeds, White Pepper, Black Pepper.",
+    "ingredientes_identificados": [
+      "cheese",
+      "tomato",
+      "potato",
+      "bread",
+      "rice",
+      "butter",
+      "onion",
+      "wine",
+      "maize",
+      "apple",
+      "beef"
+    ],
+    "num_ingredientes": 11
+  },
+  {
+    "ingredients_text": "Potatoes (33%), Beef (24%), Water, Red Wine (6%) (contains: Preservative: Potassium), Onions,(3%), Gluten Free White Bread (contains: Water, Potato Flour, Corn Starch, Tapioca Starch, White Rice Flour, Buckwheat Flour, Thickening Agent (Xanthan Gum, Cellulose, Agar Agar), Binding Agent (Glycerol), Yeast, Rice Bran, Apple Juice Concentrate, Pea Protein, Sourdough (Fermented Quinoa, Rice and Maize Flour), Salt, Psyllium Husk, Rapeseed Oil, Acids (Citric Acid, Malic Acid, Tartaric Acid), Flour Treatment Agent (Ascorbic Acid)), Carrots (2%), Cornflour, Beef Glace (contains: Beef Stock (Water, Beef Stock), Flavourings, Yeast Extracts, Glucose Syrup, Salt, Sugar, Maltodextrin)), Flavourings, Yeast Extracts, Glucose Syrup, Salt, Sugar, Maltodextrin), Butter, Rapeseed Oil, Free Range PasteurisedYolk, Garlic, Tomato Puree, Mascarpone Cheese (contains:Cream, Pasteurised Cow's, Acidity Regulator: Citric Acid), Worcester Sauce (contains: Water, Sugar, Spirit Vinegar, Molasses, Onion Puree, Salt, Tamarind Paste, Cloves, Ginger Puree, Garlic Puree), Salt, Thyme,Seeds, White Pepper, Black Pepper.",
+    "ingredientes_identificados": [
+      "cheese",
+      "tomato",
+      "potato",
+      "bread",
+      "rice",
+      "butter",
+      "onion",
+      "wine",
+      "maize",
+      "apple",
+      "beef"
+    ],
+    "num_ingredientes": 11
+  },
+  {
+    "ingredients_text": "Potatoes (34%), Beef (24%), Water, Red Wine (6%) (contains: Preservative: Potassium), Onions,(3%), Carrots (2%), Cornflour, Beef Glace (contains: Beef Stock (Water, Beef Stock), Flavourings, Yeast Extracts, Glucose Syrup, Salt, Sugar, Maltodextrin), Gluten Free White Bread (contains: Water, Potato Flour, Corn Starch, Tapioca Starch, White Rice Flour, Buckwheat Flour, Thickening Agent (Xanthan Gum, Cellulose, Agar Agar), Binding Agent (Glycerol), Yeast, Rice Bran, Apple Juice Concentrate, Pea Protein, Sourdough (Fermented Quinoa, Rice and Maize Flour), Salt, Psyllium Husk, Rapeseed Oil, Acids (Citric Acid, Malic Acid, Tartaric Acid), Flour Treatment Agent (Ascorbic Acid)), Butter, Free Range PasteurisedYolk, Garlic, Rapeseed Oil,Tomato Puree, Mascarpone Cheese (contains:Cream, Pasteurised Cow's, Acidity Regulator: Citric Acid), Worcester Sauce (contains: Water, Sugar, Spirit Vinegar, Molasses, Onion Puree, Salt, Tamarind Paste, Cloves, Ginger Puree, Garlic Puree), Salt, Thyme,Seeds, White Pepper, Black Pepper.",
+    "ingredientes_identificados": [
+      "cheese",
+      "tomato",
+      "potato",
+      "bread",
+      "rice",
+      "butter",
+      "onion",
+      "wine",
+      "maize",
+      "apple",
+      "beef"
+    ],
+    "num_ingredientes": 11
+  },
+  {
+    "ingredients_text": "Pork (16%), Beef (16%), Onions, Water, Chopped Tomatoes (8%) (contains: Tomatoes, Tomato Juice, Acidity Regulator: Citric Acid), Semi-Dried Cherry Tomatoes in Oil (5%) (contains: Semi- Dried Cherry Tomatoes, Sunflower Oil, Salt, Garlic, Oregano, Acidity Regulator: Lactic Acid), Tomato Juice (5%) (contains: Tomato Juice, Salt, Acidity Regulator: Citric Acid), Red Wine, Carrots,, Tomato Puree (3%), Red Pesto (2%) (contains: Soaked Sundried Tomatoes (Sundried Tomatoes, Water, Salt, Grape Vinegar), Sunflower Oil, Extra Virgin Olive Oil, Vegetarian Medium Fat Hard Cheese (Cow's, Salt, Microbial Rennet), Sun Dried Tomatoes (Sun Dried Tomatoes, Extra Virgin Olive Oil, Salt, Grape Vinegar), Semidried Tomatoes in Oil (Semidried Tomatoes, Sunflower Oil, Sugar, Salt, Garlic, Oregano), Herbs de Provence (Rosemary, Marjoram, Parsley, Basil, Kibbled Bay Leaves, Thyme, Oregano, Sage), Garlic Puree), Garlic, Butter,Flour (contains:Flour, Calcium Carbonate, Iron, Nicotinamide, Thiamine Hydrochloride), White Bread (contains:Flour (contains Calcium, Iron, Niacin, Thiamin), Water, Yeast,Flour, Salt,Protein, Vegetable Fat (Palm, Rapeseed), Preservative: Calcium Propionate, Emulsifiers: Mono- and Diglycerides of Fatty Acids, Mono- and Diacetyltartaric Acid Esters of Mono- and Diglycerides of Fatty Acids, Sodium Stearoyl-2-lactylate, Flour Treatment Agent: Ascorbic Acid), Basil, Chicken Stock (contains: Roast Chicken, Maltodextrin, Salt, Natural Flavouring, Chicken Fat, Sugar, Lemon Juice (from concentrate), Onion Powder), Mediterranean Vegetable Stock (contains: Partially Reconstituted Vegetables (Onion, Red Bell Pepper, Artichoke,, Potato), Tomato Puree, Salt, Sugar, Maltodextrin, Sun-Dried Tomato Paste (Sun-Dried Tomato, Sunflower Oil, Salt, Natural Flavouring, White Wine Vinegar, Black Pepper), Olive Oil, Natural Flavouring), Semi Skimmed, Malt Vinegar, Sugar, Free Range PasteurisedYolk, Balsamic Vinegar (contains: Wine Vinegar, Concentrated Grape Must, Colour: Caramel, Antioxidant: Potassium), Salt, Chilli Flakes, White Pepper.Pork (16%), Beef (16%), Onions, Water, Chopped Tomatoes (8%) (contains: Tomatoes, Tomato Juice, Acidity Regulator: Citric Acid), Semi-Dried Cherry Tomatoes (5%) (contain: Semi- Dried Cherry Tomatoes, Sunflower Oil, Salt, Garlic, Oregano, Acidity Regulator: Lactic Acid), Tomato Juice (5%) (contains: Tomato Juice, Salt, Acidity Regulator: Citric Acid), Red Wine, Carrots,, Tomato Puree (3%), Red Pesto (2%) (contains: Soaked Sundried Tomatoes (Sundried Tomatoes, Water, Salt, Grape Vinegar), Sunflower Oil, Extra Virgin Olive Oil, Vegetarian Medium Fat Hard Cheese (Cow's, Salt, Microbial Rennet), Sun Dried Tomatoes (Sun Dried Tomatoes, Extra Virgin Olive Oil, Salt, Grape Vinegar), Semidried Tomatoes in Oil (Semidried Tomatoes, Sunflower Oil, Sugar, Salt, Garlic, Oregano), Herbs de Provence (Rosemary, Marjoram, Parsley, Basil, Kibbled Bay Leaves, Thyme, Oregano, Sage), Garlic Puree), Garlic, Butter,Flour (contains:Flour, Calcium Carbonate, Iron, Nicotinamide, Thiamine Hydrochloride), White Bread (contains:Flour (contains Calcium, Iron, Niacin, Thiamin), Water, Yeast,Flour, Salt,Protein, Vegetable Fat (Palm, Rapeseed), Preservative: Calcium Propionate, Emulsifiers: Mono- and Diglycerides of Fatty Acids, Mono- and Diacetyltartaric Acid Esters of Mono- and Diglycerides of Fatty Acids, Sodium Stearoyl-2-lactylate, Flour Treatment Agent: Ascorbic Acid.), Basil, Chicken Stock (contains: Roast Chicken, Maltodextrin, Salt, Natural Flavouring, Chicken Fat, Sugar, Lemon Juice (from concentrate), Onion Powder), Mediterranean Vegetable Stock (contains: Partially Reconstituted Vegetables (Onion, Red Bell Pepper, Artichoke,, Potato), Tomato Puree, Salt, Sugar, Maltodextrin, Sun-Dried Tomato Paste (Sun-Dried Tomato, Sunflower Oil, Salt, Natural Flavouring, White Wine Vinegar, Black Pepper), Olive Oil, Natural Flavouring.), Semi Skimmed, Malt Vinegar, Sugar, Free Range PasteurisedYolk, Balsamic Vinegar (contains: Wine Vinegar, Concentrated Grape Must, Colour: Caramel, Antioxidant: Potassium), Salt, Chilli Flakes, White Pepper.Pork (16%), Beef (16%), Onions, Water, Chopped Tomatoes (8%) (contains: Tomatoes, Tomato Juice, Acidity Regulator: Citric Acid), Semi-Dried Cherry Tomatoes (5%) (contain: Semi- Dried Cherry Tomatoes, Sunflower Oil, Salt, Garlic, Oregano, Acidity Regulator: Lactic Acid), Tomato Juice (5%) (contains: Tomato Juice, Salt, Acidity Regulator: Citric Acid), Red Wine, Carrots,, Tomato Puree (3%), Red Pesto (2%) (contains: Soaked Sundried Tomatoes (Sundried Tomatoes, Water, Salt, Grape Vinegar), Sunflower Oil, Extra Virgin Olive Oil, Vegetarian Medium Fat Hard Cheese (Cow's, Salt, Microbial Rennet), Sun Dried Tomatoes (Sun Dried Tomatoes, Extra Virgin Olive Oil, Salt, Grape Vinegar), Semidried Tomatoes in Oil (Semidried Tomatoes, Sunflower Oil, Sugar, Salt, Garlic, Oregano), Herbs de Provence (Rosemary, Marjoram, Parsley, Basil, Kibbled Bay Leaves, Thyme, Oregano, Sage), Garlic Puree), Garlic, Butter,Flour (contains:Flour, Calcium Carbonate, Iron, Nicotinamide, Thiamine Hydrochloride), White Bread (contains:Flour (contains Calcium, Iron, Niacin, Thiamin), Water, Yeast,Flour, Salt,Protein, Vegetable Fat (Palm, Rapeseed), Preservative: Calcium Propionate, Emulsifiers: Mono- and Diglycerides of Fatty Acids, Mono- and Diacetyltartaric Acid Esters of Mono- and Diglycerides of Fatty Acids, Sodium Stearoyl-2-lactylate, Flour Treatment Agent: Ascorbic Acid), Basil, Chicken Stock (contains: Roast Chicken, Maltodextrin, Salt, Natural Flavouring, Chicken Fat, Sugar, Lemon Juice (from concentrate), Onion Powder), Mediterranean Vegetable Stock (contains: Partially Reconstituted Vegetables (Onion, Red Bell Pepper, Artichoke,, Potato), Tomato Puree, Salt, Sugar, Maltodextrin, Sun-Dried Tomato Paste (Sun-Dried Tomato, Sunflower Oil, Salt, Natural Flavouring, White Wine Vinegar, Black Pepper), Olive Oil, Natural Flavouring), Semi Skimmed, Malt Vinegar, Sugar, Free Range PasteurisedYolk, Balsamic Vinegar (contains: Wine Vinegar, Concentrated Grape Must, Colour: Caramel, Antioxidant: Potassium), Salt, Chilli Flakes, White Pepper.",
+    "ingredientes_identificados": [
+      "cheese",
+      "potato",
+      "pork",
+      "bread",
+      "beef",
+      "butter",
+      "onion",
+      "grape",
+      "wine",
+      "chicken",
+      "tomato"
+    ],
+    "num_ingredientes": 11
+  },
+  {
+    "ingredients_text": "Potatoes (33%), Beef (24%), Water, Red Wine (6%) (contains: Preservative: Potassium), Onions,(3%), Gluten Free White Bread (contains: Water, Potato Flour, Corn Starch, Tapioca Starch, White Rice Flour, Buckwheat Flour, Thickening Agent (Xanthan Gum, Cellulose, Agar Agar), Binding Agent (Glycerol), Yeast, Rice Bran, Apple Juice Concentrate, Pea Protein, Sourdough (Fermented Quinoa, Rice and Maize Flour), Salt, Psyllium Husk, Rapeseed Oil, Acids (Citric Acid, Malic Acid, Tartaric Acid), Flour Treatment Agent (Ascorbic Acid)), Carrots (2%), Cornflour, Beef Glace (contains: Beef Stock (Water, Beef Stock), Flavourings, Yeast Extracts, Glucose Syrup, Salt, Sugar, Maltodextrin)), Flavourings, Yeast Extracts, Glucose Syrup, Salt, Sugar, Maltodextrin), Butter, Rapeseed Oil, Free Range PasteurisedYolk, Garlic, Tomato Puree, Mascarpone Cheese (contains:Cream, Pasteurised Cow's, Acidity Regulator: Citric Acid), Worcester Sauce (contains: Water, Sugar, Spirit Vinegar, Molasses, Onion Puree, Salt, Tamarind Paste, Cloves, Ginger Puree, Garlic Puree), Salt, Thyme,Seeds, White Pepper, Black Pepper.",
+    "ingredientes_identificados": [
+      "cheese",
+      "tomato",
+      "potato",
+      "bread",
+      "rice",
+      "butter",
+      "onion",
+      "wine",
+      "maize",
+      "apple",
+      "beef"
+    ],
+    "num_ingredientes": 11
+  },
+  {
+    "ingredients_text": "Pork (16%), Beef (16%), Onions, Water, Chopped Tomatoes (8%) (contains: Tomatoes, Tomato Juice, Acidity Regulator: Citric Acid), Semi-Dried Cherry Tomatoes in Oil (5%) (contains: Semi- Dried Cherry Tomatoes, Sunflower Oil, Salt, Garlic, Oregano, Acidity Regulator: Lactic Acid), Tomato Juice (5%) (contains: Tomato Juice, Salt, Acidity Regulator: Citric Acid), Red Wine, Carrots,, Tomato Puree (3%), Red Pesto (2%) (contains: Soaked Sundried Tomatoes (Sundried Tomatoes, Water, Salt, Grape Vinegar), Sunflower Oil, Extra Virgin Olive Oil, Vegetarian Medium Fat Hard Cheese (Cow's, Salt, Microbial Rennet), Sun Dried Tomatoes (Sun Dried Tomatoes, Extra Virgin Olive Oil, Salt, Grape Vinegar), Semidried Tomatoes in Oil (Semidried Tomatoes, Sunflower Oil, Sugar, Salt, Garlic, Oregano), Herbs de Provence (Rosemary, Marjoram, Parsley, Basil, Kibbled Bay Leaves, Thyme, Oregano, Sage), Garlic Puree), Garlic, Butter,Flour (contains:Flour, Calcium Carbonate, Iron, Nicotinamide, Thiamine Hydrochloride), White Bread (contains:Flour (contains Calcium, Iron, Niacin, Thiamin), Water, Yeast,Flour, Salt,Protein, Vegetable Fat (Palm, Rapeseed), Preservative: Calcium Propionate, Emulsifiers: Mono- and Diglycerides of Fatty Acids, Mono- and Diacetyltartaric Acid Esters of Mono- and Diglycerides of Fatty Acids, Sodium Stearoyl-2-lactylate, Flour Treatment Agent: Ascorbic Acid), Basil, Chicken Stock (contains: Roast Chicken, Maltodextrin, Salt, Natural Flavouring, Chicken Fat, Sugar, Lemon Juice (from concentrate), Onion Powder), Mediterranean Vegetable Stock (contains: Partially Reconstituted Vegetables (Onion, Red Bell Pepper, Artichoke,, Potato), Tomato Puree, Salt, Sugar, Maltodextrin, Sun-Dried Tomato Paste (Sun-Dried Tomato, Sunflower Oil, Salt, Natural Flavouring, White Wine Vinegar, Black Pepper), Olive Oil, Natural Flavouring), Semi Skimmed, Malt Vinegar, Sugar, Free Range PasteurisedYolk, Balsamic Vinegar (contains: Wine Vinegar, Concentrated Grape Must, Colour: Caramel, Antioxidant: Potassium), Salt, Chilli Flakes, White Pepper.",
+    "ingredientes_identificados": [
+      "cheese",
+      "potato",
+      "pork",
+      "bread",
+      "beef",
+      "butter",
+      "onion",
+      "grape",
+      "wine",
+      "chicken",
+      "tomato"
+    ],
+    "num_ingredientes": 11
+  },
+  {
+    "ingredients_text": "Potatoes (33%), Beef (24%), Water, Red Wine (6%) (contains: Preservative: Potassium), Onions,(3%), Gluten Free White Bread (contains: Water, Potato Flour, Corn Starch, Tapioca Starch, White Rice Flour, Buckwheat Flour, Thickening Agent (Xanthan Gum, Cellulose, Agar Agar), Binding Agent (Glycerol), Yeast, Rice Bran, Apple Juice Concentrate, Pea Protein, Sourdough (Fermented Quinoa, Rice and Maize Flour), Salt, Psyllium Husk, Rapeseed Oil, Acids (Citric Acid, Malic Acid, Tartaric Acid), Flour Treatment Agent (Ascorbic Acid)), Carrots (2%), Cornflour, Beef Glace (contains: Beef Stock (Water, Beef Stock), Flavourings, Yeast Extracts, Glucose Syrup, Salt, Sugar, Maltodextrin)), Flavourings, Yeast Extracts, Glucose Syrup, Salt, Sugar, Maltodextrin), Butter, Rapeseed Oil, Free Range PasteurisedYolk, Garlic, Tomato Puree, Mascarpone Cheese (contains:Cream, Pasteurised Cow's, Acidity Regulator: Citric Acid), Worcester Sauce (contains: Water, Sugar, Spirit Vinegar, Molasses, Onion Puree, Salt, Tamarind Paste, Cloves, Ginger Puree, Garlic Puree), Salt, Thyme,Seeds, White Pepper, Black Pepper.",
+    "ingredientes_identificados": [
+      "cheese",
+      "tomato",
+      "potato",
+      "bread",
+      "rice",
+      "butter",
+      "onion",
+      "wine",
+      "maize",
+      "apple",
+      "beef"
+    ],
+    "num_ingredientes": 11
+  },
+  {
+    "ingredients_text": "Pork (16%), Beef (16%), Onions, Water, Chopped Tomatoes (8%) (contains: Tomatoes, Tomato Juice, Acidity Regulator: Citric Acid), Semi-Dried Cherry Tomatoes (5%) (contain: Semi- Dried Cherry Tomatoes, Sunflower Oil, Salt, Garlic, Oregano, Acidity Regulator: Lactic Acid), Tomato Juice (5%) (contains: Tomato Juice, Salt, Acidity Regulator: Citric Acid), Red Wine, Carrots,, Tomato Puree (3%), Red Pesto (2%) (contains: Soaked Sundried Tomatoes (Sundried Tomatoes, Water, Salt, Grape Vinegar), Sunflower Oil, Extra Virgin Olive Oil, Vegetarian Medium Fat Hard Cheese (Cow's, Salt, Microbial Rennet), Sun Dried Tomatoes (Sun Dried Tomatoes, Extra Virgin Olive Oil, Salt, Grape Vinegar), Semidried Tomatoes in Oil (Semidried Tomatoes, Sunflower Oil, Sugar, Salt, Garlic, Oregano), Herbs de Provence (Rosemary, Marjoram, Parsley, Basil, Kibbled Bay Leaves, Thyme, Oregano, Sage), Garlic Puree), Garlic, Butter,Flour (contains:Flour, Calcium Carbonate, Iron, Nicotinamide, Thiamine Hydrochloride), White Bread (contains:Flour (contains Calcium, Iron, Niacin, Thiamin), Water, Yeast,Flour, Salt,Protein, Vegetable Fat (Palm, Rapeseed), Preservative: Calcium Propionate, Emulsifiers: Mono- and Diglycerides of Fatty Acids, Mono- and Diacetyltartaric Acid Esters of Mono- and Diglycerides of Fatty Acids, Sodium Stearoyl-2-lactylate, Flour Treatment Agent: Ascorbic Acid.), Basil, Chicken Stock (contains: Roast Chicken, Maltodextrin, Salt, Natural Flavouring, Chicken Fat, Sugar, Lemon Juice (from concentrate), Onion Powder), Mediterranean Vegetable Stock (contains: Partially Reconstituted Vegetables (Onion, Red Bell Pepper, Artichoke,, Potato), Tomato Puree, Salt, Sugar, Maltodextrin, Sun-Dried Tomato Paste (Sun-Dried Tomato, Sunflower Oil, Salt, Natural Flavouring, White Wine Vinegar, Black Pepper), Olive Oil, Natural Flavouring.), Semi Skimmed, Malt Vinegar, Sugar, Free Range PasteurisedYolk, Balsamic Vinegar (contains: Wine Vinegar, Concentrated Grape Must, Colour: Caramel, Antioxidant: Potassium), Salt, Chilli Flakes, White Pepper.",
+    "ingredientes_identificados": [
+      "cheese",
+      "potato",
+      "pork",
+      "bread",
+      "beef",
+      "butter",
+      "onion",
+      "grape",
+      "wine",
+      "chicken",
+      "tomato"
+    ],
+    "num_ingredientes": 11
+  },
+  {
+    "ingredients_text": "Potatoes (33%), Beef (24%), Water, Red Wine (6%) (contains: Preservative: Potassium), Onions,(3%), Gluten Free White Bread (contains: Water, Potato Flour, Corn Starch, Tapioca Starch, White Rice Flour, Buckwheat Flour, Thickening Agent (Xanthan Gum, Cellulose, Agar Agar), Binding Agent (Glycerol), Yeast, Rice Bran, Apple Juice Concentrate, Pea Protein, Sourdough (Fermented Quinoa, Rice and Maize Flour), Salt, Psyllium Husk, Rapeseed Oil, Acids (Citric Acid, Malic Acid, Tartaric Acid), Flour Treatment Agent (Ascorbic Acid)), Carrots (2%), Cornflour, Beef Glace (contains: Beef Stock (Water, Beef Stock), Flavourings, Yeast Extracts, Glucose Syrup, Salt, Sugar, Maltodextrin)), Flavourings, Yeast Extracts, Glucose Syrup, Salt, Sugar, Maltodextrin), Butter, Rapeseed Oil, Free Range PasteurisedYolk, Garlic, Tomato Puree, Mascarpone Cheese (contains:Cream, Pasteurised Cow's, Acidity Regulator: Citric Acid), Worcester Sauce (contains: Water, Sugar, Spirit Vinegar, Molasses, Onion Puree, Salt, Tamarind Paste, Cloves, Ginger Puree, Garlic Puree), Salt, Thyme,Seeds, White Pepper, Black Pepper.",
+    "ingredientes_identificados": [
+      "cheese",
+      "tomato",
+      "potato",
+      "bread",
+      "rice",
+      "butter",
+      "onion",
+      "wine",
+      "maize",
+      "apple",
+      "beef"
+    ],
+    "num_ingredientes": 11
+  },
+  {
+    "ingredients_text": "Potatoes (34%), Beef (24%), Water, Red Wine (6%) (contains: Preservative: Potassium), Onions,(3%), Carrots (2%), Cornflour, Beef Glace (contains: Beef Stock (Water, Beef Stock), Flavourings, Yeast Extracts, Glucose Syrup, Salt, Sugar, Maltodextrin), Gluten Free White Bread (contains: Water, Potato Flour, Corn Starch, Tapioca Starch, White Rice Flour, Buckwheat Flour, Thickening Agent (Xanthan Gum, Cellulose, Agar Agar), Binding Agent (Glycerol), Yeast, Rice Bran, Apple Juice Concentrate, Pea Protein, Sourdough (Fermented Quinoa, Rice and Maize Flour), Salt, Psyllium Husk, Rapeseed Oil, Acids (Citric Acid, Malic Acid, Tartaric Acid), Flour Treatment Agent (Ascorbic Acid)), Butter, Free Range PasteurisedYolk, Garlic, Rapeseed Oil,Tomato Puree, Mascarpone Cheese (contains:Cream, Pasteurised Cow's, Acidity Regulator: Citric Acid), Worcester Sauce (contains: Water, Sugar, Spirit Vinegar, Molasses, Onion Puree, Salt, Tamarind Paste, Cloves, Ginger Puree, Garlic Puree), Salt, Thyme,Seeds, White Pepper, Black Pepper.",
+    "ingredientes_identificados": [
+      "cheese",
+      "tomato",
+      "potato",
+      "bread",
+      "rice",
+      "butter",
+      "onion",
+      "wine",
+      "maize",
+      "apple",
+      "beef"
+    ],
+    "num_ingredientes": 11
+  },
+  {
+    "ingredients_text": "Pork (16%), Beef (16%), Onions, Water, Chopped Tomatoes (8%) (contains: Tomatoes, Tomato Juice, Acidity Regulator: Citric Acid), Semi-Dried Cherry Tomatoes (5%) (contain: Semi- Dried Cherry Tomatoes, Sunflower Oil, Salt, Garlic, Oregano, Acidity Regulator: Lactic Acid), Tomato Juice (5%) (contains: Tomato Juice, Salt, Acidity Regulator: Citric Acid), Red Wine, Carrots,, Tomato Puree (3%), Red Pesto (2%) (contains: Soaked Sundried Tomatoes (Sundried Tomatoes, Water, Salt, Grape Vinegar), Sunflower Oil, Extra Virgin Olive Oil, Vegetarian Medium Fat Hard Cheese (Cow's, Salt, Microbial Rennet), Sun Dried Tomatoes (Sun Dried Tomatoes, Extra Virgin Olive Oil, Salt, Grape Vinegar), Semidried Tomatoes in Oil (Semidried Tomatoes, Sunflower Oil, Sugar, Salt, Garlic, Oregano), Herbs de Provence (Rosemary, Marjoram, Parsley, Basil, Kibbled Bay Leaves, Thyme, Oregano, Sage), Garlic Puree), Garlic, Butter,Flour (contains:Flour, Calcium Carbonate, Iron, Nicotinamide, Thiamine Hydrochloride), White Bread (contains:Flour (contains Calcium, Iron, Niacin, Thiamin), Water, Yeast,Flour, Salt,Protein, Vegetable Fat (Palm, Rapeseed), Preservative: Calcium Propionate, Emulsifiers: Mono- and Diglycerides of Fatty Acids, Mono- and Diacetyltartaric Acid Esters of Mono- and Diglycerides of Fatty Acids, Sodium Stearoyl-2-lactylate, Flour Treatment Agent: Ascorbic Acid), Basil, Chicken Stock (contains: Roast Chicken, Maltodextrin, Salt, Natural Flavouring, Chicken Fat, Sugar, Lemon Juice (from concentrate), Onion Powder), Mediterranean Vegetable Stock (contains: Partially Reconstituted Vegetables (Onion, Red Bell Pepper, Artichoke,, Potato), Tomato Puree, Salt, Sugar, Maltodextrin, Sun-Dried Tomato Paste (Sun-Dried Tomato, Sunflower Oil, Salt, Natural Flavouring, White Wine Vinegar, Black Pepper), Olive Oil, Natural Flavouring), Semi Skimmed, Malt Vinegar, Sugar, Free Range PasteurisedYolk, Balsamic Vinegar (contains: Wine Vinegar, Concentrated Grape Must, Colour: Caramel, Antioxidant: Potassium), Salt, Chilli Flakes, White Pepper.",
+    "ingredientes_identificados": [
+      "cheese",
+      "potato",
+      "pork",
+      "bread",
+      "beef",
+      "butter",
+      "onion",
+      "grape",
+      "wine",
+      "chicken",
+      "tomato"
+    ],
+    "num_ingredientes": 11
+  },
+  {
+    "ingredients_text": "Potatoes (34%), Beef (24%), Water, Red Wine (6%) (contains: Preservative: Potassium), Onions,(3%), Carrots (2%), Cornflour, Beef Glace (contains: Beef Stock (Water, Beef Stock), Flavourings, Yeast Extracts, Glucose Syrup, Salt, Sugar, Maltodextrin), Gluten Free White Bread (contains: Water, Potato Flour, Corn Starch, Tapioca Starch, White Rice Flour, Buckwheat Flour, Thickening Agent (Xanthan Gum, Cellulose, Agar Agar), Binding Agent (Glycerol), Yeast, Rice Bran, Apple Juice Concentrate, Pea Protein, Sourdough (Fermented Quinoa, Rice and Maize Flour), Salt, Psyllium Husk, Rapeseed Oil, Acids (Citric Acid, Malic Acid, Tartaric Acid), Flour Treatment Agent (Ascorbic Acid)), Butter, Free Range PasteurisedYolk, Garlic, Rapeseed Oil,Tomato Puree, Mascarpone Cheese (contains:Cream, Pasteurised Cow's, Acidity Regulator: Citric Acid), Worcester Sauce (contains: Water, Sugar, Spirit Vinegar, Molasses, Onion Puree, Salt, Tamarind Paste, Cloves, Ginger Puree, Garlic Puree), Salt, Thyme,Seeds, White Pepper, Black Pepper.",
+    "ingredientes_identificados": [
+      "cheese",
+      "tomato",
+      "potato",
+      "bread",
+      "rice",
+      "butter",
+      "onion",
+      "wine",
+      "maize",
+      "apple",
+      "beef"
+    ],
+    "num_ingredientes": 11
+  },
+  {
+    "ingredients_text": "Potatoes (33%), Beef (24%), Water, Red Wine (6%) (contains: Preservative: Potassium), Onions,(3%), Gluten Free White Bread (contains: Water, Potato Flour, Corn Starch, Tapioca Starch, White Rice Flour, Buckwheat Flour, Thickening Agent (Xanthan Gum, Cellulose, Agar Agar), Binding Agent (Glycerol), Yeast, Rice Bran, Apple Juice Concentrate, Pea Protein, Sourdough (Fermented Quinoa, Rice and Maize Flour), Salt, Psyllium Husk, Rapeseed Oil, Acids (Citric Acid, Malic Acid, Tartaric Acid), Flour Treatment Agent (Ascorbic Acid)), Carrots (2%), Cornflour, Beef Glace (contains: Beef Stock (Water, Beef Stock), Flavourings, Yeast Extracts, Glucose Syrup, Salt, Sugar, Maltodextrin)), Flavourings, Yeast Extracts, Glucose Syrup, Salt, Sugar, Maltodextrin), Butter, Rapeseed Oil, Free Range PasteurisedYolk, Garlic, Tomato Puree, Mascarpone Cheese (contains:Cream, Pasteurised Cow's, Acidity Regulator: Citric Acid), Worcester Sauce (contains: Water, Sugar, Spirit Vinegar, Molasses, Onion Puree, Salt, Tamarind Paste, Cloves, Ginger Puree, Garlic Puree), Salt, Thyme,Seeds, White Pepper, Black Pepper.",
+    "ingredientes_identificados": [
+      "cheese",
+      "tomato",
+      "potato",
+      "bread",
+      "rice",
+      "butter",
+      "onion",
+      "wine",
+      "maize",
+      "apple",
+      "beef"
+    ],
+    "num_ingredientes": 11
+  },
+  {
+    "ingredients_text": "Potatoes (33%), Beef (24%), Water, Red Wine (6%) (contains: Preservative: Potassium), Onions,(3%), Gluten Free White Bread (contains: Water, Potato Flour, Corn Starch, Tapioca Starch, White Rice Flour, Buckwheat Flour, Thickening Agent (Xanthan Gum, Cellulose, Agar Agar), Binding Agent (Glycerol), Yeast, Rice Bran, Apple Juice Concentrate, Pea Protein, Sourdough (Fermented Quinoa, Rice and Maize Flour), Salt, Psyllium Husk, Rapeseed Oil, Acids (Citric Acid, Malic Acid, Tartaric Acid), Flour Treatment Agent (Ascorbic Acid)), Carrots (2%), Cornflour, Beef Glace (contains: Beef Stock (Water, Beef Stock), Flavourings, Yeast Extracts, Glucose Syrup, Salt, Sugar, Maltodextrin)), Flavourings, Yeast Extracts, Glucose Syrup, Salt, Sugar, Maltodextrin), Butter, Rapeseed Oil, Free Range PasteurisedYolk, Garlic, Tomato Puree, Mascarpone Cheese (contains:Cream, Pasteurised Cow's, Acidity Regulator: Citric Acid), Worcester Sauce (contains: Water, Sugar, Spirit Vinegar, Molasses, Onion Puree, Salt, Tamarind Paste, Cloves, Ginger Puree, Garlic Puree), Salt, Thyme,Seeds, White Pepper, Black Pepper.",
+    "ingredientes_identificados": [
+      "cheese",
+      "tomato",
+      "potato",
+      "bread",
+      "rice",
+      "butter",
+      "onion",
+      "wine",
+      "maize",
+      "apple",
+      "beef"
+    ],
+    "num_ingredientes": 11
+  },
+  {
+    "ingredients_text": "Pork (16%), Beef (16%), Onions, Water, Chopped Tomatoes (8%) (contains: Tomatoes, Tomato Juice, Acidity Regulator: Citric Acid), Semi-Dried Cherry Tomatoes in Oil (5%) (contains: Semi- Dried Cherry Tomatoes, Sunflower Oil, Salt, Garlic, Oregano, Acidity Regulator: Lactic Acid), Tomato Juice (5%) (contains: Tomato Juice, Salt, Acidity Regulator: Citric Acid), Red Wine, Carrots,, Tomato Puree (3%), Red Pesto (2%) (contains: Soaked Sundried Tomatoes (Sundried Tomatoes, Water, Salt, Grape Vinegar), Sunflower Oil, Extra Virgin Olive Oil, Vegetarian Medium Fat Hard Cheese (Cow's, Salt, Microbial Rennet), Sun Dried Tomatoes (Sun Dried Tomatoes, Extra Virgin Olive Oil, Salt, Grape Vinegar), Semidried Tomatoes in Oil (Semidried Tomatoes, Sunflower Oil, Sugar, Salt, Garlic, Oregano), Herbs de Provence (Rosemary, Marjoram, Parsley, Basil, Kibbled Bay Leaves, Thyme, Oregano, Sage), Garlic Puree), Garlic, Butter,Flour (contains:Flour, Calcium Carbonate, Iron, Nicotinamide, Thiamine Hydrochloride), White Bread (contains:Flour (contains Calcium, Iron, Niacin, Thiamin), Water, Yeast,Flour, Salt,Protein, Vegetable Fat (Palm, Rapeseed), Preservative: Calcium Propionate, Emulsifiers: Mono- and Diglycerides of Fatty Acids, Mono- and Diacetyltartaric Acid Esters of Mono- and Diglycerides of Fatty Acids, Sodium Stearoyl-2-lactylate, Flour Treatment Agent: Ascorbic Acid), Basil, Chicken Stock (contains: Roast Chicken, Maltodextrin, Salt, Natural Flavouring, Chicken Fat, Sugar, Lemon Juice (from concentrate), Onion Powder), Mediterranean Vegetable Stock (contains: Partially Reconstituted Vegetables (Onion, Red Bell Pepper, Artichoke,, Potato), Tomato Puree, Salt, Sugar, Maltodextrin, Sun-Dried Tomato Paste (Sun-Dried Tomato, Sunflower Oil, Salt, Natural Flavouring, White Wine Vinegar, Black Pepper), Olive Oil, Natural Flavouring), Semi Skimmed, Malt Vinegar, Sugar, Free Range PasteurisedYolk, Balsamic Vinegar (contains: Wine Vinegar, Concentrated Grape Must, Colour: Caramel, Antioxidant: Potassium), Salt, Chilli Flakes, White Pepper.Pork (16%), Beef (16%), Onions, Water, Chopped Tomatoes (8%) (contains: Tomatoes, Tomato Juice, Acidity Regulator: Citric Acid), Semi-Dried Cherry Tomatoes (5%) (contain: Semi- Dried Cherry Tomatoes, Sunflower Oil, Salt, Garlic, Oregano, Acidity Regulator: Lactic Acid), Tomato Juice (5%) (contains: Tomato Juice, Salt, Acidity Regulator: Citric Acid), Red Wine, Carrots,, Tomato Puree (3%), Red Pesto (2%) (contains: Soaked Sundried Tomatoes (Sundried Tomatoes, Water, Salt, Grape Vinegar), Sunflower Oil, Extra Virgin Olive Oil, Vegetarian Medium Fat Hard Cheese (Cow's, Salt, Microbial Rennet), Sun Dried Tomatoes (Sun Dried Tomatoes, Extra Virgin Olive Oil, Salt, Grape Vinegar), Semidried Tomatoes in Oil (Semidried Tomatoes, Sunflower Oil, Sugar, Salt, Garlic, Oregano), Herbs de Provence (Rosemary, Marjoram, Parsley, Basil, Kibbled Bay Leaves, Thyme, Oregano, Sage), Garlic Puree), Garlic, Butter,Flour (contains:Flour, Calcium Carbonate, Iron, Nicotinamide, Thiamine Hydrochloride), White Bread (contains:Flour (contains Calcium, Iron, Niacin, Thiamin), Water, Yeast,Flour, Salt,Protein, Vegetable Fat (Palm, Rapeseed), Preservative: Calcium Propionate, Emulsifiers: Mono- and Diglycerides of Fatty Acids, Mono- and Diacetyltartaric Acid Esters of Mono- and Diglycerides of Fatty Acids, Sodium Stearoyl-2-lactylate, Flour Treatment Agent: Ascorbic Acid.), Basil, Chicken Stock (contains: Roast Chicken, Maltodextrin, Salt, Natural Flavouring, Chicken Fat, Sugar, Lemon Juice (from concentrate), Onion Powder), Mediterranean Vegetable Stock (contains: Partially Reconstituted Vegetables (Onion, Red Bell Pepper, Artichoke,, Potato), Tomato Puree, Salt, Sugar, Maltodextrin, Sun-Dried Tomato Paste (Sun-Dried Tomato, Sunflower Oil, Salt, Natural Flavouring, White Wine Vinegar, Black Pepper), Olive Oil, Natural Flavouring.), Semi Skimmed, Malt Vinegar, Sugar, Free Range PasteurisedYolk, Balsamic Vinegar (contains: Wine Vinegar, Concentrated Grape Must, Colour: Caramel, Antioxidant: Potassium), Salt, Chilli Flakes, White Pepper.Pork (16%), Beef (16%), Onions, Water, Chopped Tomatoes (8%) (contains: Tomatoes, Tomato Juice, Acidity Regulator: Citric Acid), Semi-Dried Cherry Tomatoes (5%) (contain: Semi- Dried Cherry Tomatoes, Sunflower Oil, Salt, Garlic, Oregano, Acidity Regulator: Lactic Acid), Tomato Juice (5%) (contains: Tomato Juice, Salt, Acidity Regulator: Citric Acid), Red Wine, Carrots,, Tomato Puree (3%), Red Pesto (2%) (contains: Soaked Sundried Tomatoes (Sundried Tomatoes, Water, Salt, Grape Vinegar), Sunflower Oil, Extra Virgin Olive Oil, Vegetarian Medium Fat Hard Cheese (Cow's, Salt, Microbial Rennet), Sun Dried Tomatoes (Sun Dried Tomatoes, Extra Virgin Olive Oil, Salt, Grape Vinegar), Semidried Tomatoes in Oil (Semidried Tomatoes, Sunflower Oil, Sugar, Salt, Garlic, Oregano), Herbs de Provence (Rosemary, Marjoram, Parsley, Basil, Kibbled Bay Leaves, Thyme, Oregano, Sage), Garlic Puree), Garlic, Butter,Flour (contains:Flour, Calcium Carbonate, Iron, Nicotinamide, Thiamine Hydrochloride), White Bread (contains:Flour (contains Calcium, Iron, Niacin, Thiamin), Water, Yeast,Flour, Salt,Protein, Vegetable Fat (Palm, Rapeseed), Preservative: Calcium Propionate, Emulsifiers: Mono- and Diglycerides of Fatty Acids, Mono- and Diacetyltartaric Acid Esters of Mono- and Diglycerides of Fatty Acids, Sodium Stearoyl-2-lactylate, Flour Treatment Agent: Ascorbic Acid), Basil, Chicken Stock (contains: Roast Chicken, Maltodextrin, Salt, Natural Flavouring, Chicken Fat, Sugar, Lemon Juice (from concentrate), Onion Powder), Mediterranean Vegetable Stock (contains: Partially Reconstituted Vegetables (Onion, Red Bell Pepper, Artichoke,, Potato), Tomato Puree, Salt, Sugar, Maltodextrin, Sun-Dried Tomato Paste (Sun-Dried Tomato, Sunflower Oil, Salt, Natural Flavouring, White Wine Vinegar, Black Pepper), Olive Oil, Natural Flavouring), Semi Skimmed, Malt Vinegar, Sugar, Free Range PasteurisedYolk, Balsamic Vinegar (contains: Wine Vinegar, Concentrated Grape Must, Colour: Caramel, Antioxidant: Potassium), Salt, Chilli Flakes, White Pepper.",
+    "ingredientes_identificados": [
+      "cheese",
+      "potato",
+      "pork",
+      "bread",
+      "beef",
+      "butter",
+      "onion",
+      "grape",
+      "wine",
+      "chicken",
+      "tomato"
+    ],
+    "num_ingredientes": 11
+  },
+  {
+    "ingredients_text": "Pork (16%), Beef (16%), Onions, Water, Chopped Tomatoes (8%) (contains: Tomatoes, Tomato Juice, Acidity Regulator: Citric Acid), Semi-Dried Cherry Tomatoes in Oil (5%) (contains: Semi- Dried Cherry Tomatoes, Sunflower Oil, Salt, Garlic, Oregano, Acidity Regulator: Lactic Acid), Tomato Juice (5%) (contains: Tomato Juice, Salt, Acidity Regulator: Citric Acid), Red Wine, Carrots,, Tomato Puree (3%), Red Pesto (2%) (contains: Soaked Sundried Tomatoes (Sundried Tomatoes, Water, Salt, Grape Vinegar), Sunflower Oil, Extra Virgin Olive Oil, Vegetarian Medium Fat Hard Cheese (Cow's, Salt, Microbial Rennet), Sun Dried Tomatoes (Sun Dried Tomatoes, Extra Virgin Olive Oil, Salt, Grape Vinegar), Semidried Tomatoes in Oil (Semidried Tomatoes, Sunflower Oil, Sugar, Salt, Garlic, Oregano), Herbs de Provence (Rosemary, Marjoram, Parsley, Basil, Kibbled Bay Leaves, Thyme, Oregano, Sage), Garlic Puree), Garlic, Butter,Flour (contains:Flour, Calcium Carbonate, Iron, Nicotinamide, Thiamine Hydrochloride), White Bread (contains:Flour (contains Calcium, Iron, Niacin, Thiamin), Water, Yeast,Flour, Salt,Protein, Vegetable Fat (Palm, Rapeseed), Preservative: Calcium Propionate, Emulsifiers: Mono- and Diglycerides of Fatty Acids, Mono- and Diacetyltartaric Acid Esters of Mono- and Diglycerides of Fatty Acids, Sodium Stearoyl-2-lactylate, Flour Treatment Agent: Ascorbic Acid), Basil, Chicken Stock (contains: Roast Chicken, Maltodextrin, Salt, Natural Flavouring, Chicken Fat, Sugar, Lemon Juice (from concentrate), Onion Powder), Mediterranean Vegetable Stock (contains: Partially Reconstituted Vegetables (Onion, Red Bell Pepper, Artichoke,, Potato), Tomato Puree, Salt, Sugar, Maltodextrin, Sun-Dried Tomato Paste (Sun-Dried Tomato, Sunflower Oil, Salt, Natural Flavouring, White Wine Vinegar, Black Pepper), Olive Oil, Natural Flavouring), Semi Skimmed, Malt Vinegar, Sugar, Free Range PasteurisedYolk, Balsamic Vinegar (contains: Wine Vinegar, Concentrated Grape Must, Colour: Caramel, Antioxidant: Potassium), Salt, Chilli Flakes, White Pepper.Pork (16%), Beef (16%), Onions, Water, Chopped Tomatoes (8%) (contains: Tomatoes, Tomato Juice, Acidity Regulator: Citric Acid), Semi-Dried Cherry Tomatoes (5%) (contain: Semi- Dried Cherry Tomatoes, Sunflower Oil, Salt, Garlic, Oregano, Acidity Regulator: Lactic Acid), Tomato Juice (5%) (contains: Tomato Juice, Salt, Acidity Regulator: Citric Acid), Red Wine, Carrots,, Tomato Puree (3%), Red Pesto (2%) (contains: Soaked Sundried Tomatoes (Sundried Tomatoes, Water, Salt, Grape Vinegar), Sunflower Oil, Extra Virgin Olive Oil, Vegetarian Medium Fat Hard Cheese (Cow's, Salt, Microbial Rennet), Sun Dried Tomatoes (Sun Dried Tomatoes, Extra Virgin Olive Oil, Salt, Grape Vinegar), Semidried Tomatoes in Oil (Semidried Tomatoes, Sunflower Oil, Sugar, Salt, Garlic, Oregano), Herbs de Provence (Rosemary, Marjoram, Parsley, Basil, Kibbled Bay Leaves, Thyme, Oregano, Sage), Garlic Puree), Garlic, Butter,Flour (contains:Flour, Calcium Carbonate, Iron, Nicotinamide, Thiamine Hydrochloride), White Bread (contains:Flour (contains Calcium, Iron, Niacin, Thiamin), Water, Yeast,Flour, Salt,Protein, Vegetable Fat (Palm, Rapeseed), Preservative: Calcium Propionate, Emulsifiers: Mono- and Diglycerides of Fatty Acids, Mono- and Diacetyltartaric Acid Esters of Mono- and Diglycerides of Fatty Acids, Sodium Stearoyl-2-lactylate, Flour Treatment Agent: Ascorbic Acid.), Basil, Chicken Stock (contains: Roast Chicken, Maltodextrin, Salt, Natural Flavouring, Chicken Fat, Sugar, Lemon Juice (from concentrate), Onion Powder), Mediterranean Vegetable Stock (contains: Partially Reconstituted Vegetables (Onion, Red Bell Pepper, Artichoke,, Potato), Tomato Puree, Salt, Sugar, Maltodextrin, Sun-Dried Tomato Paste (Sun-Dried Tomato, Sunflower Oil, Salt, Natural Flavouring, White Wine Vinegar, Black Pepper), Olive Oil, Natural Flavouring.), Semi Skimmed, Malt Vinegar, Sugar, Free Range PasteurisedYolk, Balsamic Vinegar (contains: Wine Vinegar, Concentrated Grape Must, Colour: Caramel, Antioxidant: Potassium), Salt, Chilli Flakes, White Pepper.Pork (16%), Beef (16%), Onions, Water, Chopped Tomatoes (8%) (contains: Tomatoes, Tomato Juice, Acidity Regulator: Citric Acid), Semi-Dried Cherry Tomatoes (5%) (contain: Semi- Dried Cherry Tomatoes, Sunflower Oil, Salt, Garlic, Oregano, Acidity Regulator: Lactic Acid), Tomato Juice (5%) (contains: Tomato Juice, Salt, Acidity Regulator: Citric Acid), Red Wine, Carrots,, Tomato Puree (3%), Red Pesto (2%) (contains: Soaked Sundried Tomatoes (Sundried Tomatoes, Water, Salt, Grape Vinegar), Sunflower Oil, Extra Virgin Olive Oil, Vegetarian Medium Fat Hard Cheese (Cow's, Salt, Microbial Rennet), Sun Dried Tomatoes (Sun Dried Tomatoes, Extra Virgin Olive Oil, Salt, Grape Vinegar), Semidried Tomatoes in Oil (Semidried Tomatoes, Sunflower Oil, Sugar, Salt, Garlic, Oregano), Herbs de Provence (Rosemary, Marjoram, Parsley, Basil, Kibbled Bay Leaves, Thyme, Oregano, Sage), Garlic Puree), Garlic, Butter,Flour (contains:Flour, Calcium Carbonate, Iron, Nicotinamide, Thiamine Hydrochloride), White Bread (contains:Flour (contains Calcium, Iron, Niacin, Thiamin), Water, Yeast,Flour, Salt,Protein, Vegetable Fat (Palm, Rapeseed), Preservative: Calcium Propionate, Emulsifiers: Mono- and Diglycerides of Fatty Acids, Mono- and Diacetyltartaric Acid Esters of Mono- and Diglycerides of Fatty Acids, Sodium Stearoyl-2-lactylate, Flour Treatment Agent: Ascorbic Acid), Basil, Chicken Stock (contains: Roast Chicken, Maltodextrin, Salt, Natural Flavouring, Chicken Fat, Sugar, Lemon Juice (from concentrate), Onion Powder), Mediterranean Vegetable Stock (contains: Partially Reconstituted Vegetables (Onion, Red Bell Pepper, Artichoke,, Potato), Tomato Puree, Salt, Sugar, Maltodextrin, Sun-Dried Tomato Paste (Sun-Dried Tomato, Sunflower Oil, Salt, Natural Flavouring, White Wine Vinegar, Black Pepper), Olive Oil, Natural Flavouring), Semi Skimmed, Malt Vinegar, Sugar, Free Range PasteurisedYolk, Balsamic Vinegar (contains: Wine Vinegar, Concentrated Grape Must, Colour: Caramel, Antioxidant: Potassium), Salt, Chilli Flakes, White Pepper.",
+    "ingredientes_identificados": [
+      "cheese",
+      "potato",
+      "pork",
+      "bread",
+      "beef",
+      "butter",
+      "onion",
+      "grape",
+      "wine",
+      "chicken",
+      "tomato"
+    ],
+    "num_ingredientes": 11
+  },
+  {
+    "ingredients_text": "Pork (16%), Beef (16%), Onions, Water, Chopped Tomatoes (8%) (contains: Tomatoes, Tomato Juice, Acidity Regulator: Citric Acid), Semi-Dried Cherry Tomatoes in Oil (5%) (contains: Semi- Dried Cherry Tomatoes, Sunflower Oil, Salt, Garlic, Oregano, Acidity Regulator: Lactic Acid), Tomato Juice (5%) (contains: Tomato Juice, Salt, Acidity Regulator: Citric Acid), Red Wine, Carrots,, Tomato Puree (3%), Red Pesto (2%) (contains: Soaked Sundried Tomatoes (Sundried Tomatoes, Water, Salt, Grape Vinegar), Sunflower Oil, Extra Virgin Olive Oil, Vegetarian Medium Fat Hard Cheese (Cow's, Salt, Microbial Rennet), Sun Dried Tomatoes (Sun Dried Tomatoes, Extra Virgin Olive Oil, Salt, Grape Vinegar), Semidried Tomatoes in Oil (Semidried Tomatoes, Sunflower Oil, Sugar, Salt, Garlic, Oregano), Herbs de Provence (Rosemary, Marjoram, Parsley, Basil, Kibbled Bay Leaves, Thyme, Oregano, Sage), Garlic Puree), Garlic, Butter,Flour (contains:Flour, Calcium Carbonate, Iron, Nicotinamide, Thiamine Hydrochloride), White Bread (contains:Flour (contains Calcium, Iron, Niacin, Thiamin), Water, Yeast,Flour, Salt,Protein, Vegetable Fat (Palm, Rapeseed), Preservative: Calcium Propionate, Emulsifiers: Mono- and Diglycerides of Fatty Acids, Mono- and Diacetyltartaric Acid Esters of Mono- and Diglycerides of Fatty Acids, Sodium Stearoyl-2-lactylate, Flour Treatment Agent: Ascorbic Acid), Basil, Chicken Stock (contains: Roast Chicken, Maltodextrin, Salt, Natural Flavouring, Chicken Fat, Sugar, Lemon Juice (from concentrate), Onion Powder), Mediterranean Vegetable Stock (contains: Partially Reconstituted Vegetables (Onion, Red Bell Pepper, Artichoke,, Potato), Tomato Puree, Salt, Sugar, Maltodextrin, Sun-Dried Tomato Paste (Sun-Dried Tomato, Sunflower Oil, Salt, Natural Flavouring, White Wine Vinegar, Black Pepper), Olive Oil, Natural Flavouring), Semi Skimmed, Malt Vinegar, Sugar, Free Range PasteurisedYolk, Balsamic Vinegar (contains: Wine Vinegar, Concentrated Grape Must, Colour: Caramel, Antioxidant: Potassium), Salt, Chilli Flakes, White Pepper.Pork (16%), Beef (16%), Onions, Water, Chopped Tomatoes (8%) (contains: Tomatoes, Tomato Juice, Acidity Regulator: Citric Acid), Semi-Dried Cherry Tomatoes (5%) (contain: Semi- Dried Cherry Tomatoes, Sunflower Oil, Salt, Garlic, Oregano, Acidity Regulator: Lactic Acid), Tomato Juice (5%) (contains: Tomato Juice, Salt, Acidity Regulator: Citric Acid), Red Wine, Carrots,, Tomato Puree (3%), Red Pesto (2%) (contains: Soaked Sundried Tomatoes (Sundried Tomatoes, Water, Salt, Grape Vinegar), Sunflower Oil, Extra Virgin Olive Oil, Vegetarian Medium Fat Hard Cheese (Cow's, Salt, Microbial Rennet), Sun Dried Tomatoes (Sun Dried Tomatoes, Extra Virgin Olive Oil, Salt, Grape Vinegar), Semidried Tomatoes in Oil (Semidried Tomatoes, Sunflower Oil, Sugar, Salt, Garlic, Oregano), Herbs de Provence (Rosemary, Marjoram, Parsley, Basil, Kibbled Bay Leaves, Thyme, Oregano, Sage), Garlic Puree), Garlic, Butter,Flour (contains:Flour, Calcium Carbonate, Iron, Nicotinamide, Thiamine Hydrochloride), White Bread (contains:Flour (contains Calcium, Iron, Niacin, Thiamin), Water, Yeast,Flour, Salt,Protein, Vegetable Fat (Palm, Rapeseed), Preservative: Calcium Propionate, Emulsifiers: Mono- and Diglycerides of Fatty Acids, Mono- and Diacetyltartaric Acid Esters of Mono- and Diglycerides of Fatty Acids, Sodium Stearoyl-2-lactylate, Flour Treatment Agent: Ascorbic Acid.), Basil, Chicken Stock (contains: Roast Chicken, Maltodextrin, Salt, Natural Flavouring, Chicken Fat, Sugar, Lemon Juice (from concentrate), Onion Powder), Mediterranean Vegetable Stock (contains: Partially Reconstituted Vegetables (Onion, Red Bell Pepper, Artichoke,, Potato), Tomato Puree, Salt, Sugar, Maltodextrin, Sun-Dried Tomato Paste (Sun-Dried Tomato, Sunflower Oil, Salt, Natural Flavouring, White Wine Vinegar, Black Pepper), Olive Oil, Natural Flavouring.), Semi Skimmed, Malt Vinegar, Sugar, Free Range PasteurisedYolk, Balsamic Vinegar (contains: Wine Vinegar, Concentrated Grape Must, Colour: Caramel, Antioxidant: Potassium), Salt, Chilli Flakes, White Pepper.Pork (16%), Beef (16%), Onions, Water, Chopped Tomatoes (8%) (contains: Tomatoes, Tomato Juice, Acidity Regulator: Citric Acid), Semi-Dried Cherry Tomatoes (5%) (contain: Semi- Dried Cherry Tomatoes, Sunflower Oil, Salt, Garlic, Oregano, Acidity Regulator: Lactic Acid), Tomato Juice (5%) (contains: Tomato Juice, Salt, Acidity Regulator: Citric Acid), Red Wine, Carrots,, Tomato Puree (3%), Red Pesto (2%) (contains: Soaked Sundried Tomatoes (Sundried Tomatoes, Water, Salt, Grape Vinegar), Sunflower Oil, Extra Virgin Olive Oil, Vegetarian Medium Fat Hard Cheese (Cow's, Salt, Microbial Rennet), Sun Dried Tomatoes (Sun Dried Tomatoes, Extra Virgin Olive Oil, Salt, Grape Vinegar), Semidried Tomatoes in Oil (Semidried Tomatoes, Sunflower Oil, Sugar, Salt, Garlic, Oregano), Herbs de Provence (Rosemary, Marjoram, Parsley, Basil, Kibbled Bay Leaves, Thyme, Oregano, Sage), Garlic Puree), Garlic, Butter,Flour (contains:Flour, Calcium Carbonate, Iron, Nicotinamide, Thiamine Hydrochloride), White Bread (contains:Flour (contains Calcium, Iron, Niacin, Thiamin), Water, Yeast,Flour, Salt,Protein, Vegetable Fat (Palm, Rapeseed), Preservative: Calcium Propionate, Emulsifiers: Mono- and Diglycerides of Fatty Acids, Mono- and Diacetyltartaric Acid Esters of Mono- and Diglycerides of Fatty Acids, Sodium Stearoyl-2-lactylate, Flour Treatment Agent: Ascorbic Acid), Basil, Chicken Stock (contains: Roast Chicken, Maltodextrin, Salt, Natural Flavouring, Chicken Fat, Sugar, Lemon Juice (from concentrate), Onion Powder), Mediterranean Vegetable Stock (contains: Partially Reconstituted Vegetables (Onion, Red Bell Pepper, Artichoke,, Potato), Tomato Puree, Salt, Sugar, Maltodextrin, Sun-Dried Tomato Paste (Sun-Dried Tomato, Sunflower Oil, Salt, Natural Flavouring, White Wine Vinegar, Black Pepper), Olive Oil, Natural Flavouring), Semi Skimmed, Malt Vinegar, Sugar, Free Range PasteurisedYolk, Balsamic Vinegar (contains: Wine Vinegar, Concentrated Grape Must, Colour: Caramel, Antioxidant: Potassium), Salt, Chilli Flakes, White Pepper.",
+    "ingredientes_identificados": [
+      "cheese",
+      "potato",
+      "pork",
+      "bread",
+      "beef",
+      "butter",
+      "onion",
+      "grape",
+      "wine",
+      "chicken",
+      "tomato"
+    ],
+    "num_ingredientes": 11
+  },
+  {
+    "ingredients_text": "Pork (16%), Beef (16%), Onions, Water, Chopped Tomatoes (8%) (contains: Tomatoes, Tomato Juice, Acidity Regulator: Citric Acid), Semi-Dried Cherry Tomatoes in Oil (5%) (contains: Semi- Dried Cherry Tomatoes, Sunflower Oil, Salt, Garlic, Oregano, Acidity Regulator: Lactic Acid), Tomato Juice (5%) (contains: Tomato Juice, Salt, Acidity Regulator: Citric Acid), Red Wine, Carrots,, Tomato Puree (3%), Red Pesto (2%) (contains: Soaked Sundried Tomatoes (Sundried Tomatoes, Water, Salt, Grape Vinegar), Sunflower Oil, Extra Virgin Olive Oil, Vegetarian Medium Fat Hard Cheese (Cow's, Salt, Microbial Rennet), Sun Dried Tomatoes (Sun Dried Tomatoes, Extra Virgin Olive Oil, Salt, Grape Vinegar), Semidried Tomatoes in Oil (Semidried Tomatoes, Sunflower Oil, Sugar, Salt, Garlic, Oregano), Herbs de Provence (Rosemary, Marjoram, Parsley, Basil, Kibbled Bay Leaves, Thyme, Oregano, Sage), Garlic Puree), Garlic, Butter,Flour (contains:Flour, Calcium Carbonate, Iron, Nicotinamide, Thiamine Hydrochloride), White Bread (contains:Flour (contains Calcium, Iron, Niacin, Thiamin), Water, Yeast,Flour, Salt,Protein, Vegetable Fat (Palm, Rapeseed), Preservative: Calcium Propionate, Emulsifiers: Mono- and Diglycerides of Fatty Acids, Mono- and Diacetyltartaric Acid Esters of Mono- and Diglycerides of Fatty Acids, Sodium Stearoyl-2-lactylate, Flour Treatment Agent: Ascorbic Acid), Basil, Chicken Stock (contains: Roast Chicken, Maltodextrin, Salt, Natural Flavouring, Chicken Fat, Sugar, Lemon Juice (from concentrate), Onion Powder), Mediterranean Vegetable Stock (contains: Partially Reconstituted Vegetables (Onion, Red Bell Pepper, Artichoke,, Potato), Tomato Puree, Salt, Sugar, Maltodextrin, Sun-Dried Tomato Paste (Sun-Dried Tomato, Sunflower Oil, Salt, Natural Flavouring, White Wine Vinegar, Black Pepper), Olive Oil, Natural Flavouring), Semi Skimmed, Malt Vinegar, Sugar, Free Range PasteurisedYolk, Balsamic Vinegar (contains: Wine Vinegar, Concentrated Grape Must, Colour: Caramel, Antioxidant: Potassium), Salt, Chilli Flakes, White Pepper.Pork (16%), Beef (16%), Onions, Water, Chopped Tomatoes (8%) (contains: Tomatoes, Tomato Juice, Acidity Regulator: Citric Acid), Semi-Dried Cherry Tomatoes (5%) (contain: Semi- Dried Cherry Tomatoes, Sunflower Oil, Salt, Garlic, Oregano, Acidity Regulator: Lactic Acid), Tomato Juice (5%) (contains: Tomato Juice, Salt, Acidity Regulator: Citric Acid), Red Wine, Carrots,, Tomato Puree (3%), Red Pesto (2%) (contains: Soaked Sundried Tomatoes (Sundried Tomatoes, Water, Salt, Grape Vinegar), Sunflower Oil, Extra Virgin Olive Oil, Vegetarian Medium Fat Hard Cheese (Cow's, Salt, Microbial Rennet), Sun Dried Tomatoes (Sun Dried Tomatoes, Extra Virgin Olive Oil, Salt, Grape Vinegar), Semidried Tomatoes in Oil (Semidried Tomatoes, Sunflower Oil, Sugar, Salt, Garlic, Oregano), Herbs de Provence (Rosemary, Marjoram, Parsley, Basil, Kibbled Bay Leaves, Thyme, Oregano, Sage), Garlic Puree), Garlic, Butter,Flour (contains:Flour, Calcium Carbonate, Iron, Nicotinamide, Thiamine Hydrochloride), White Bread (contains:Flour (contains Calcium, Iron, Niacin, Thiamin), Water, Yeast,Flour, Salt,Protein, Vegetable Fat (Palm, Rapeseed), Preservative: Calcium Propionate, Emulsifiers: Mono- and Diglycerides of Fatty Acids, Mono- and Diacetyltartaric Acid Esters of Mono- and Diglycerides of Fatty Acids, Sodium Stearoyl-2-lactylate, Flour Treatment Agent: Ascorbic Acid.), Basil, Chicken Stock (contains: Roast Chicken, Maltodextrin, Salt, Natural Flavouring, Chicken Fat, Sugar, Lemon Juice (from concentrate), Onion Powder), Mediterranean Vegetable Stock (contains: Partially Reconstituted Vegetables (Onion, Red Bell Pepper, Artichoke,, Potato), Tomato Puree, Salt, Sugar, Maltodextrin, Sun-Dried Tomato Paste (Sun-Dried Tomato, Sunflower Oil, Salt, Natural Flavouring, White Wine Vinegar, Black Pepper), Olive Oil, Natural Flavouring.), Semi Skimmed, Malt Vinegar, Sugar, Free Range PasteurisedYolk, Balsamic Vinegar (contains: Wine Vinegar, Concentrated Grape Must, Colour: Caramel, Antioxidant: Potassium), Salt, Chilli Flakes, White Pepper.Pork (16%), Beef (16%), Onions, Water, Chopped Tomatoes (8%) (contains: Tomatoes, Tomato Juice, Acidity Regulator: Citric Acid), Semi-Dried Cherry Tomatoes (5%) (contain: Semi- Dried Cherry Tomatoes, Sunflower Oil, Salt, Garlic, Oregano, Acidity Regulator: Lactic Acid), Tomato Juice (5%) (contains: Tomato Juice, Salt, Acidity Regulator: Citric Acid), Red Wine, Carrots,, Tomato Puree (3%), Red Pesto (2%) (contains: Soaked Sundried Tomatoes (Sundried Tomatoes, Water, Salt, Grape Vinegar), Sunflower Oil, Extra Virgin Olive Oil, Vegetarian Medium Fat Hard Cheese (Cow's, Salt, Microbial Rennet), Sun Dried Tomatoes (Sun Dried Tomatoes, Extra Virgin Olive Oil, Salt, Grape Vinegar), Semidried Tomatoes in Oil (Semidried Tomatoes, Sunflower Oil, Sugar, Salt, Garlic, Oregano), Herbs de Provence (Rosemary, Marjoram, Parsley, Basil, Kibbled Bay Leaves, Thyme, Oregano, Sage), Garlic Puree), Garlic, Butter,Flour (contains:Flour, Calcium Carbonate, Iron, Nicotinamide, Thiamine Hydrochloride), White Bread (contains:Flour (contains Calcium, Iron, Niacin, Thiamin), Water, Yeast,Flour, Salt,Protein, Vegetable Fat (Palm, Rapeseed), Preservative: Calcium Propionate, Emulsifiers: Mono- and Diglycerides of Fatty Acids, Mono- and Diacetyltartaric Acid Esters of Mono- and Diglycerides of Fatty Acids, Sodium Stearoyl-2-lactylate, Flour Treatment Agent: Ascorbic Acid), Basil, Chicken Stock (contains: Roast Chicken, Maltodextrin, Salt, Natural Flavouring, Chicken Fat, Sugar, Lemon Juice (from concentrate), Onion Powder), Mediterranean Vegetable Stock (contains: Partially Reconstituted Vegetables (Onion, Red Bell Pepper, Artichoke,, Potato), Tomato Puree, Salt, Sugar, Maltodextrin, Sun-Dried Tomato Paste (Sun-Dried Tomato, Sunflower Oil, Salt, Natural Flavouring, White Wine Vinegar, Black Pepper), Olive Oil, Natural Flavouring), Semi Skimmed, Malt Vinegar, Sugar, Free Range PasteurisedYolk, Balsamic Vinegar (contains: Wine Vinegar, Concentrated Grape Must, Colour: Caramel, Antioxidant: Potassium), Salt, Chilli Flakes, White Pepper.",
+    "ingredientes_identificados": [
+      "cheese",
+      "potato",
+      "pork",
+      "bread",
+      "beef",
+      "butter",
+      "onion",
+      "grape",
+      "wine",
+      "chicken",
+      "tomato"
+    ],
+    "num_ingredientes": 11
+  },
+  {
+    "ingredients_text": "Pork (16%), Beef (16%), Onions, Water, Chopped Tomatoes (8%) (contains: Tomatoes, Tomato Juice, Acidity Regulator: Citric Acid), Semi-Dried Cherry Tomatoes in Oil (5%) (contains: Semi- Dried Cherry Tomatoes, Sunflower Oil, Salt, Garlic, Oregano, Acidity Regulator: Lactic Acid), Tomato Juice (5%) (contains: Tomato Juice, Salt, Acidity Regulator: Citric Acid), Red Wine, Carrots,, Tomato Puree (3%), Red Pesto (2%) (contains: Soaked Sundried Tomatoes (Sundried Tomatoes, Water, Salt, Grape Vinegar), Sunflower Oil, Extra Virgin Olive Oil, Vegetarian Medium Fat Hard Cheese (Cow's, Salt, Microbial Rennet), Sun Dried Tomatoes (Sun Dried Tomatoes, Extra Virgin Olive Oil, Salt, Grape Vinegar), Semidried Tomatoes in Oil (Semidried Tomatoes, Sunflower Oil, Sugar, Salt, Garlic, Oregano), Herbs de Provence (Rosemary, Marjoram, Parsley, Basil, Kibbled Bay Leaves, Thyme, Oregano, Sage), Garlic Puree), Garlic, Butter,Flour (contains:Flour, Calcium Carbonate, Iron, Nicotinamide, Thiamine Hydrochloride), White Bread (contains:Flour (contains Calcium, Iron, Niacin, Thiamin), Water, Yeast,Flour, Salt,Protein, Vegetable Fat (Palm, Rapeseed), Preservative: Calcium Propionate, Emulsifiers: Mono- and Diglycerides of Fatty Acids, Mono- and Diacetyltartaric Acid Esters of Mono- and Diglycerides of Fatty Acids, Sodium Stearoyl-2-lactylate, Flour Treatment Agent: Ascorbic Acid), Basil, Chicken Stock (contains: Roast Chicken, Maltodextrin, Salt, Natural Flavouring, Chicken Fat, Sugar, Lemon Juice (from concentrate), Onion Powder), Mediterranean Vegetable Stock (contains: Partially Reconstituted Vegetables (Onion, Red Bell Pepper, Artichoke,, Potato), Tomato Puree, Salt, Sugar, Maltodextrin, Sun-Dried Tomato Paste (Sun-Dried Tomato, Sunflower Oil, Salt, Natural Flavouring, White Wine Vinegar, Black Pepper), Olive Oil, Natural Flavouring), Semi Skimmed, Malt Vinegar, Sugar, Free Range PasteurisedYolk, Balsamic Vinegar (contains: Wine Vinegar, Concentrated Grape Must, Colour: Caramel, Antioxidant: Potassium), Salt, Chilli Flakes, White Pepper.Pork (16%), Beef (16%), Onions, Water, Chopped Tomatoes (8%) (contains: Tomatoes, Tomato Juice, Acidity Regulator: Citric Acid), Semi-Dried Cherry Tomatoes (5%) (contain: Semi- Dried Cherry Tomatoes, Sunflower Oil, Salt, Garlic, Oregano, Acidity Regulator: Lactic Acid), Tomato Juice (5%) (contains: Tomato Juice, Salt, Acidity Regulator: Citric Acid), Red Wine, Carrots,, Tomato Puree (3%), Red Pesto (2%) (contains: Soaked Sundried Tomatoes (Sundried Tomatoes, Water, Salt, Grape Vinegar), Sunflower Oil, Extra Virgin Olive Oil, Vegetarian Medium Fat Hard Cheese (Cow's, Salt, Microbial Rennet), Sun Dried Tomatoes (Sun Dried Tomatoes, Extra Virgin Olive Oil, Salt, Grape Vinegar), Semidried Tomatoes in Oil (Semidried Tomatoes, Sunflower Oil, Sugar, Salt, Garlic, Oregano), Herbs de Provence (Rosemary, Marjoram, Parsley, Basil, Kibbled Bay Leaves, Thyme, Oregano, Sage), Garlic Puree), Garlic, Butter,Flour (contains:Flour, Calcium Carbonate, Iron, Nicotinamide, Thiamine Hydrochloride), White Bread (contains:Flour (contains Calcium, Iron, Niacin, Thiamin), Water, Yeast,Flour, Salt,Protein, Vegetable Fat (Palm, Rapeseed), Preservative: Calcium Propionate, Emulsifiers: Mono- and Diglycerides of Fatty Acids, Mono- and Diacetyltartaric Acid Esters of Mono- and Diglycerides of Fatty Acids, Sodium Stearoyl-2-lactylate, Flour Treatment Agent: Ascorbic Acid.), Basil, Chicken Stock (contains: Roast Chicken, Maltodextrin, Salt, Natural Flavouring, Chicken Fat, Sugar, Lemon Juice (from concentrate), Onion Powder), Mediterranean Vegetable Stock (contains: Partially Reconstituted Vegetables (Onion, Red Bell Pepper, Artichoke,, Potato), Tomato Puree, Salt, Sugar, Maltodextrin, Sun-Dried Tomato Paste (Sun-Dried Tomato, Sunflower Oil, Salt, Natural Flavouring, White Wine Vinegar, Black Pepper), Olive Oil, Natural Flavouring.), Semi Skimmed, Malt Vinegar, Sugar, Free Range PasteurisedYolk, Balsamic Vinegar (contains: Wine Vinegar, Concentrated Grape Must, Colour: Caramel, Antioxidant: Potassium), Salt, Chilli Flakes, White Pepper.Pork (16%), Beef (16%), Onions, Water, Chopped Tomatoes (8%) (contains: Tomatoes, Tomato Juice, Acidity Regulator: Citric Acid), Semi-Dried Cherry Tomatoes (5%) (contain: Semi- Dried Cherry Tomatoes, Sunflower Oil, Salt, Garlic, Oregano, Acidity Regulator: Lactic Acid), Tomato Juice (5%) (contains: Tomato Juice, Salt, Acidity Regulator: Citric Acid), Red Wine, Carrots,, Tomato Puree (3%), Red Pesto (2%) (contains: Soaked Sundried Tomatoes (Sundried Tomatoes, Water, Salt, Grape Vinegar), Sunflower Oil, Extra Virgin Olive Oil, Vegetarian Medium Fat Hard Cheese (Cow's, Salt, Microbial Rennet), Sun Dried Tomatoes (Sun Dried Tomatoes, Extra Virgin Olive Oil, Salt, Grape Vinegar), Semidried Tomatoes in Oil (Semidried Tomatoes, Sunflower Oil, Sugar, Salt, Garlic, Oregano), Herbs de Provence (Rosemary, Marjoram, Parsley, Basil, Kibbled Bay Leaves, Thyme, Oregano, Sage), Garlic Puree), Garlic, Butter,Flour (contains:Flour, Calcium Carbonate, Iron, Nicotinamide, Thiamine Hydrochloride), White Bread (contains:Flour (contains Calcium, Iron, Niacin, Thiamin), Water, Yeast,Flour, Salt,Protein, Vegetable Fat (Palm, Rapeseed), Preservative: Calcium Propionate, Emulsifiers: Mono- and Diglycerides of Fatty Acids, Mono- and Diacetyltartaric Acid Esters of Mono- and Diglycerides of Fatty Acids, Sodium Stearoyl-2-lactylate, Flour Treatment Agent: Ascorbic Acid), Basil, Chicken Stock (contains: Roast Chicken, Maltodextrin, Salt, Natural Flavouring, Chicken Fat, Sugar, Lemon Juice (from concentrate), Onion Powder), Mediterranean Vegetable Stock (contains: Partially Reconstituted Vegetables (Onion, Red Bell Pepper, Artichoke,, Potato), Tomato Puree, Salt, Sugar, Maltodextrin, Sun-Dried Tomato Paste (Sun-Dried Tomato, Sunflower Oil, Salt, Natural Flavouring, White Wine Vinegar, Black Pepper), Olive Oil, Natural Flavouring), Semi Skimmed, Malt Vinegar, Sugar, Free Range PasteurisedYolk, Balsamic Vinegar (contains: Wine Vinegar, Concentrated Grape Must, Colour: Caramel, Antioxidant: Potassium), Salt, Chilli Flakes, White Pepper.",
+    "ingredientes_identificados": [
+      "cheese",
+      "potato",
+      "pork",
+      "bread",
+      "beef",
+      "butter",
+      "onion",
+      "grape",
+      "wine",
+      "chicken",
+      "tomato"
+    ],
+    "num_ingredientes": 11
+  },
+  {
+    "ingredients_text": "Potatoes (33%), Beef (24%), Water, Red Wine (6%) (contains: Preservative: Potassium), Onions,(3%), Gluten Free White Bread (contains: Water, Potato Flour, Corn Starch, Tapioca Starch, White Rice Flour, Buckwheat Flour, Thickening Agent (Xanthan Gum, Cellulose, Agar Agar), Binding Agent (Glycerol), Yeast, Rice Bran, Apple Juice Concentrate, Pea Protein, Sourdough (Fermented Quinoa, Rice and Maize Flour), Salt, Psyllium Husk, Rapeseed Oil, Acids (Citric Acid, Malic Acid, Tartaric Acid), Flour Treatment Agent (Ascorbic Acid)), Carrots (2%), Cornflour, Beef Glace (contains: Beef Stock (Water, Beef Stock), Flavourings, Yeast Extracts, Glucose Syrup, Salt, Sugar, Maltodextrin)), Flavourings, Yeast Extracts, Glucose Syrup, Salt, Sugar, Maltodextrin), Butter, Rapeseed Oil, Free Range PasteurisedYolk, Garlic, Tomato Puree, Mascarpone Cheese (contains:Cream, Pasteurised Cow's, Acidity Regulator: Citric Acid), Worcester Sauce (contains: Water, Sugar, Spirit Vinegar, Molasses, Onion Puree, Salt, Tamarind Paste, Cloves, Ginger Puree, Garlic Puree), Salt, Thyme,Seeds, White Pepper, Black Pepper.",
+    "ingredientes_identificados": [
+      "cheese",
+      "tomato",
+      "potato",
+      "bread",
+      "rice",
+      "butter",
+      "onion",
+      "wine",
+      "maize",
+      "apple",
+      "beef"
+    ],
+    "num_ingredientes": 11
+  },
+  {
+    "ingredients_text": "Potatoes (34%), Beef (24%), Water, Red Wine (6%) (contains: Preservative: Potassium), Onions,(3%), Carrots (2%), Cornflour, Beef Glace (contains: Beef Stock (Water, Beef Stock), Flavourings, Yeast Extracts, Glucose Syrup, Salt, Sugar, Maltodextrin), Gluten Free White Bread (contains: Water, Potato Flour, Corn Starch, Tapioca Starch, White Rice Flour, Buckwheat Flour, Thickening Agent (Xanthan Gum, Cellulose, Agar Agar), Binding Agent (Glycerol), Yeast, Rice Bran, Apple Juice Concentrate, Pea Protein, Sourdough (Fermented Quinoa, Rice and Maize Flour), Salt, Psyllium Husk, Rapeseed Oil, Acids (Citric Acid, Malic Acid, Tartaric Acid), Flour Treatment Agent (Ascorbic Acid)), Butter, Free Range PasteurisedYolk, Garlic, Rapeseed Oil,Tomato Puree, Mascarpone Cheese (contains:Cream, Pasteurised Cow's, Acidity Regulator: Citric Acid), Worcester Sauce (contains: Water, Sugar, Spirit Vinegar, Molasses, Onion Puree, Salt, Tamarind Paste, Cloves, Ginger Puree, Garlic Puree), Salt, Thyme,Seeds, White Pepper, Black Pepper.",
+    "ingredientes_identificados": [
+      "cheese",
+      "tomato",
+      "potato",
+      "bread",
+      "rice",
+      "butter",
+      "onion",
+      "wine",
+      "maize",
+      "apple",
+      "beef"
+    ],
+    "num_ingredientes": 11
+  },
+  {
+    "ingredients_text": "Pork (16%), Beef (16%), Onions, Water, Chopped Tomatoes (8%) (contains: Tomatoes, Tomato Juice, Acidity Regulator: Citric Acid), Semi-Dried Cherry Tomatoes in Oil (5%) (contains: Semi- Dried Cherry Tomatoes, Sunflower Oil, Salt, Garlic, Oregano, Acidity Regulator: Lactic Acid), Tomato Juice (5%) (contains: Tomato Juice, Salt, Acidity Regulator: Citric Acid), Red Wine, Carrots,, Tomato Puree (3%), Red Pesto (2%) (contains: Soaked Sundried Tomatoes (Sundried Tomatoes, Water, Salt, Grape Vinegar), Sunflower Oil, Extra Virgin Olive Oil, Vegetarian Medium Fat Hard Cheese (Cow's, Salt, Microbial Rennet), Sun Dried Tomatoes (Sun Dried Tomatoes, Extra Virgin Olive Oil, Salt, Grape Vinegar), Semidried Tomatoes in Oil (Semidried Tomatoes, Sunflower Oil, Sugar, Salt, Garlic, Oregano), Herbs de Provence (Rosemary, Marjoram, Parsley, Basil, Kibbled Bay Leaves, Thyme, Oregano, Sage), Garlic Puree), Garlic, Butter,Flour (contains:Flour, Calcium Carbonate, Iron, Nicotinamide, Thiamine Hydrochloride), White Bread (contains:Flour (contains Calcium, Iron, Niacin, Thiamin), Water, Yeast,Flour, Salt,Protein, Vegetable Fat (Palm, Rapeseed), Preservative: Calcium Propionate, Emulsifiers: Mono- and Diglycerides of Fatty Acids, Mono- and Diacetyltartaric Acid Esters of Mono- and Diglycerides of Fatty Acids, Sodium Stearoyl-2-lactylate, Flour Treatment Agent: Ascorbic Acid), Basil, Chicken Stock (contains: Roast Chicken, Maltodextrin, Salt, Natural Flavouring, Chicken Fat, Sugar, Lemon Juice (from concentrate), Onion Powder), Mediterranean Vegetable Stock (contains: Partially Reconstituted Vegetables (Onion, Red Bell Pepper, Artichoke,, Potato), Tomato Puree, Salt, Sugar, Maltodextrin, Sun-Dried Tomato Paste (Sun-Dried Tomato, Sunflower Oil, Salt, Natural Flavouring, White Wine Vinegar, Black Pepper), Olive Oil, Natural Flavouring), Semi Skimmed, Malt Vinegar, Sugar, Free Range PasteurisedYolk, Balsamic Vinegar (contains: Wine Vinegar, Concentrated Grape Must, Colour: Caramel, Antioxidant: Potassium), Salt, Chilli Flakes, White Pepper.Pork (16%), Beef (16%), Onions, Water, Chopped Tomatoes (8%) (contains: Tomatoes, Tomato Juice, Acidity Regulator: Citric Acid), Semi-Dried Cherry Tomatoes (5%) (contain: Semi- Dried Cherry Tomatoes, Sunflower Oil, Salt, Garlic, Oregano, Acidity Regulator: Lactic Acid), Tomato Juice (5%) (contains: Tomato Juice, Salt, Acidity Regulator: Citric Acid), Red Wine, Carrots,, Tomato Puree (3%), Red Pesto (2%) (contains: Soaked Sundried Tomatoes (Sundried Tomatoes, Water, Salt, Grape Vinegar), Sunflower Oil, Extra Virgin Olive Oil, Vegetarian Medium Fat Hard Cheese (Cow's, Salt, Microbial Rennet), Sun Dried Tomatoes (Sun Dried Tomatoes, Extra Virgin Olive Oil, Salt, Grape Vinegar), Semidried Tomatoes in Oil (Semidried Tomatoes, Sunflower Oil, Sugar, Salt, Garlic, Oregano), Herbs de Provence (Rosemary, Marjoram, Parsley, Basil, Kibbled Bay Leaves, Thyme, Oregano, Sage), Garlic Puree), Garlic, Butter,Flour (contains:Flour, Calcium Carbonate, Iron, Nicotinamide, Thiamine Hydrochloride), White Bread (contains:Flour (contains Calcium, Iron, Niacin, Thiamin), Water, Yeast,Flour, Salt,Protein, Vegetable Fat (Palm, Rapeseed), Preservative: Calcium Propionate, Emulsifiers: Mono- and Diglycerides of Fatty Acids, Mono- and Diacetyltartaric Acid Esters of Mono- and Diglycerides of Fatty Acids, Sodium Stearoyl-2-lactylate, Flour Treatment Agent: Ascorbic Acid.), Basil, Chicken Stock (contains: Roast Chicken, Maltodextrin, Salt, Natural Flavouring, Chicken Fat, Sugar, Lemon Juice (from concentrate), Onion Powder), Mediterranean Vegetable Stock (contains: Partially Reconstituted Vegetables (Onion, Red Bell Pepper, Artichoke,, Potato), Tomato Puree, Salt, Sugar, Maltodextrin, Sun-Dried Tomato Paste (Sun-Dried Tomato, Sunflower Oil, Salt, Natural Flavouring, White Wine Vinegar, Black Pepper), Olive Oil, Natural Flavouring.), Semi Skimmed, Malt Vinegar, Sugar, Free Range PasteurisedYolk, Balsamic Vinegar (contains: Wine Vinegar, Concentrated Grape Must, Colour: Caramel, Antioxidant: Potassium), Salt, Chilli Flakes, White Pepper.Pork (16%), Beef (16%), Onions, Water, Chopped Tomatoes (8%) (contains: Tomatoes, Tomato Juice, Acidity Regulator: Citric Acid), Semi-Dried Cherry Tomatoes (5%) (contain: Semi- Dried Cherry Tomatoes, Sunflower Oil, Salt, Garlic, Oregano, Acidity Regulator: Lactic Acid), Tomato Juice (5%) (contains: Tomato Juice, Salt, Acidity Regulator: Citric Acid), Red Wine, Carrots,, Tomato Puree (3%), Red Pesto (2%) (contains: Soaked Sundried Tomatoes (Sundried Tomatoes, Water, Salt, Grape Vinegar), Sunflower Oil, Extra Virgin Olive Oil, Vegetarian Medium Fat Hard Cheese (Cow's, Salt, Microbial Rennet), Sun Dried Tomatoes (Sun Dried Tomatoes, Extra Virgin Olive Oil, Salt, Grape Vinegar), Semidried Tomatoes in Oil (Semidried Tomatoes, Sunflower Oil, Sugar, Salt, Garlic, Oregano), Herbs de Provence (Rosemary, Marjoram, Parsley, Basil, Kibbled Bay Leaves, Thyme, Oregano, Sage), Garlic Puree), Garlic, Butter,Flour (contains:Flour, Calcium Carbonate, Iron, Nicotinamide, Thiamine Hydrochloride), White Bread (contains:Flour (contains Calcium, Iron, Niacin, Thiamin), Water, Yeast,Flour, Salt,Protein, Vegetable Fat (Palm, Rapeseed), Preservative: Calcium Propionate, Emulsifiers: Mono- and Diglycerides of Fatty Acids, Mono- and Diacetyltartaric Acid Esters of Mono- and Diglycerides of Fatty Acids, Sodium Stearoyl-2-lactylate, Flour Treatment Agent: Ascorbic Acid), Basil, Chicken Stock (contains: Roast Chicken, Maltodextrin, Salt, Natural Flavouring, Chicken Fat, Sugar, Lemon Juice (from concentrate), Onion Powder), Mediterranean Vegetable Stock (contains: Partially Reconstituted Vegetables (Onion, Red Bell Pepper, Artichoke,, Potato), Tomato Puree, Salt, Sugar, Maltodextrin, Sun-Dried Tomato Paste (Sun-Dried Tomato, Sunflower Oil, Salt, Natural Flavouring, White Wine Vinegar, Black Pepper), Olive Oil, Natural Flavouring), Semi Skimmed, Malt Vinegar, Sugar, Free Range PasteurisedYolk, Balsamic Vinegar (contains: Wine Vinegar, Concentrated Grape Must, Colour: Caramel, Antioxidant: Potassium), Salt, Chilli Flakes, White Pepper.",
+    "ingredientes_identificados": [
+      "cheese",
+      "potato",
+      "pork",
+      "bread",
+      "beef",
+      "butter",
+      "onion",
+      "grape",
+      "wine",
+      "chicken",
+      "tomato"
+    ],
+    "num_ingredientes": 11
+  },
+  {
+    "ingredients_text": "Potatoes (34%), Beef (24%), Water, Red Wine (6%) (contains: Preservative: Potassium), Onions,(3%), Carrots (2%), Cornflour, Beef Glace (contains: Beef Stock (Water, Beef Stock), Flavourings, Yeast Extracts, Glucose Syrup, Salt, Sugar, Maltodextrin), Gluten Free White Bread (contains: Water, Potato Flour, Corn Starch, Tapioca Starch, White Rice Flour, Buckwheat Flour, Thickening Agent (Xanthan Gum, Cellulose, Agar Agar), Binding Agent (Glycerol), Yeast, Rice Bran, Apple Juice Concentrate, Pea Protein, Sourdough (Fermented Quinoa, Rice and Maize Flour), Salt, Psyllium Husk, Rapeseed Oil, Acids (Citric Acid, Malic Acid, Tartaric Acid), Flour Treatment Agent (Ascorbic Acid)), Butter, Free Range PasteurisedYolk, Garlic, Rapeseed Oil,Tomato Puree, Mascarpone Cheese (contains:Cream, Pasteurised Cow's, Acidity Regulator: Citric Acid), Worcester Sauce (contains: Water, Sugar, Spirit Vinegar, Molasses, Onion Puree, Salt, Tamarind Paste, Cloves, Ginger Puree, Garlic Puree), Salt, Thyme,Seeds, White Pepper, Black Pepper.",
+    "ingredientes_identificados": [
+      "cheese",
+      "tomato",
+      "potato",
+      "bread",
+      "rice",
+      "butter",
+      "onion",
+      "wine",
+      "maize",
+      "apple",
+      "beef"
+    ],
+    "num_ingredientes": 11
+  },
+  {
+    "ingredients_text": "Potatoes (34%), Beef (24%), Water, Red Wine (6%) (contains: Preservative: Potassium), Onions,(3%), Carrots (2%), Cornflour, Beef Glace (contains: Beef Stock (Water, Beef Stock), Flavourings, Yeast Extracts, Glucose Syrup, Salt, Sugar, Maltodextrin), Gluten Free White Bread (contains: Water, Potato Flour, Corn Starch, Tapioca Starch, White Rice Flour, Buckwheat Flour, Thickening Agent (Xanthan Gum, Cellulose, Agar Agar), Binding Agent (Glycerol), Yeast, Rice Bran, Apple Juice Concentrate, Pea Protein, Sourdough (Fermented Quinoa, Rice and Maize Flour), Salt, Psyllium Husk, Rapeseed Oil, Acids (Citric Acid, Malic Acid, Tartaric Acid), Flour Treatment Agent (Ascorbic Acid)), Butter, Free Range PasteurisedYolk, Garlic, Rapeseed Oil,Tomato Puree, Mascarpone Cheese (contains:Cream, Pasteurised Cow's, Acidity Regulator: Citric Acid), Worcester Sauce (contains: Water, Sugar, Spirit Vinegar, Molasses, Onion Puree, Salt, Tamarind Paste, Cloves, Ginger Puree, Garlic Puree), Salt, Thyme,Seeds, White Pepper, Black Pepper.",
+    "ingredientes_identificados": [
+      "cheese",
+      "tomato",
+      "potato",
+      "bread",
+      "rice",
+      "butter",
+      "onion",
+      "wine",
+      "maize",
+      "apple",
+      "beef"
+    ],
+    "num_ingredientes": 11
+  }
+]

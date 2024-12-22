@@ -1,0 +1,610 @@
+[
+  {
+    "ingredients_text": "Potato, Tomatoes, Carrot, Minced Beef (12%), Red Onion, Water, Mature Cheddar Cheese (Milk), Apple Juice,Milk, Cornflour, Red Pepper, Apple Puree, Tomato Paste (Roasted Tomato, Sunflower Oil, Water, Tomato Paste, Spirit Vinegar, Sugar, Sea Salt, Dried Garlic, Ground Black Pepper, Rosemary, Dried Basil), Garlic Puree, Tomato Puree, Beef Stock (Beef Extract, Yeast Extract, Water, Salt), Thyme, Basil, Medium Fat Hard Cheese (Milk), Rapeseed Oil, Butter (Milk), Worcester Sauce (Water, Spirit Vinegar, Sugar, Salt, Tamarind Paste, Onion Powder, Garlic Powder, Lemon Juice Concentrate, Ground Ginger, Ground Cloves, Chilli Powder), Balsamic Vinegar (Wine Vinegar, Concentrated Grape Must), Ground Bay",
+    "ingredientes_identificados": [
+      "cheese",
+      "potato",
+      "wine",
+      "milk",
+      "butter",
+      "onion",
+      "grape",
+      "tomato",
+      "apple",
+      "beef"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "Egg Pasta (DurumWheatSemolina, Water, Pasteurised Free-RangeEgg), Tomatoes, Cream (Milk),Milk, Red Wine, British Beef (8%), Cheddar Cheese (Milk), Smoked Bacon (Pork, Water, Salt, Preservatives: Sodium Nitrate, Sodium Nitrite, Potassium Nitrate, Antioxidant, Sodium Ascorbate*), British Pork (5%), Onions, Tomato PurÃ©e, Water, Carrots,WheatFlour, Mozzarella Cheese (Milk),Celery, Sunflower Oil, Butter (Milk), Balsamic Vinegar, Chicken Liver, Cornflour, Beef Stock (British Beef, Yeast Extract, Salt, Tomato PurÃ©e, Molasses, Lemon Juice Concentrate, Onion Powder), Garlic PurÃ©e, Fresh Parsley, Salt, Oregano, Sugar, Black Pepper, Star Anise, Nutmeg, White Pepper, *Don't worry, this is part of the traditional curing method of Smoked Bacon",
+    "ingredientes_identificados": [
+      "cheese",
+      "egg",
+      "tomato",
+      "pork",
+      "milk",
+      "butter",
+      "onion",
+      "wine",
+      "chicken",
+      "beef"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "Egg Pasta (DurumWheatSemolina, Water, Pasteurised Free-RangeEgg), Tomatoes, Cream (Milk),Milk, Red Wine, British Beef (8%), Cheddar Cheese (Milk), Smoked Bacon (Pork, Water, Salt, Preservatives: Sodium Nitrate, Sodium Nitrite, Potassium Nitrate, Antioxidant Sodium Ascorbate*), British Pork (5%), Onions, Water, Tomato PurÃ©e, Carrots,WheatFlour, Mozzarella Cheese (Milk),Celery, Sunflower Oil, Butter (Milk), Balsamic Vinegar, Chicken Liver, Cornflour, Beef Stock (British Beef, Yeast Extract, Salt, Tomato PurÃ©e, Molasses, Lemon Juice Concentrate, Onion Powder), Garlic PurÃ©e, Fresh Parsley, Salt, Oregano, Sugar, Black Pepper, Star Anise, Nutmeg, White Pepper, *Used in the curing of Smoked Bacon",
+    "ingredientes_identificados": [
+      "cheese",
+      "egg",
+      "tomato",
+      "pork",
+      "milk",
+      "butter",
+      "onion",
+      "wine",
+      "chicken",
+      "beef"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "INGREDIENTS:Gluten Free Cheese & Onion Sandwich:Gluten Free Seeded Bread [Water, Rice Flour, Thickeners (Cellulose, Hydroxypropyl Methyl Cellulose, Sodium Carboxymethylcellulose, Methyl Cellulose, Xanthan Gum), Maize Starch, Tapioca Starch, Rapeseed Oil, Psyllium Husk Powder, Potato Starch,EggWhite Powder, Yeast, Spirit Vinegar, Millet Seeds, Sugar, Prune PurÃ©e, Wholegrain Maize Flour, Caramelised Sugar, Brown Linseed, Rice Bran, Acidity Regulator (Sodium Carbonate), Folic Acid, Thiamin, Sunflower Seeds, Poppy Seeds, Quinoa, Salt], Cheddar Cheese (Milk) (12%), Red Leicester Cheese (with Colour: Annatto) (Milk) (12%), Water, Onion, Rapeseed Oil, Cornflour, Full Fat Soft Cheese (Milk), White Wine Vinegar, PasteurisedEggYolk,MustardFlour, Salt.Gluten Free Chicken, Bacon & Lettuce Sandwich:Gluten Free Seeded Bread [Water, Rice Flour, Thickeners (Cellulose, Hydroxypropyl Methyl Cellulose, Sodium Carboxymethylcellulose, Methyl Cellulose, Xanthan Gum), Maize Starch, Tapioca Starch, Rapeseed Oil, Psyllium Husk Powder, Potato Starch,EggWhite Powder, Yeast, Spirit Vinegar, Millet Seeds, Sugar, Prune PurÃ©e, Wholegrain Maize Flour, Caramelised Sugar, Brown Linseed, Rice Bran, Acidity Regulator (Sodium Carbonate), Folic Acid, Thiamin, Sunflower Seeds, Poppy Seeds, Quinoa, Salt], Chicken Breast (24%), Smoked Bacon (7%) [Pork Belly, Sugar, Salt, Emulsifier (Sodium Triphosphate), Honey, Preservative (Sodium Nitrite)], Water, Lettuce, Rapeseed Oil, Cornflour, White Wine Vinegar, PasteurisedEggYolk, Salt,MustardFlour, Black Pepper, Garlic Powder, Sunflower Oil.INGREDIENTS:Gluten Free Seeded Bread [Water, Rice Flour, Thickeners (Cellulose, Hydroxypropyl Methyl Cellulose, Sodium Carboxymethylcellulose, Methyl Cellulose, Xanthan Gum), Maize Starch, Tapioca Starch, Rapeseed Oil, Psyllium Husk Powder, Potato Starch,EggWhite Powder, Yeast, Spirit Vinegar, Millet Seeds, Sugar, Prune PurÃ©e, Wholegrain Maize Flour, Caramelised Sugar, Brown Linseed, Rice Bran, Acidity Regulator (Sodium Carbonate), Folic Acid, Thiamin, Sunflower Seeds, Poppy Seeds, Quinoa, Salt], Cheddar Cheese (Milk) (12%), Red Leicester Cheese (with Colour: Annatto) (Milk) (12%), Water, Onion, Rapeseed Oil, Cornflour, Full Fat Soft Cheese (Milk), White Wine Vinegar, PasteurisedEggYolk,MustardFlour, Salt.INGREDIENTS:Gluten Free Seeded Bread [Water, Rice Flour, Thickeners (Cellulose, Hydroxypropyl Methyl Cellulose, Sodium Carboxymethylcellulose, Methyl Cellulose, Xanthan Gum), Maize Starch, Tapioca Starch, Rapeseed Oil, Psyllium Husk Powder, Potato Starch,EggWhite Powder, Yeast, Spirit Vinegar, Millet Seeds, Sugar, Prunes PurÃ©e, Wholegrain Maize Flour, Caramelised Sugar, Brown Linseed, Rice Bran, Acidity Regulator (Sodium Carbonate), Folic Acid, Thiamin, Sunflower Seeds, Poppy Seeds, Quinoa, Salt], Chicken Breast (24%), Smoked Bacon (7%) [Pork Belly, Sugar, Salt, Emulsifier (Sodium Triphosphate), Honey, Preservative (Sodium Nitrite)], Water, Lettuce, Rapeseed Oil, Cornflour, White Wine Vinegar, PasteurisedEggYolk, Salt,MustardFlour, Black Pepper, Garlic Powder, Sunflower Oil.",
+    "ingredientes_identificados": [
+      "cheese",
+      "potato",
+      "pork",
+      "bread",
+      "rice",
+      "milk",
+      "onion",
+      "wine",
+      "maize",
+      "chicken"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "Cooked Pasta (40%) (Water, DurumWheatSemolina), Peas (21%), Broccoli (18%), Semi SkimmedMilk, Water, Cheese (4%) (Processed Gorgonzola (Milk) (Water, Gorgonzola Cheese (Milk), Blue Cheese (Milk), Curd (Milk), Butter (Milk), Starch (Potato and Rice), Salt, Whey Powder (Milk),MilkProtein), Vegetarian Gouda (Milk) (contains Natural Colour: Beta-Carotene), Parmesan Cheese (containsMilk)), Sunflower Oil, Onion, Rice Starch, White Wine,WheatFlour, Salt, Vegetable Stock (Dextrose, Salt, Carrot, Onion, Leeks, Shallots, Tomato, Paprika), Spices",
+    "ingredientes_identificados": [
+      "cheese",
+      "peas",
+      "potato",
+      "rice",
+      "milk",
+      "butter",
+      "leeks",
+      "onion",
+      "wine",
+      "tomato"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "Mashed Potato Topping: Potato (44%), Carrot (4%), Butter (Milk), White Pepper, Sauce: Tomatoes (13%), Beef Mince (11.5%), Red Onion (6%), Water, Carrot (3%), Apple Juice, Cornflour, Beef Stock (1.5%) [Water, Yeast Extract (Yeast Extract, Salt), Beef Soup Stock, Salt, Lemon Juice Concentrate, Beef Fat], Red Peppers (1%), Apple, Tomato PurÃ©e (1%), Sundried Tomato Sauce (1%) [Sundried Tomatoes, Tomato Paste, Sunflower Oil, Sugar, Salt, Spices (Ground Basil, Oregano, Garlic)], Garlic, Thyme, Basil, Worcester Sauce (Water, Spirit Vinegar, Sugar, Onion, Salt, Tamarind, Cloves, Ginger,BarleyMalt Extract, Garlic), Balsamic Vinegar (Red Wine Vinegar, Concentrated Grape Must), Ground Bay, Cheese Topping: Mature Cheddar Cheese (Milk) (2.5%), Potato Starch",
+    "ingredientes_identificados": [
+      "cheese",
+      "potato",
+      "wine",
+      "butter",
+      "milk",
+      "onion",
+      "grape",
+      "tomato",
+      "apple",
+      "beef"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "Potato,Tomatoes,Carrot,Minced Beef (12%),Red Onion,Water,Mature Cheddar Cheese (Milk),Apple Juice,Milk,Cornflour,Red Pepper,Apple Puree,Tomato Paste (Roasted Tomato, Sunflower Oil, Water, Tomato Paste, Spirit Vinegar, Sugar, Sea Salt, Dried Garlic, Ground Black Pepper, Rosemary, Dried Basil),Garlic Puree,Tomato Puree,Beef Stock (Beef Extract, Yeast Extract, Water, Salt),Thyme,Basil,Medium Fat Hard Cheese (Milk),Rapeseed Oil,Butter (Milk),Worcester Sauce (Water, Spirit Vinegar, Sugar, Salt, Tamarind Paste, Onion Powder, Garlic Powder, Lemon Juice Concentrate, Ground Ginger, Ground Cloves, Chilli Powder),Balsamic Vinegar (Wine Vinegar, Concentrated Grape Must),Ground Bay",
+    "ingredientes_identificados": [
+      "cheese",
+      "potato",
+      "wine",
+      "milk",
+      "butter",
+      "onion",
+      "grape",
+      "tomato",
+      "apple",
+      "beef"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "Egg Pasta (DurumWheatSemolina, Water, Pasteurised Free-RangeEgg),Tomatoes,Cream (Milk),Milk,Red Wine,British Beef (8%),Cheddar Cheese (Milk),Smoked Bacon (Pork, Water, Salt, Preservatives: Sodium Nitrate, Sodium Nitrite, Potassium Nitrate, Antioxidant, Sodium Ascorbate*),British Pork (5%),Onions,Tomato PurÃ©e,Water,Carrots,WheatFlour,Mozzarella Cheese (Milk),Celery,Sunflower Oil,Butter (Milk),Balsamic Vinegar,Chicken Liver,Cornflour,Beef Stock (British Beef, Yeast Extract, Salt, Tomato PurÃ©e, Molasses, Lemon Juice Concentrate, Onion Powder),Garlic PurÃ©e,Fresh Parsley,Salt,Oregano,Sugar,Black Pepper,Star Anise,Nutmeg,White Pepper,*Don't worry, this is part of the traditional curing method of Smoked Bacon",
+    "ingredientes_identificados": [
+      "cheese",
+      "egg",
+      "tomato",
+      "pork",
+      "milk",
+      "butter",
+      "onion",
+      "wine",
+      "chicken",
+      "beef"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "Water,British Beef (14%),Rice,Tomatoes,Red Kidney Beans,Red Peppers,Onions,Black-Eyed Beans,White Wine,Passata,Sweetcorn,Carrots,Cheddar Cheese (Milk),Lemon Juice,Chorizo (Pork, Paprika, Salt, Garlic),Celery,SunblushÂ® Tomatade (SunBlushÂ® Tomatoes, Tomato Concentrate, Sunflower Oil, Olive Oil, Salt, Oregano, Sugar, Garlic),Tomato PurÃ©e,Rapeseed Oil,Garlic PurÃ©e,Lime Juice,Soya Sauce (Water,SoyaBeans,Wheat, Salt, Alcohol),Honey,Beef Stock (British Beef, Yeast Extract, Salt, Tomato PurÃ©e, Molasses, Lemon Juice Concentrate, Onion Powder),Chicken Stock (Chicken, Dried Potato, Water, Yeast Extract, Salt, Chicken Fat),Cornflour,Parsley,Oregano,Red Pepper Flakes,Salt,Ground Cumin,Chipotle Chilli (Smoked Chipotle Chilli, Water, Vinegar, Sugar, Salt, Natural Flavouring, Garlic),Fortified Wheat Flour (WheatFlour, Calcium Carbonate, Iron, Niacin, Thiamin),White Wine Vinegar,Ground Coriander,Smoked Paprika,Black Pepper,Chillies,Thyme,Paprika Oil,Ground Star Anise,Ground Bay Leaf",
+    "ingredientes_identificados": [
+      "cheese",
+      "tomato",
+      "potato",
+      "pork",
+      "rice",
+      "milk",
+      "onion",
+      "wine",
+      "chicken",
+      "beef"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "Naan Bread (52%) (WheatFlour (WheatFlour, Calcium Carbonate, Niacin, Iron, Thiamin), Water, Yoghurt (Milk), Yeast,MilkPowder, Sugar, Salt, Butter Ghee (Milk), Raising Agent (Disodium Diphosphate, Sodium Bicarbonate,WheatFlour (Calcium, Iron, Niacin, Thiamin), Cumin Seeds, Emulsifier: Polyglycerol Esters Of Fatty Acids, Rapeseed Oil (Rapeseed Oil, Antifoaming Agent: Dimethyl Polysiloxane), Black Onion Seeds),Marinated Cooked British Chicken 25% (Chicken 85%, Marinade (Tomato Puree (Tomato, Salt), Rapeseed Oil (Rapeseed Oil, Antifoaming Agent: Dimethyl Polysiloxane), Chopped Coriander, Desiccated Coconut, Paprika Powder, Garam Masala (Coriander, Cinnamon Ground, Ginger, Cumin, Chilli, Black Pepper, Cloves, Nutmeg, Cardamom, Bay Leaf), Garlic, Salt Cumin Powder, Coriander Powder, Red Chilli Flakes, Black Pepper; Tapioca Starch, Salt),Sauce (14%) (Onion, Water, Diced Tomato, Double Cream (Milk), Tomato Paste (Tomato, Salt), Rapeseed Oil (Rapeseed Oil, Antifoaming Agent: Dimethyl Polysiloxane), Ginger, Garlic, Maize Starch, Yoghurt (Milk), Butter (Milk), Salt, Coriander Powder, Green Chilli, Chopped Coriander, Sugar, Lemon Juice (Lemon Juice, Preservative: Potassium Metabisulfite (Sulphites)), Cumin Powder, Chilli Powder, Paprika Powder, Red Chilli Flakes, Cardamom Powder, Garam Masala (Coriander, Cinnamon Ground, Ginger, Cumin, Chilli, Black Pepper, Cloves, Nutmeg, Cardamom, Bay Leaf), Turmeric Powder, Cumin Seeds, Cinnamon Powder, Clove Powder, Black Pepper),Pilau Rice (3%) (Rice (Water, Rice), Carrots, Peas, Cumin Seeds, Turmeric Powder, Bay Leaf Powder, Cardamom Powder, Cinnamon Powder),Mango Chutney (3%) (Sugar, Mango Slices, Sugar Cane Vinegar, Salt, Chilli Powder, Ginger Powder, Garlic Powder, Turmeric Powder),Coconut Oil",
+    "ingredientes_identificados": [
+      "peas",
+      "bread",
+      "rice",
+      "milk",
+      "butter",
+      "cane",
+      "onion",
+      "maize",
+      "chicken",
+      "tomato"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "Naan Bread (52%) (WheatFlour (WheatFlour, Calcium Carbonate, Niacin, Iron, Thiamin), Water, Yoghurt (Milk), Yeast,MilkPowder, Sugar, Salt, Butter Ghee (Milk), Raising Agent (Disodium Diphosphate, Sodium Bicarbonate,WheatFlour (Calcium, Iron, Niacin, Thiamin), Cumin Seeds, Emulsifier: Polyglycerol Esters of Fatty Acids, Rapeseed Oil (Rapeseed Oil, Antifoaming Agent: Dimethyl Polysiloxane), Black Onion Seeds),Marinated Cooked British Chicken 25% (Chicken 85%, Marinade (Tomato Puree (Tomato, Salt), Rapeseed Oil (Rapeseed Oil, Antifoaming Agent: Dimethyl Polysiloxane), Chopped Coriander, Desiccated Coconut, Paprika Powder, Garam Masala (Coriander, Cinnamon Ground, Ginger, Cumin, Chilli, Black Pepper, Cloves, Nutmeg, Cardamom, Bay Leaf), Garlic, Salt, Cumin Powder, Coriander Powder, Red Chilli Flakes, Black Pepper; Tapioca Starch, Salt),Sauce (14%) (Onion, Water, Diced Tomato, Tomato Paste (Tomato, Salt), Rapeseed Oil (Rapeseed 0il, Antifoaming Agent: Dimethyl Polysiloxane), Ginger, Garlic, Maize Starch, Yoghurt (Milk), Butter (Milk), Green Chilli, Chopped Coriander, Sugar, Salt, Cumin Powder, Coriander Powder, Chilli Powder, Garam Masala (Coriander, Cinnamon Ground, Ginger, Cumin, Chilli, Black Pepper, Cloves, Nutmeg, Cardamom, Bay Leaf), Turmeric Powder, Paprika Powder, Red Chili Flakes, Cumin Seeds, Black Pepper, Cardamom Powder, Cinnamon Powder, Clove Powder),Pilau Rice (3%) (Rice (Water, Rice), Carrots, Peas, Cumin Seeds, Turmeric Powder, Bay Leaf Powder, Cardamom Powder, Cinnamon Powder),Mango Chutney (3%) (Sugar, Mango Slices, Sugar Cane Vinegar, Salt, Chilli Powder, Ginger Powder, Garlic Powder, Turmeric Powder),Coconut Oil",
+    "ingredientes_identificados": [
+      "peas",
+      "bread",
+      "rice",
+      "milk",
+      "butter",
+      "cane",
+      "onion",
+      "maize",
+      "chicken",
+      "tomato"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "Naan Bread (52%) (WheatFlour (WheatFlour, Calcium Carbonate, Niacin, Iron, Thiamine), Water, Yoghurt (Milk), Yeast,MilkPowder, Sugar, Salt, Butter Ghee (Milk), Raising Agent (Disodium Diphosphate, Sodium Bicarbonate,WheatFlour (Calcium, Iron, Niacin, Thiamin), Cumin Seeds, Emulsifier: Polyglycerol Esters of Fatty Acids, Rapeseed Oil (Rapeseed Oil, Antifoaming Agent: Dimethyl Polysiloxane), Black Onion Seeds),Sauce (35%) (Mince Beef 15%, Tomato, Water, Coconut Milk (Coconut Cream, Water), Onion, Maize Starch, Ginger, Garlic, Tomato Paste (Tomato, Salt), Desiccated Coconut, Green Chilli, Salt, Rapeseed Oil (Rapeseed Oil, Antifoaming Agent: Dimethyl Polysiloxane), Sugar, Chilli Powder, Coriander Powder, Madras Curry Powder (Coriander, Turmeric, Fenugreek, Salt,Mustard, Garlic, Corn Flour, Fennel, Chilli,Celery, Sunflower Oil, Bay Leaves, Cloves), Garam Masala (Coriander, Cinnamon Ground, Ginger, Cumin, Chilli, Black Pepper, Cloves, Nutmeg, Cardamom, Bay Leaf), Cumin Seeds, Cumin Powder, Fenugreek Powder,MustardSeeds, Curry Leaf Powder, Turmeric Powder, Paprika Powder, Red Chilli Flakes),Pilau Rice (8%) (Rice (Water, Rice), Carrot, Peas, Cumin Seeds, Turmeric Powder, Bay Leaf Powder, Cardamom Powder, Cinnamon Powder),Mango Chutney (3%) (Sugar, Mango Slices, Sugar Cane Vinegar, Salt, Chilli Powder, Ginger Powder, Garlic Powder, Turmeric Powder),Coconut Oil",
+    "ingredientes_identificados": [
+      "peas",
+      "bread",
+      "rice",
+      "milk",
+      "butter",
+      "cane",
+      "onion",
+      "tomato",
+      "maize",
+      "beef"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "INGREDIENTS:British Beef (26%), Coconut-Based Alternative to Milk (Filtered Water, Coconut Milk, Grape Juice Concentrate, Calcium Phosphate, Emulsifier: Sucrose Esters of Fatty Acids; Sea Salt, Colour: Carotenes; Vitamin D2, Vitamin B12), FreeFrom Pasta (Rice Flour, Wholegrain Rice Flour, Maize Flour, Quinoa Flour, Emulsifier: Mono- and Diglycerides of Fatty Acids), Tomato (12%), Onion, Tomato PurÃ©e, Red Wine, Coconut-Based Alternative to Soft Cheese (Water, Coconut Oil,SoyaProtein Concentrate, Salt, Spirit Vinegar, Acidity Regulator: Lactic Acid; Yeast Extract, Flavourings, Sugar, Thickener: Carrageenan; Colour: Paprika Extract), Carrot, Mushroom, Cornflour, Grated Cheddar-Style Coconut-Based Alternative to Cheese (2%) (Water, Coconut Oil, Modified Potato Starch, Gluten FreeOatFibre, Maize Starch, Salt, Modified Maize Starch, Thickeners: Carrageenan, Guar Gum; Yeast Extract, Flavourings, Acidity Regulators: Lactic Acid, Sodium Lactate; Colour: Carotenes), Cauliflower, Garlic PurÃ©e, Salt, Rosemary, Black Pepper,MustardPowder, White Pepper, Nutmeg.",
+    "ingredientes_identificados": [
+      "cheese",
+      "potato",
+      "wine",
+      "rice",
+      "milk",
+      "onion",
+      "grape",
+      "tomato",
+      "maize",
+      "beef"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "Egg Pasta (DurumWheatSemolina, Water, Pasteurised Free-RangeEgg),Tomatoes,Cream (Milk),Milk,Red Wine,British Beef (8%),Cheddar Cheese (Milk),Smoked Bacon (Pork, Water, Salt, Preservatives: Sodium Nitrate, Sodium Nitrite, Potassium Nitrate, Antioxidant Sodium Ascorbate*),British Pork (5%),Onions,Water,Tomato PurÃ©e,Carrots,WheatFlour,Mozzarella Cheese (Milk),Celery,Sunflower Oil,Butter (Milk),Balsamic Vinegar,Chicken Liver,Cornflour,Beef Stock (British Beef, Yeast Extract, Salt, Tomato PurÃ©e, Molasses, Lemon Juice Concentrate, Onion Powder),Garlic PurÃ©e,Fresh Parsley,Salt,Oregano,Sugar,Black Pepper,Star Anise,Nutmeg,White Pepper,*Used in the curing of Smoked Bacon",
+    "ingredientes_identificados": [
+      "cheese",
+      "egg",
+      "tomato",
+      "pork",
+      "milk",
+      "butter",
+      "onion",
+      "wine",
+      "chicken",
+      "beef"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "Gravy (39%) (Water, Modified Maize Starch, Flavouring (Maltodextrin, Flavourings, Sugar, Salt, Thickener (Arabic Gum), Vegetable Oils (Palm Oil, Sunflower Oil, Safflower Oil, Shea Oil), Acidity Regulator (Succinic Acid), Modified Maize Starch), Wheat Flour (WheatFlour, Calcium Carbonate, Iron, Niacin and Thiamin), Butter (Milk), Yeast Extract, Lamb Stock (Yeast Extract (Barley), Water, White Wine Vinegar, Sugar, Lamb Fat, Onion Powder, Tomato Paste, Lemon Juice from Concentrate, Rosemary), Caramelised Sugar, Mint),Roast Potatoes (25%) (Potato, Sunflower Oil, Caramelised Sugar),Cooked Formed Lamb (12%) (Lamb (97%), Salt, Brown Sugar, Sodium Caseinate (Milk), Maltodextrin),Peas (11%),Carrots (9%),Yorkshire Pudding (3.8%) (Wheat Flour (WheatFlour, Calcium Carbonate, Iron, Niacin and Thiamin), Water,EggWhite, Rapeseed Oil,Egg, SkimmedMilkPowder, Salt)",
+    "ingredientes_identificados": [
+      "peas",
+      "egg",
+      "potato",
+      "maize",
+      "butter",
+      "milk",
+      "onion",
+      "wine",
+      "lamb",
+      "tomato"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "flour [flour (),], water, white cheese (), semi-skimmed, duck rillettes 5.8% [duck meat (origin: France), duck fat, pork collar (origin: France), water, salt, pepper], liquid pasteurised whole, smoked salmon [salmon () 4%, salt] , mini cheese and speck involtini 3.7% [cheese (), speck (pork meat (origin: EU), salt, spices, aromatic plants, antioxidant: sodium ascorbate, preservative: sodium nitrite)], brie mix 3.4% [brie () 1.7%, water, butter (), powdered, cassava starch, salt], courgette mix 3.2% (grilled courgette 2.5%, rapeseed oil, lemon juice made from concentrate, salt, garlic, basil), mango compote 3% [mango cubes 1.6%, wheat glucose fructose syrup, sugar, water, aromatic caramel, butter (), lemon juice], sugar, semi-dried black fig (fig 2.6%, antioxidant: ascorbic acid), fresh cheese 2.4% (), slice of duck foie gras with Sichuan pepper 2.4% (duck foie gras (origin: France), water, armagnac, salt, Sichuan pepper 0.01%, pepper, antioxidant: sodium ascorbate, preservative: sodium nitrite), cooked red bell pepper 2.3% (red bell pepper 1.1%, water, vinegar, sugar, salt, firming agent: calcium chloride, antioxidant: ascorbic acid), semi-dried peach 2.3% (peach 1.8%, sugar, acidifier: citric acid, preservative: potassium sorbate, antioxidant: sodium disulfite), butter (), precooked crab meat () 1.7%, honey, peeled and cooked Louisiana crayfish [crayfish () 1.2%, salt], rapeseed oil, transformed potato starch, liquid cream [cream (), stabiliser: carrageenan], powdered whole EGG, flour mix [wholeflour (),, salt, flour treatment agent: ascorbic acid, enzymes), basil mix 0.7% [basil 0.3%, sunflower oil, grated cheese (), water, olive oil, salt, transformed cornstarch, garlic, lemon juice concentrate], tomato flour mix [flour (), yellow flax seed, vital, millet seed, tomato powder 0.05%, chive, basil], fig (fig 0.6%, rice flour), dye: beetroot red,0.6%, trout egg [trout egg () 0.5%, salt], cucumber 0.5%, sunflower oil, tomato purÃ©e,white powder, salt, inverted sugar syrup, bakerÂ¿s yeast,powder, lime juice, coriander, lemon juice, chive, dill, semi-candied lemon zest (wheat glucose-fructose syrup, lemon zest, water, sugar, acidity regulator: citric acid, antioxidant: ascorbic acid), parsley, skimmedpowder, shallot, bread improver [toasted maltedflour (), caramelised sugar powder (wheat and/or maize glucose syrup and caramelised sugar), fat-free cocoa powder,flour ()], basil 0.05%,protein, poppy seed, baking powder (disodium diphosphate, sodium carbonate), cognac (cognac, natural aroma preparation), cinnamon, garlic, spices 0.02% (ginger, nutmeg, clove, pepper), maltedflour (), thickeners (xanthan gum, guar gum), turmeric concentrate.",
+    "ingredientes_identificados": [
+      "cheese",
+      "cassava",
+      "potato",
+      "egg",
+      "pork",
+      "bread",
+      "rice",
+      "butter",
+      "maize",
+      "tomato"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "Allergy Advice: For allergens see highlighted ingredientsMashed Potato Topping: Potato (44%), Carrot (4%), Butter (Milk), White Pepper, Sauce: Tomatoes (13%), Beef Mince (11.5%), Red Onion (6%), Water, Carrot (3%), Apple Juice, Cornflour, Beef Stock (1.5%) [Water, Yeast Extract (Yeast Extract, Salt), Beef Soup Stock, Salt, Lemon Juice Concentrate, Beef Fat], Red Peppers (1%), Apple, Tomato PurÃ©e (1%), Sundried Tomato Sauce (1%) [Sundried Tomatoes, Tomato Paste, Sunflower Oil, Sugar, Salt, Spices (Ground Basil, Oregano, Garlic)], Garlic, Thyme, Basil, Worcester Sauce (Water, Spirit Vinegar, Sugar, Onion, Salt, Tamarind, Cloves, Ginger,BarleyMalt Extract, Garlic), Balsamic Vinegar (Red Wine Vinegar, Concentrated Grape Must), Ground Bay, Cheese Topping: Mature Cheddar Cheese (Milk) (2.5%), Potato Starch",
+    "ingredientes_identificados": [
+      "cheese",
+      "potato",
+      "wine",
+      "butter",
+      "milk",
+      "onion",
+      "grape",
+      "tomato",
+      "apple",
+      "beef"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "Allergy Advice: For allergens see highlighted ingredientsCooked Pasta (40%) (Water, DurumWheatSemolina), Peas (21%), Broccoli (18%), Semi SkimmedMilk, Water, Cheese (4%) (Processed Gorgonzola (Milk) (Water, Gorgonzola Cheese (Milk), Blue Cheese (Milk), Curd (Milk), Butter (Milk), Starch (Potato and Rice), Salt, Whey Powder (Milk),MilkProtein), Vegetarian Gouda (Milk) (contains Natural Colour: Beta-Carotene), Parmesan Cheese (containsMilk)), Sunflower Oil, Onion, Rice Starch, White Wine,WheatFlour, Salt, Vegetable Stock (Dextrose, Salt, Carrot, Onion, Leeks, Shallots, Tomato, Paprika), Spices",
+    "ingredientes_identificados": [
+      "cheese",
+      "peas",
+      "potato",
+      "rice",
+      "milk",
+      "butter",
+      "leeks",
+      "onion",
+      "wine",
+      "tomato"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "Allergy Advice: For allergens see highlighted ingredientsWater, Cooked Pasta (Water,Egg, Maize Starch, Potato Starch,EggAlbumen, Rice Flour, Stabilisers (Hydroxypropyl Methyl Cellulose, Guar Gum), Dextrose, Emulsifier (Mono- and Diglycerides of Fatty Acids), Antioxidants (Lecithins, Fatty Acid Esters of Ascorbic Acid, Alpha-Tocopherol, Citric Acid)), Beef (20%), Tomato PurÃ©e, Onion, Tomato Concentrate, Dried SkimmedMilk, Modified Maize Starch, Butter (Milk), Cream (Milk), Sunflower Oil, Medium Fat Hard Cheese (Cheese (Milk), Lysozyme (Egg)), Coloured Cheddar Cheese (Cheese (Milk), Colour (Annatto)), Carrot, Herbs, Salt, Garlic, Pepper, Nutmeg",
+    "ingredientes_identificados": [
+      "cheese",
+      "egg",
+      "potato",
+      "rice",
+      "butter",
+      "milk",
+      "onion",
+      "tomato",
+      "maize",
+      "beef"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "INGREDIENTS:Potato, single cream (milk),milk, smoked haddock (fish) (8%), cod (fish) (8%), king prawns (crustaceans) (5%), smoked salmon (fish) (4%), white onion, fortified wheat flour (wheatflour, calcium carbonate, iron, niacin, thiamin), water, vermouth, spinach, salted butter (milk), rapeseed oil, butter (milk), mature Cheddar cheese (milk), white wine, lemon juice, cornflour,fishextract, salt, parsley, garlic purÃ©e, onion, white pepper, leeks, carrot, tomato purÃ©e, fennel, yeast, olive oil, caramel syrup, sea salt, paprika, black pepper, garlic, bay leaf, white peppercorns, thyme.",
+    "ingredientes_identificados": [
+      "cheese",
+      "potato",
+      "crustaceans",
+      "milk",
+      "butter",
+      "leeks",
+      "fish",
+      "onion",
+      "wine",
+      "tomato"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "INGREDIENTS:Potato, single cream (milk),milk, smoked haddock (fish) (8%), cod (fish) (8%), king prawns (crustaceans) (5%), smoked salmon (fish) (4%), white onion, fortified wheat flour (wheatflour, calcium carbonate, iron, niacin, thiamin), water, vermouth, spinach, salted butter (milk), rapeseed oil, butter (milk), mature Cheddar cheese (milk), white wine, lemon juice, cornflour,fishextract, salt, parsley, garlic purÃ©e, onion, white pepper, leeks, carrot, tomato purÃ©e, fennel, yeast, olive oil, caramel syrup, sea salt, paprika, black pepper, garlic, bay leaf, white peppercorns, thyme.",
+    "ingredientes_identificados": [
+      "cheese",
+      "potato",
+      "crustaceans",
+      "milk",
+      "butter",
+      "leeks",
+      "fish",
+      "onion",
+      "wine",
+      "tomato"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "INGREDIENTS:Beef (15%), cooked free range egg pasta sheet (water, durumwheatsemolina, pasteurised free rangeegg, pasteurised free rangeeggalbumen), pork (15%), tomatoes, red wine, wholemilk, single cream (milk), tomato purÃ©e, onion, cornflour, smoked bacon (pork, water, salt, preservatives (sodium nitrite, potassium nitrate), antioxidant (sodium ascorbate)), fortified wheat flour (wheatflour, calcium carbonate, iron, niacin, thiamin), carrot, medium mature Cheddar cheese (milk), extra mature Cheddar cheese (milk),celery, rapeseed oil, skimmedmilk, butter (milk), beef extract, white balsamic vinegar (white wine vinegar, grape must), oregano, salt, garlic purÃ©e, Parmigiano Reggiano cheese (milk), caramelised sugar powder, parsley, sugar, concentrated onion juice, black pepper, nutmeg, white pepper, ground bay.",
+    "ingredientes_identificados": [
+      "cheese",
+      "egg",
+      "tomato",
+      "pork",
+      "milk",
+      "butter",
+      "onion",
+      "grape",
+      "wine",
+      "beef"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "INGREDIENTS:beef (15%), cooked free range egg pasta sheet (water, durumwheatsemolina, pasteurised free rangeegg, pasteurised free rangeeggalbumen), pork (15%), tomatoes, red wine, wholemilk, single cream (milk), tomato purÃ©e, onion, cornflour, smoked bacon (pork, water, salt, preservatives (sodium nitrite, potassium nitrate), antioxidant (sodium ascorbate)), fortified wheat flour (wheatflour, calcium carbonate, iron, niacin, thiamin), carrot, medium mature Cheddar cheese (milk), extra mature Cheddar cheese (milk),celery, rapeseed oil, skimmedmilk, butter (milk), beef extract, white balsamic vinegar (white wine vinegar, grape must), oregano, salt, garlic purÃ©e, Parmigiano Reggiano cheese (milk), caramelised sugar powder, parsley, sugar, concentrated onion juice, black pepper, nutmeg, white pepper, ground bay.",
+    "ingredientes_identificados": [
+      "cheese",
+      "egg",
+      "tomato",
+      "pork",
+      "milk",
+      "butter",
+      "onion",
+      "grape",
+      "wine",
+      "beef"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "INGREDIENTS:cooked macaroni pasta (water, durumwheatsemolina),milk, mature Cheddar cheese (milk) (14%), water, vintage Cheddar cheese (milk) (12%), fortified wheat flour (wheatflour, calcium carbonate, iron, niacin, thiamin), single cream (milk), rapeseed oil, cornflour, salt, potato starch,mustardflour, white pepper, parsley, yeast, sugar,wheatflour, citric acid, turmeric.INGREDIENTS:beef (36%) (beef, salt), fortified wheat flour (wheatflour, calcium carbonate, iron, niacin, thiamin), crÃ¨me fraÃ®che (milk), rapeseed oil, red onion, pasteurised free rangeegg, pasteurised free rangeeggwhite, water, coarse grain mustard (2%) (white wine vinegar, water,mustardseeds, honey, salt,mustardhusk, natural flavouring, tarragon), sugar, white wine vinegar, muscovado sugar, cornflour, honey, single cream (milk), skimmedmilkpowder, salt, spirit vinegar,mustardseeds, red wine vinegar, horseradish, molasses, dried pasteurised free rangeegg,mustardflour,barleymalt extract, yellowmustardseeds.INGREDIENTS:wheatflour, water, palm oil, smoked ham (12%) (pork, wheat dextrose, salt, stabiliser (pentasodium triphosphate), antioxidant (sodium ascorbate), preservative (sodium nitrite)), Cheddar cheese (milk) (12%), single cream (milk), cornflour, salt,milk, potato starch, emulsifier (mono- and diglycerides of fatty acids), lemon juice, natural flavouring, onion powder, rapeseed oil,milkproteins, pea protein, white pepper.INGREDIENTS:wheatflour, tomato sauce (tomato, water, passata, tomato purÃ©e, olive oil, garlic purÃ©e, sugar, cornflour, concentrated vegetable juices [beetroot, onion, carrot, leek], basil, salt, black pepper), Cheddar cheese (milk) (15%), palm oil, mozzarella cheese (milk) (10%), water, potato starch, salt,milk, emulsifier (mono- and diglycerides of fatty acids), lemon juice, natural flavouring, rapeseed oil,milkproteins, pea protein.INGREDIENTS:smoked bacon (37%) (pork, salt, white sugar, preservatives (sodium nitrite, potassium nitrate)),wheatflour, water, palm fat, mature Cheddar cheese (milk) (9%), parsley, salt, emulsifier (mono- and diglycerides of fatty acids), citric acid, colour (carotenes), natural flavouring.INGREDIENTS:beef (47%), spring onion, water, fortified wheat flour (wheatflour, calcium carbonate, iron, niacin, thiamin), ginger purÃ©e, red pepper, mirin, muscovado sugar, dark brown sugar, salt, coriander, pea flour, dried red bell peppers, nigella seeds, garlic purÃ©e, cornflour, dried parsley, emulsifiers (tetrasodium diphosphate, disodium diphosphate), glucose,barleymalt extract, ginger,soyabeans, black pepper, spirit vinegar, preservative (sodiummetabisulphite), red chilli.Pork cocktail sausageINGREDIENTS:pork (70%), water, onion, potato starch, rice flour, pea flour, salt, emulsifiers (tetrasodium diphosphate, disodium diphosphate, glyceryl monostearate), dextrose monohydrate, bamboo fibre, preservative (sodiummetabisulphite), white pepper, black pepper, mace, dried ginger, caramelised sugar syrup, paprika extract.Filled into natural sheep casings.Pork, chestnut, apple & date cocktail sausageINGREDIENTS:pork (65%), smoked chestnuts (7%), onion, dates (4%), Bramley apple (4%), preservative (sulphur dioxide), dried cranberries, potato starch, dried apple (2.0%), sugar, parsley, pea flour, salt, sage, black pepper, rice flour, white pepper, mace, sunflower oil.Filled into natural sheep casings.Orange & juniper glazeINGREDIENTS:water, brown sugar, sugar, orange juice from concentrate (11%), sloe gin, cornflour, redcurrant juice from concentrate, juniper berries (2.0%), red wine vinegar, orange zest, salt, gelling agent (pectin), fennel, allspice.",
+    "ingredientes_identificados": [
+      "cheese",
+      "tomato",
+      "potato",
+      "pork",
+      "rice",
+      "milk",
+      "onion",
+      "wine",
+      "apple",
+      "beef"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "Wheatflour, FORTIFIED WHEAT FLOUR (wheatflour, calcium carbonate, iron, niacin, thiamin), water, palm oil, pasteurised free rangeegg, SMOKED SALMON (6%) (salmon (fish), salt, demerara sugar), low fat soft cheese (milk), brie cheese (milk) (4%), feta cheese (milk), CHICKEN BREAST (3%) (chicken breast, cornflour, salt), mascarpone cheese (milk),milk, roasted mushrooms, blue Stilton cheese (milk) (2%), grapes, sunflower oil, red pepper, yellow pepper, red onion, courgette, crÃ¨me fraÃ®che (milk), gooseberries, onion, basil, maltedwheatflakes, cucumber, sugar, rapeseed oil, tomato purÃ©e, salt, single cream (milk), cornflour, tomato, medium fat hard cheese (milk), olive oil,wheatbran, chives,wheatsemolina, butter (milk), lemon juice, yeast, emulsifiers mono- and diglycerides of fatty acids and mono- and diacetyl tartaric acid esters of mono- and diglycerides of fatty acids, red wine vinegar, maltedbarleyflour, spirit vinegar, flavouring, black pepper, lemon zest,wheatgluten, pasteurisedeggyolk, concentrated apple juice, cider vinegar,barleymalt flour, thyme, maltedwheatflour, grape must concentrate,wheatprotein, white pepper, dill, gelling agent pectin, ginger purÃ©e, marjoram, oregano, ground bay leaf, sage, parsley",
+    "ingredientes_identificados": [
+      "cheese",
+      "milk",
+      "butter",
+      "apple",
+      "fish",
+      "onion",
+      "grape",
+      "wine",
+      "chicken",
+      "tomato"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "INGREDIENTS:chicken breast (71%), BBQ sauce sachet (water, white sugar, wheat glucose syrup, tomato paste, white wine vinegar, cornflour, cane molasses, roasted onion purÃ©e, red chilli purÃ©e, salt, black treacle, spirit vinegar, caramelised sugar, garlic purÃ©e, smoked water, gelling agent (pectin), concentrated lemon juice, tamarind paste, smoked paprika, black pepper, onion powder, garlic powder, white pepper, pimento, ginger, paprika, clove), smoked bacon (7%) (pork belly, water, salt, preservatives (sodium nitrate, sodium nitrite), antioxidant (sodium ascorbate)), cream cheese (milk), Cheddar cheese (milk), vintage Cheddar cheese (milk), single cream (milk), water, parsley, cornflour, smoked paprika, potato starch, brown sugar, garlic powder, onion powder, citrus fibre, red pepper powder, chipotle chilli powder, cumin, salt, cayenne pepper, chilli powder, fennel powder, smoked salt, black pepper, rapeseed oil, oregano.",
+    "ingredientes_identificados": [
+      "cheese",
+      "potato",
+      "pork",
+      "citrus",
+      "milk",
+      "cane",
+      "onion",
+      "wine",
+      "chicken",
+      "tomato"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "INGREDIENTS:white bread (fortified wheat flour (wheatflour, calcium carbonate, iron, niacin, thiamin), water, salt, yeast, emulsifiers (mono- and diglycerides of fatty acids, mono- and diacetyl tartaric acid esters of mono- and diglycerides of fatty acids), spirit vinegar,wheatprotein, rapeseed oil, palm oil, palm fat), rare roast beef (33%) (beef, salt), horseradish sauce (11%) (water, single cream (milk), spirit vinegar, sugar, rapeseed oil, horseradish, cornflour, skimmedmilkpowder, dried pasteurised free rangeegg,mustardflour, salt), rocket.INGREDIENTS:malted bread (fortified wheat flour (wheatflour, calcium carbonate, iron, niacin, thiamin), water, maltedwheatflakes,wheatbran,wheatprotein, salt, maltedbarleyflour, yeast, emulsifiers (mono- and diglycerides of fatty acids, mono- and diacetyl tartaric acid esters of mono- and diglycerides of fatty acids), spirit vinegar, maltedwheatflour, rapeseed oil, palm fat, palm oil), roast chicken breast (24%) (chicken breast, cornflour, salt), smoked bacon (12%) (pork belly, salt, antioxidant (sodium ascorbate), preservative (sodium nitrite)), reduced fat mayonnaise (water, rapeseed oil, spirit vinegar, cornflour, pasteurised free rangeeggyolk, sugar, salt, citrus fibre, stabiliser (pectin), concentrated lemon juice), mayonnaise (rapeseed oil, water, pasteurised free rangeeggyolk, spirit vinegar, sugar, cornflour, salt, concentrated lemon juice).INGREDIENTS:white bread (fortified wheat flour (wheatflour, calcium carbonate, iron, niacin, thiamin), water, salt, yeast, emulsifiers (mono- and diglycerides of fatty acids, mono- and diacetyl tartaric acid esters of mono- and diglycerides of fatty acids), spirit vinegar,wheatprotein, rapeseed oil, palm oil, palm fat), smoked ham (25%) (pork, wheat dextrose, salt, stabiliser (pentasodium triphosphate), antioxidant (sodium ascorbate), preservative (sodium nitrite)), mixed leaves, tomatoes, mustard mayonnaise (water, cornflour, rapeseed oil, spirit vinegar, pasteurised free rangeeggyolk, blackmustardseeds, sugar, stabiliser (pectin), salt, concentrated lemon juice,mustardflour,mustardflour bran, turmeric), cucumber.INGREDIENTS:malted bread (fortified wheat flour (wheatflour, calcium carbonate, iron, niacin, thiamin), water, maltedwheatflakes,wheatbran,wheatprotein, salt, maltedbarleyflour, yeast, emulsifiers (mono- and diglycerides of fatty acids, mono- and diacetyl tartaric acid esters of mono- and diglycerides of fatty acids), spirit vinegar, maltedwheatflour, rapeseed oil, palm fat, palm oil), roast chicken breast (20%) (chicken breast, cornflour, salt), coronation curry mayonnaise (rapeseed oil, water, spirit vinegar, pasteurised free rangeegg, cornflour, pasteurised free rangeeggyolk, sugar, sultanas, salt, onion powder, red wine, fortified wheat flour (wheatflour, calcium carbonate, iron, niacin, thiamin), concentrated lemon juice, ground coriander, cumin, onion purÃ©e, ground fenugreek, ginger, ground clove, cayenne pepper, fennel, turmeric,mustardpowder, tomato powder, colours (turmeric extract, plain caramel), tomato paste, garlic powder, leek extract, ground cardamom, ground cinnamon, black pepper), cucumber, spinach, dried apricots (3%) (dried apricots, rice flour, preservative (sulphur dioxide)), dried sultanas, coriander.",
+    "ingredientes_identificados": [
+      "tomato",
+      "pork",
+      "bread",
+      "citrus",
+      "rice",
+      "milk",
+      "onion",
+      "wine",
+      "chicken",
+      "beef"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "Egg Pasta (DurumWheatSemolina, Water, Pasteurised Free-RangeEgg), Tomatoes, Cream (Milk),Milk, Red Wine, British Beef (8%), Cheddar Cheese (Milk), Smoked Bacon (Pork, Water, Salt, Preservatives: Sodium Nitrate, Sodium Nitrite, Potassium Nitrate, Antioxidant Sodium Ascorbate*), British Pork (5%), Onions, Water, Tomato PurÃ©e, Carrots,WheatFlour, Mozzarella Cheese (Milk),Celery, Sunflower Oil, Butter (Milk), Balsamic Vinegar, Chicken Liver, Cornflour, Beef Stock (British Beef, Yeast Extract, Salt, Tomato PurÃ©e, Molasses, Lemon Juice Concentrate, Onion Powder), Garlic PurÃ©e, Fresh Parsley, Salt, Oregano, Sugar, Black Pepper, Star Anise, Nutmeg, White Pepper, *Used in the curing of Smoked Bacon",
+    "ingredientes_identificados": [
+      "cheese",
+      "egg",
+      "tomato",
+      "pork",
+      "milk",
+      "butter",
+      "onion",
+      "wine",
+      "chicken",
+      "beef"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "Egg Pasta (DurumWheatSemolina, Water, Pasteurised Free-RangeEgg), Tomatoes, Cream (Milk),Milk, Red Wine, British Beef (8%), Cheddar Cheese (Milk), Smoked Bacon (Pork, Water, Salt, Preservatives: Sodium Nitrate, Sodium Nitrite, Potassium Nitrate, Antioxidant, Sodium Ascorbate*), British Pork (5%), Onions, Tomato PurÃ©e, Water, Carrots,WheatFlour, Mozzarella Cheese (Milk),Celery, Sunflower Oil, Butter (Milk), Balsamic Vinegar, Chicken Liver, Cornflour, Beef Stock (British Beef, Yeast Extract, Salt, Tomato PurÃ©e, Molasses, Lemon Juice Concentrate, Onion Powder), Garlic PurÃ©e, Fresh Parsley, Salt, Oregano, Sugar, Black Pepper, Star Anise, Nutmeg, White Pepper, *Don't worry, this is part of the traditional curing method of Smoked Bacon",
+    "ingredientes_identificados": [
+      "cheese",
+      "egg",
+      "tomato",
+      "pork",
+      "milk",
+      "butter",
+      "onion",
+      "wine",
+      "chicken",
+      "beef"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "Water, British Beef (14%), Rice, Tomatoes, Red Kidney Beans, Red Peppers, Onions, Black-Eyed Beans, White Wine, Passata, Sweetcorn, Carrots, Cheddar Cheese (Milk), Lemon Juice, Chorizo (Pork, Paprika, Salt, Garlic),Celery, SunblushÂ® Tomatade (SunBlushÂ® Tomatoes, Tomato Concentrate, Sunflower Oil, Olive Oil, Salt, Oregano, Sugar, Garlic), Tomato PurÃ©e, Rapeseed Oil, Garlic PurÃ©e, Lime Juice, Soya Sauce (Water,SoyaBeans,Wheat, Salt, Alcohol), Honey, Beef Stock (British Beef, Yeast Extract, Salt, Tomato PurÃ©e, Molasses, Lemon Juice Concentrate, Onion Powder), Chicken Stock (Chicken, Dried Potato, Water, Yeast Extract, Salt, Chicken Fat), Cornflour, Parsley, Oregano, Red Pepper Flakes, Salt, Ground Cumin, Chipotle Chilli (Smoked Chipotle Chilli, Water, Vinegar, Sugar, Salt, Natural Flavouring, Garlic), Fortified Wheat Flour (WheatFlour, Calcium Carbonate, Iron, Niacin, Thiamin), White Wine Vinegar, Ground Coriander, Smoked Paprika, Black Pepper, Chillies, Thyme, Paprika Oil, Ground Star Anise, Ground Bay Leaf",
+    "ingredientes_identificados": [
+      "cheese",
+      "tomato",
+      "potato",
+      "pork",
+      "rice",
+      "milk",
+      "onion",
+      "wine",
+      "chicken",
+      "beef"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "INGREDIENTS:Beef (46%), water, white onions, smoked bacon lardons (5%) (pork belly, water, salt, preservative (sodium nitrate), antioxidant (sodium ascorbate)), chianti red wine (5%), button mushrooms, cornflour, unsalted butter (milk), beef concentrate, tomato purÃ©e, thyme,barleymalt extract, rice flour, potato flour, tapioca flour, maize flour, buckwheat flour, salt, sugar, rosemary, cracked black pepper, concentrated onion juice.",
+    "ingredientes_identificados": [
+      "tomato",
+      "potato",
+      "pork",
+      "rice",
+      "milk",
+      "butter",
+      "onion",
+      "wine",
+      "maize",
+      "beef"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "Potatoes (32%), Lamb (23%), Water, Red Wine (6%) (contains: Preservative: Potassium), Onions,, Gluten Free White Bread (contains: Water, Potato Flour, Corn Starch, Tapioca Starch, White Rice Flour, Buckwheat Flour, Thickening Agent (Xanthan Gum, Cellulose, Agar Agar), Binding Agent (Glycerol), Yeast, Rice Bran, Apple Juice Concentrate, Pea Protein, Sourdough (Fermented Quinoa, Rice and Maize Flour), Salt, Psyllium Husk, Rapeseed Oil, Acids (Citric Acid, Malic Acid, Tartaric Acid), Flour Treatment Agent (Ascorbic Acid)), Carrots (2%), Lamb Glace (contains: Concentrated Broth from Lamb (Meat, Water), Maltodextrin (Potato), Yeast Extract, Salt, Glucose, Vegetable Concentrates (Onion, Carrot,, Leek, Garlic), Emulsifier (Mono- and Diglycerides of Fatty Acids) Herb & Spice Oils (Nutmeg, Laurel, Tarragon, Rosemary, Pepper, Thyme)), Cornflour, Redcurrant Jelly (contains: Sugar, Water, Redcurrant Juice Concentrate, Gelling Agent (Pectin), Dextrose), Butter, Rapeseed Oil, Free Range PasteurisedYolk, Garlic, Tomato Puree, Mascarpone (contains:Cream, Pasteurised Cow's, Acidity Regulator: Citric Acid), Salt, Rosemary, Gravy Browning, Mint, White Pepper.",
+    "ingredientes_identificados": [
+      "potato",
+      "maize",
+      "bread",
+      "rice",
+      "butter",
+      "onion",
+      "wine",
+      "lamb",
+      "apple",
+      "tomato"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "Potatoes (32%), Lamb (23%), Water, Red Wine (6%) (contains: Preservative: Potassium), Onions,, Gluten Free White Bread (contains: Water, Potato Flour, Corn Starch, Tapioca Starch, White Rice Flour, Buckwheat Flour, Thickening Agent (Xanthan Gum, Cellulose, Agar Agar), Binding Agent (Glycerol), Yeast, Rice Bran, Apple Juice Concentrate, Pea Protein, Sourdough (Fermented Quinoa, Rice and Maize Flour), Salt, Psyllium Husk, Rapeseed Oil, Acids (Citric Acid, Malic Acid, Tartaric Acid), Flour Treatment Agent (Ascorbic Acid)), Carrots (2%), Lamb Glace (contains: Concentrated Broth from Lamb (Meat, Water), Maltodextrin (Potato), Yeast Extract, Salt, Glucose, Vegetable Concentrates (Onion, Carrot,, Leek, Garlic), Emulsifier (Mono- and Diglycerides of Fatty Acids) Herb & Spice Oils (Nutmeg, Laurel, Tarragon, Rosemary, Pepper, Thyme)), Cornflour, Redcurrant Jelly (contains: Sugar, Water, Redcurrant Juice Concentrate, Gelling Agent (Pectin), Dextrose), Butter, Rapeseed Oil, Free Range PasteurisedYolk, Garlic, Tomato Puree, Mascarpone (contains:Cream, Pasteurised Cow's, Acidity Regulator: Citric Acid), Salt, Rosemary, Gravy Browning, Mint, White Pepper.",
+    "ingredientes_identificados": [
+      "potato",
+      "maize",
+      "bread",
+      "rice",
+      "butter",
+      "onion",
+      "wine",
+      "lamb",
+      "apple",
+      "tomato"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "Potatoes (32%), Lamb (23%), Water, Red Wine (6%) (contains: Preservative: Potassium), Onions,, Gluten Free White Bread (contains: Water, Potato Flour, Corn Starch, Tapioca Starch, White Rice Flour, Buckwheat Flour, Thickening Agent (Xanthan Gum, Cellulose, Agar Agar), Binding Agent (Glycerol), Yeast, Rice Bran, Apple Juice Concentrate, Pea Protein, Sourdough (Fermented Quinoa, Rice and Maize Flour), Salt, Psyllium Husk, Rapeseed Oil, Acids (Citric Acid, Malic Acid, Tartaric Acid), Flour Treatment Agent (Ascorbic Acid)), Carrots (2%), Lamb Glace (contains: Concentrated Broth from Lamb (Meat, Water), Maltodextrin (Potato), Yeast Extract, Salt, Glucose, Vegetable Concentrates (Onion, Carrot,, Leek, Garlic), Emulsifier (Mono- and Diglycerides of Fatty Acids) Herb & Spice Oils (Nutmeg, Laurel, Tarragon, Rosemary, Pepper, Thyme)), Cornflour, Redcurrant Jelly (contains: Sugar, Water, Redcurrant Juice Concentrate, Gelling Agent (Pectin), Dextrose), Butter, Rapeseed Oil, Free Range PasteurisedYolk, Garlic, Tomato Puree, Mascarpone (contains:Cream, Pasteurised Cow's, Acidity Regulator: Citric Acid), Salt, Rosemary, Gravy Browning, Mint, White Pepper.",
+    "ingredientes_identificados": [
+      "potato",
+      "maize",
+      "bread",
+      "rice",
+      "butter",
+      "onion",
+      "wine",
+      "lamb",
+      "apple",
+      "tomato"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "Potatoes (32%), Lamb (23%), Water, Red Wine (6%) (contains: Preservative: Potassium), Onions,, Gluten Free White Bread (contains: Water, Potato Flour, Corn Starch, Tapioca Starch, White Rice Flour, Buckwheat Flour, Thickening Agent (Xanthan Gum, Cellulose, Agar Agar), Binding Agent (Glycerol), Yeast, Rice Bran, Apple Juice Concentrate, Pea Protein, Sourdough (Fermented Quinoa, Rice and Maize Flour), Salt, Psyllium Husk, Rapeseed Oil, Acids (Citric Acid, Malic Acid, Tartaric Acid), Flour Treatment Agent (Ascorbic Acid)), Carrots (2%), Lamb Glace (contains: Concentrated Broth from Lamb (Meat, Water), Maltodextrin (Potato), Yeast Extract, Salt, Glucose, Vegetable Concentrates (Onion, Carrot,, Leek, Garlic), Emulsifier (Mono- and Diglycerides of Fatty Acids) Herb & Spice Oils (Nutmeg, Laurel, Tarragon, Rosemary, Pepper, Thyme)), Cornflour, Redcurrant Jelly (contains: Sugar, Water, Redcurrant Juice Concentrate, Gelling Agent (Pectin), Dextrose), Butter, Rapeseed Oil, Free Range PasteurisedYolk, Garlic, Tomato Puree, Mascarpone (contains:Cream, Pasteurised Cow's, Acidity Regulator: Citric Acid), Salt, Rosemary, Gravy Browning, Mint, White Pepper.",
+    "ingredientes_identificados": [
+      "potato",
+      "maize",
+      "bread",
+      "rice",
+      "butter",
+      "onion",
+      "wine",
+      "lamb",
+      "apple",
+      "tomato"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "Potatoes (32%), Lamb (23%), Water, Red Wine (6%) (contains: Preservative: Potassium), Onions,, Gluten Free White Bread (contains: Water, Potato Flour, Corn Starch, Tapioca Starch, White Rice Flour, Buckwheat Flour, Thickening Agent (Xanthan Gum, Cellulose, Agar Agar), Binding Agent (Glycerol), Yeast, Rice Bran, Apple Juice Concentrate, Pea Protein, Sourdough (Fermented Quinoa, Rice and Maize Flour), Salt, Psyllium Husk, Rapeseed Oil, Acids (Citric Acid, Malic Acid, Tartaric Acid), Flour Treatment Agent (Ascorbic Acid)), Carrots (2%), Lamb Glace (contains: Concentrated Broth from Lamb (Meat, Water), Maltodextrin (Potato), Yeast Extract, Salt, Glucose, Vegetable Concentrates (Onion, Carrot,, Leek, Garlic), Emulsifier (Mono- and Diglycerides of Fatty Acids) Herb & Spice Oils (Nutmeg, Laurel, Tarragon, Rosemary, Pepper, Thyme)), Cornflour, Redcurrant Jelly (contains: Sugar, Water, Redcurrant Juice Concentrate, Gelling Agent (Pectin), Dextrose), Butter, Rapeseed Oil, Free Range PasteurisedYolk, Garlic, Tomato Puree, Mascarpone (contains:Cream, Pasteurised Cow's, Acidity Regulator: Citric Acid), Salt, Rosemary, Gravy Browning, Mint, White Pepper.",
+    "ingredientes_identificados": [
+      "potato",
+      "maize",
+      "bread",
+      "rice",
+      "butter",
+      "onion",
+      "wine",
+      "lamb",
+      "apple",
+      "tomato"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "Potatoes (32%), Lamb (23%), Water, Red Wine (6%) (contains: Preservative: Potassium), Onions,, Gluten Free White Bread (contains: Water, Potato Flour, Corn Starch, Tapioca Starch, White Rice Flour, Buckwheat Flour, Thickening Agent (Xanthan Gum, Cellulose, Agar Agar), Binding Agent (Glycerol), Yeast, Rice Bran, Apple Juice Concentrate, Pea Protein, Sourdough (Fermented Quinoa, Rice and Maize Flour), Salt, Psyllium Husk, Rapeseed Oil, Acids (Citric Acid, Malic Acid, Tartaric Acid), Flour Treatment Agent (Ascorbic Acid)), Carrots (2%), Lamb Glace (contains: Concentrated Broth from Lamb (Meat, Water), Maltodextrin (Potato), Yeast Extract, Salt, Glucose, Vegetable Concentrates (Onion, Carrot,, Leek, Garlic), Emulsifier (Mono- and Diglycerides of Fatty Acids) Herb & Spice Oils (Nutmeg, Laurel, Tarragon, Rosemary, Pepper, Thyme)), Cornflour, Redcurrant Jelly (contains: Sugar, Water, Redcurrant Juice Concentrate, Gelling Agent (Pectin), Dextrose), Butter, Rapeseed Oil, Free Range PasteurisedYolk, Garlic, Tomato Puree, Mascarpone (contains:Cream, Pasteurised Cow's, Acidity Regulator: Citric Acid), Salt, Rosemary, Gravy Browning, Mint, White Pepper.",
+    "ingredientes_identificados": [
+      "potato",
+      "maize",
+      "bread",
+      "rice",
+      "butter",
+      "onion",
+      "wine",
+      "lamb",
+      "apple",
+      "tomato"
+    ],
+    "num_ingredientes": 10
+  },
+  {
+    "ingredients_text": "Potatoes (32%), Lamb (23%), Water, Red Wine (6%) (contains: Preservative: Potassium), Onions,, Gluten Free White Bread (contains: Water, Potato Flour, Corn Starch, Tapioca Starch, White Rice Flour, Buckwheat Flour, Thickening Agent (Xanthan Gum, Cellulose, Agar Agar), Binding Agent (Glycerol), Yeast, Rice Bran, Apple Juice Concentrate, Pea Protein, Sourdough (Fermented Quinoa, Rice and Maize Flour), Salt, Psyllium Husk, Rapeseed Oil, Acids (Citric Acid, Malic Acid, Tartaric Acid), Flour Treatment Agent (Ascorbic Acid)), Carrots (2%), Lamb Glace (contains: Concentrated Broth from Lamb (Meat, Water), Maltodextrin (Potato), Yeast Extract, Salt, Glucose, Vegetable Concentrates (Onion, Carrot,, Leek, Garlic), Emulsifier (Mono- and Diglycerides of Fatty Acids) Herb & Spice Oils (Nutmeg, Laurel, Tarragon, Rosemary, Pepper, Thyme)), Cornflour, Redcurrant Jelly (contains: Sugar, Water, Redcurrant Juice Concentrate, Gelling Agent (Pectin), Dextrose), Butter, Rapeseed Oil, Free Range PasteurisedYolk, Garlic, Tomato Puree, Mascarpone (contains:Cream, Pasteurised Cow's, Acidity Regulator: Citric Acid), Salt, Rosemary, Gravy Browning, Mint, White Pepper.",
+    "ingredientes_identificados": [
+      "potato",
+      "maize",
+      "bread",
+      "rice",
+      "butter",
+      "onion",
+      "wine",
+      "lamb",
+      "apple",
+      "tomato"
+    ],
+    "num_ingredientes": 10
+  }
+]
