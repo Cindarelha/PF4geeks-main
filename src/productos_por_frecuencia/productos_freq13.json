@@ -2,19 +2,19 @@
   {
     "ingredients_text": "INGREDIENTS:brown poppy seed bread (fortified wheat flour (wheatflour, calcium carbonate, iron, niacin, thiamin), water,wheatbran, poppy seeds, yeast, salt, spirit vinegar,wheatprotein, sugar, emulsifiers (mono- and diglycerides of fatty acids, mono- and diacetyl tartaric acid esters of mono- and diglycerides of fatty acids), rapeseed oil, palm oil, palm fat), pasteurised free rangeegg(34%), semi dried tomatoes (10%) (tomato, sunflower oil, salt, garlic, oregano), mayonnaise (rapeseed oil, water, pasteurised free rangeeggyolk, spirit vinegar, sugar, cornflour, salt, concentrated lemon juice), watercress, black pepper, salt.INGREDIENTS:oatmeal bread (fortified wheat flour (wheatflour, calcium carbonate, iron, niacin, thiamin), water,oatmeal,wheatbran, yeast, salt,wheatprotein, spirit vinegar, emulsifiers (mono- and diglycerides of fatty acids, mono- and diacetyl tartaric acid esters of mono- and diglycerides of fatty acids), rapeseed oil, maltedbarleyflour, palm oil, palm fat), Scottish smoked salmon (28%) (salmon (Salmo salar) (fish), salt, demerara sugar), reduced fat soft cheese (milk) (12%), full fat soft cheese (milk) (12%), unsalted butter (milk), black pepper, concentrated lemon juice.INGREDIENTS:malted bread (fortified wheat flour (wheatflour, calcium carbonate, iron, niacin, thiamin), water, maltedwheatflakes,wheatbran,wheatprotein, salt, maltedbarleyflour, yeast, emulsifiers (mono- and diglycerides of fatty acids, mono- and diacetyl tartaric acid esters of mono- and diglycerides of fatty acids), spirit vinegar, maltedwheatflour, rapeseed oil, palm fat, palm oil), roast chicken breast (20%) (chicken breast, cornflour, salt), coronation curry mayonnaise (15%) (rapeseed oil, water, spirit vinegar, pasteurised free rangeegg, cornflour, pasteurised free rangeeggyolk, sugar, sultanas, salt, onion powder, red wine, fortified wheat flour (wheatflour, calcium carbonate, iron, niacin, thiamin), concentrated lemon juice, ground coriander, cumin, onion purÃ©e, ground fenugreek, ginger, ground clove, cayenne pepper, fennel, turmeric,mustardpowder, tomato powder, colours (turmeric extract, plain caramel), tomato paste, garlic powder, leek extract, ground cardamom, ground cinnamon, black pepper), cucumber, spinach, dried apricots (3%) (dried apricots, rice flour, preservative (sulphur dioxide)), dried sultanas, coriander.INGREDIENTS:rye bread (fortified wheat flour (wheatflour, calcium carbonate, iron, niacin, thiamin), water,ryeflour, maltedbarleyflour,wheatprotein, yeast, emulsifiers (mono- and diglycerides of fatty acids, mono- and diacetyl tartaric acid esters of mono- and diglycerides of fatty acids), salt substitute (potassium chloride), spirit vinegar, salt, rapeseed oil, palm oil, palm fat), pastrami (24%) (beef silverside, salt, stabilisers (diphosphates, triphosphates), black pepper, antioxidant (sodium ascorbate), preservative (sodium nitrite)), mayonnaise (water, rapeseed oil, spirit vinegar, cornflour, pasteurised free rangeeggyolk, sugar, salt, citrus fibre, stabiliser (pectin), concentrated lemon juice), Emmental cheese (milk) (7%), pickled white cabbage (white cabbage, white wine, salt), gherkins (gherkins,barleymalt vinegar), mustard (water, spirit vinegar,mustardflour,mustardflour bran, cornflour, turmeric, salt).",
     "ingredientes_identificados": [
-      "cheese",
-      "bread",
-      "beef",
-      "citrus",
-      "oatmeal",
-      "rice",
-      "milk",
-      "butter",
-      "fish",
-      "onion",
-      "wine",
       "chicken",
-      "tomato"
+      "bread",
+      "cheese",
+      "citrus",
+      "butter",
+      "beef",
+      "fish",
+      "oatmeal",
+      "tomato",
+      "wine",
+      "milk",
+      "onion",
+      "rice"
     ],
     "num_ingredientes": 13
   }
